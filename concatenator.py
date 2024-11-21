@@ -8,6 +8,67 @@ from datetime import datetime
 import time
 from contextlib import contextmanager
 import shutil
+from geopy.geocoders import Nominatim
+from geopy.distance import geodesic
+from geopy.exc import GeocoderTimedOut, GeocoderUnavailable
+from functools import lru_cache
+
+
+# Coordonnées fixes de Bordeaux
+BORDEAUX_COORDS = (44.837789, -0.57918)  # Latitude, Longitude
+
+@lru_cache(maxsize=128)
+def get_city_coordinates(city_name):
+    """
+    Obtient les coordonnées d'une ville avec mise en cache.
+    
+    Args:
+        city_name (str): Nom de la ville
+        
+    Returns:
+        tuple: (latitude, longitude) ou None si non trouvé
+    """
+    if not city_name or city_name == 'N/A':
+        return None
+        
+    try:
+        geolocator = Nominatim(user_agent="flight_scraper")
+        location = geolocator.geocode(f"{city_name}, France")
+        if location:
+            return (location.latitude, location.longitude)
+        return None
+    except (GeocoderTimedOut, GeocoderUnavailable) as e:
+        logger.error(f"Erreur de géocodage pour {city_name}: {str(e)}")
+        return None
+
+def format_coordinates(coords):
+    """
+    Formate les coordonnées en chaîne de caractères.
+    """
+    if coords is None:
+        return None
+    return f"{coords[0]}, {coords[1]}"
+
+def calculate_distance_and_coordinates(row):
+    """
+    Calcule la distance et récupère les coordonnées pour une ligne du DataFrame.
+    
+    Returns:
+        dict: Dictionnaire contenant les coordonnées et la distance
+    """
+    origin_coords = BORDEAUX_COORDS
+    dest_coords = get_city_coordinates(row['destination_city'])
+    
+    result = {
+        'origin_coordinates': format_coordinates(origin_coords),
+        'destination_coordinates': format_coordinates(dest_coords),
+        'distance_km': None
+    }
+    
+    if origin_coords and dest_coords:
+        result['distance_km'] = round(geodesic(origin_coords, dest_coords).kilometers, 2)
+    
+    return pd.Series(result)
 
 # Configuration du logging
 def setup_logger(base_folder):
@@ -62,6 +123,17 @@ def split_time(time_str):
         return parts[0].strip(), parts[1].strip()
     return 'N/A', 'N/A'
 
+class BackupManager:
+    def __init__(self, base_path):
+        self.backup_path = base_path / 'backups'
+        self.backup_path.mkdir(exist_ok=True)
+
+    def create_backup(self, file_path):
+        timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+        backup_file = self.backup_path / f"{file_path.stem}_{timestamp}{file_path.suffix}"
+        shutil.copy2(file_path, backup_file)
+        return backup_file
+    
 def flatten_flight_data(json_data):
     flattened_data = []
     
@@ -98,8 +170,10 @@ def flatten_flight_data(json_data):
             'airlines': main_airline,
             'flight_connection_company': connection_airline,
             'fare_class': flight.get('fare_class', 'N/A'),
-            'flight_number': flight.get('flight_number', 'N/A'),
-            'equipment_type': flight.get('equipment_type', 'N/A')
+            'origin_coordinates': format_coordinates(BORDEAUX_COORDS),
+            'destination_coordinates': format_coordinates(get_city_coordinates(row['destination_city'])),
+            'distance_km': round(geodesic(BORDEAUX_COORDS, get_city_coordinates(row['destination_city'])).kilometers, 2) 
+                         if get_city_coordinates(row['destination_city']) else None
         }
         row.update(flight_data)
         flattened_data.append(row)
@@ -305,7 +379,8 @@ for destination in destination_folders:
     output_folder.mkdir(exist_ok=True)
     
     # Sauvegarder dans le dossier 'combined'
-    output_file = output_folder / f'vols_{destination.lower()}_combines.csv'
+    current_date = datetime.now().strftime('%Y%m%d')
+    output_file = output_folder / f'vols_{destination.lower()}_combines_{current_date}.csv'
 
     # Avant la sauvegarde du CSV, ajoutons un ID unique
     def generate_flight_id(row):
@@ -327,6 +402,10 @@ for destination in destination_folders:
     # Pour gérer l'ajout à un fichier existant
     if output_file.exists():
         try:
+            backup_manager = BackupManager(base_folder)
+            backup_file = backup_manager.create_backup(output_file)
+            logger.info(f"Backup créé: {backup_file}")
+            
             existing_df = pd.read_csv(output_file)
             initial_rows = len(existing_df)
             df = pd.concat([existing_df, df], ignore_index=True)
@@ -341,7 +420,19 @@ for destination in destination_folders:
             df.to_csv(backup_file, index=False, encoding='utf-8')
             logger.info(f"Backup créé: {backup_file}")
 
-    # Sauvegarder le fichier
+    # Avant la sauvegarde du CSV, supprimer les colonnes non désirées
+    columns_to_drop = ['flight_number', 'equipment_type']
+    df = df.drop(columns=columns_to_drop, errors='ignore')
+    
+    # Calcul des coordonnées et distances
+    logger.info("Calcul des coordonnées et distances...")
+    # Créer les nouvelles colonnes une par une
+    df['origin_coordinates'] = df.apply(lambda row: format_coordinates(BORDEAUX_COORDS), axis=1)
+    df['destination_coordinates'] = df.apply(lambda row: format_coordinates(get_city_coordinates(row['destination_city'])), axis=1)
+    df['distance_km'] = df.apply(lambda row: round(geodesic(BORDEAUX_COORDS, get_city_coordinates(row['destination_city'])).kilometers, 2) 
+                                if get_city_coordinates(row['destination_city']) else None, axis=1)
+
+    # Sauvegarder le fichier avec toutes les colonnes
     df.to_csv(output_file, 
               index=False, 
               encoding='utf-8',
@@ -367,6 +458,16 @@ for destination in destination_folders:
         stats = df[col].describe()
         logger.info(f"Statistiques pour {col}:\n{stats}")
 
+    # Log des statistiques
+    logger.info("Statistiques des nouvelles colonnes:")
+    for col in ['origin_coordinates', 'destination_coordinates', 'distance_km']:
+        non_null_count = df[col].count()
+        total_count = len(df)
+        logger.info(f"{col}: {non_null_count}/{total_count} valeurs non nulles")
+
+    distance_stats = df['distance_km'].describe()
+    logger.info(f"Statistiques des distances:\n{distance_stats}")
+
 @contextmanager
 def timer(description):
     start = time.time()
@@ -378,17 +479,6 @@ def timer(description):
 with timer("Traitement complet du dossier"):
     # Votre code de traitement ici
     pass
-
-class BackupManager:
-    def __init__(self, base_path):
-        self.backup_path = base_path / 'backups'
-        self.backup_path.mkdir(exist_ok=True)
-
-    def create_backup(self, file_path):
-        timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-        backup_file = self.backup_path / f"{file_path.stem}_{timestamp}{file_path.suffix}"
-        shutil.copy2(file_path, backup_file)
-        return backup_file
 
 class ProcessMetrics:
     def __init__(self, base_folder):
