@@ -1,0 +1,67 @@
+{
+    "search_date": "2024-11-21 14:48:21",
+    "flight_date": "2024-11-21",
+    "origin": "BOD",
+    "destination": "ZRH",
+    "destination_city": "Zurich",
+    "url": "https://www.kayak.fr/flights/BOD-ZRH/2024-11-21?sort=price_a",
+    "flights": [
+        {
+            "departure_time": "14:55 – 16:30",
+            "arrival_time": "direct",
+            "duration": "1h 35min",
+            "price": "170 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Economy Light",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "18:35 – 22:30",
+            "arrival_time": "14:55 – 16:30",
+            "duration": "3h 55min",
+            "price": "181 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Economy Light",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "18:00 – 22:30",
+            "arrival_time": "14:55 – 16:30",
+            "duration": "4h 30min",
+            "price": "204 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Economy Light",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        }
+    ]
+}

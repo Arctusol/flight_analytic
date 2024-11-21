@@ -1,0 +1,300 @@
+{
+    "search_date": "2024-11-21 02:42:21",
+    "flight_date": "2025-06-19",
+    "origin": "BOD",
+    "destination": "MAD",
+    "destination_city": "Madrid",
+    "url": "https://www.kayak.fr/flights/BOD-MAD/2025-06-19?sort=price_a",
+    "flights": [
+        {
+            "departure_time": "09:05 – 10:30",
+            "arrival_time": "direct",
+            "duration": "1h 25min",
+            "price": "85 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "17:55 – 19:20",
+            "arrival_time": "direct",
+            "duration": "1h 25min",
+            "price": "85 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "14:45 – 18:55",
+            "arrival_time": "09:05 – 10:30",
+            "duration": "4h 10min",
+            "price": "134 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "12:35 – 17:05",
+            "arrival_time": "09:05 – 10:30",
+            "duration": "4h 30min",
+            "price": "134 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "08:00 – 14:40",
+            "arrival_time": "N/A",
+            "duration": "6h 40min",
+            "price": "136 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Iberia"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "15:45 – 22:20",
+            "arrival_time": "09:05 – 10:30",
+            "duration": "6h 35min",
+            "price": "142 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "13:30 – 18:20",
+            "arrival_time": "N/A",
+            "duration": "4h 50min",
+            "price": "153 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling",
+                "Iberia"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "13:30 – 19:25",
+            "arrival_time": "N/A",
+            "duration": "5h 55min",
+            "price": "153 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling",
+                "Iberia"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "12:35 – 19:20",
+            "arrival_time": "17:55 – 19:20",
+            "duration": "6h 45min",
+            "price": "153 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "11:45 – 16:00",
+            "arrival_time": "17:55 – 19:20",
+            "duration": "4h 15min",
+            "price": "164 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "13:30 – 20:20",
+            "arrival_time": "17:55 – 19:20",
+            "duration": "6h 50min",
+            "price": "165 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "11:45 – 16:00",
+            "arrival_time": "17:55 – 19:20",
+            "duration": "4h 15min",
+            "price": "170 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "18:30 – 22:55",
+            "arrival_time": "N/A",
+            "duration": "4h 25min",
+            "price": "175 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Iberia Express"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "10:25 – 14:25",
+            "arrival_time": "17:55 – 19:20",
+            "duration": "4h 00min",
+            "price": "177 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "18:30 – 22:55",
+            "arrival_time": "N/A",
+            "duration": "4h 25min",
+            "price": "179 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Iberia"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        }
+    ]
+}

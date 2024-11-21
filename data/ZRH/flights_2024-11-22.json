@@ -1,0 +1,309 @@
+{
+    "search_date": "2024-11-21 14:49:44",
+    "flight_date": "2024-11-22",
+    "origin": "BOD",
+    "destination": "ZRH",
+    "destination_city": "Zurich",
+    "url": "https://www.kayak.fr/flights/BOD-ZRH/2024-11-22?sort=price_a",
+    "flights": [
+        {
+            "departure_time": "07:00 – 19:45",
+            "arrival_time": "07:00 – 19:45",
+            "duration": "12h 45min",
+            "price": "195 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "NCE",
+            "layover_duration": "6h 25min",
+            "airlines": [
+                "easyJet",
+                "Scandinavian Airlines"
+            ],
+            "fare_class": "Standard",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "08:30 – 14:10",
+            "arrival_time": "07:00 – 19:45",
+            "duration": "5h 40min",
+            "price": "200 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "NCE",
+            "layover_duration": "6h 25min",
+            "airlines": [
+                "easyJet",
+                "Scandinavian Airlines"
+            ],
+            "fare_class": "Standard",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "09:45 – 20:40",
+            "arrival_time": "07:00 – 19:45",
+            "duration": "10h 55min",
+            "price": "208 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "NCE",
+            "layover_duration": "6h 25min",
+            "airlines": [
+                "easyJet",
+                "Scandinavian Airlines"
+            ],
+            "fare_class": "Standard",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "09:05 – 22:20",
+            "arrival_time": "07:00 – 19:45",
+            "duration": "13h 15min",
+            "price": "220 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "NCE",
+            "layover_duration": "6h 25min",
+            "airlines": [
+                "easyJet",
+                "Scandinavian Airlines"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "10:50 – 16:25",
+            "arrival_time": "N/A",
+            "duration": "5h 35min",
+            "price": "229 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "SWISS"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "09:05 – 18:55",
+            "arrival_time": "07:00 – 19:45",
+            "duration": "9h 50min",
+            "price": "230 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "NCE",
+            "layover_duration": "6h 25min",
+            "airlines": [
+                "easyJet",
+                "Scandinavian Airlines"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "19:45 – 07:40+1",
+            "arrival_time": "N/A",
+            "duration": "11h 55min",
+            "price": "232 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Ethiopian Air"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "08:30 – 18:55",
+            "arrival_time": "N/A",
+            "duration": "10h 25min",
+            "price": "233 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Volotea",
+                "Iberia"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "07:45 – 16:26",
+            "arrival_time": "1 changement",
+            "duration": "8h 41min",
+            "price": "234 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Volotea",
+                "Iberia"
+            ],
+            "fare_class": "Économique",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "10:50 – 21:35",
+            "arrival_time": "08:30 – 14:10",
+            "duration": "10h 45min",
+            "price": "253 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "Volotea",
+                "Iberia"
+            ],
+            "fare_class": "Économique",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "09:45 – 22:30",
+            "arrival_time": "08:30 – 14:10",
+            "duration": "12h 45min",
+            "price": "259 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "Volotea",
+                "Iberia"
+            ],
+            "fare_class": "Économique",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "09:45 – 22:30",
+            "arrival_time": "08:30 – 14:10",
+            "duration": "12h 45min",
+            "price": "261 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "Volotea",
+                "Iberia"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "18:35 – 22:30",
+            "arrival_time": "N/A",
+            "duration": "3h 55min",
+            "price": "270 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "15:55 – 22:30",
+            "arrival_time": "08:30 – 14:10",
+            "duration": "6h 35min",
+            "price": "270 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "Volotea",
+                "Iberia"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "09:45 – 19:15",
+            "arrival_time": "N/A",
+            "duration": "9h 30min",
+            "price": "270 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling",
+                "easyJet"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        }
+    ]
+}

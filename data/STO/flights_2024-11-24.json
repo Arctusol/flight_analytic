@@ -1,0 +1,451 @@
+{
+    "search_date": "2024-11-21 16:49:34",
+    "flight_date": "2024-11-24",
+    "origin": "BOD",
+    "destination": "STO",
+    "destination_city": "Stockholm",
+    "url": "https://www.kayak.fr/flights/BOD-STO/2024-11-24?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "18:35 – 23:40",
+            "arrival_time": "18:35 – 23:40",
+            "duration": "5h 05min",
+            "price": "510 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "08:10 – 16:50",
+            "arrival_time": "18:35 – 23:40",
+            "duration": "8h 40min",
+            "price": "188 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "BER",
+            "layover_duration": "4h 40min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "15:35 – 07:30+1",
+            "arrival_time": "18:35 – 23:40",
+            "duration": "15h 55min",
+            "price": "154 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MXP",
+            "layover_duration": "5h 15min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "18:00 – 23:25",
+            "arrival_time": "18:35 – 23:40",
+            "duration": "5h 25min",
+            "price": "299 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "08:10 – 15:20",
+            "arrival_time": "N/A",
+            "duration": "7h 10min",
+            "price": "275 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ZRH",
+            "layover_duration": "1h 20min",
+            "airlines": [
+                "easyJet",
+                "Norwegian"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "18:35 – 23:40",
+            "arrival_time": "18:35 – 23:40",
+            "duration": "5h 05min",
+            "price": "473 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 10:35",
+            "arrival_time": "N/A",
+            "duration": "4h 35min",
+            "price": "543 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BER",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "18:30 – 23:30",
+            "arrival_time": "N/A",
+            "duration": "5h 00min",
+            "price": "516 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 11:50",
+            "arrival_time": "08:10 – 16:50",
+            "duration": "5h 50min",
+            "price": "464 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 50min",
+            "airlines": [
+                "easyJet",
+                "Eurowings"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 11:50",
+            "arrival_time": "08:10 – 16:50",
+            "duration": "5h 50min",
+            "price": "504 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "FRA",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "easyJet",
+                "Eurowings"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "12:10 – 21:10",
+            "arrival_time": "08:10 – 16:50",
+            "duration": "9h 00min",
+            "price": "271 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "easyJet",
+                "Eurowings"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "15:35 – 23:25",
+            "arrival_time": "08:10 – 16:50",
+            "duration": "7h 50min",
+            "price": "264 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "easyJet",
+                "Eurowings"
+            ],
+            "fare_class": "Go Light"
+        },
+        {
+            "departure_time": "18:35 – 23:40",
+            "arrival_time": "N/A",
+            "duration": "5h 05min",
+            "price": "613 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FCO",
+            "layover_duration": "3h 40min",
+            "airlines": [
+                "Scandinavian Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "08:41 – 18:05",
+            "arrival_time": "08:10 – 16:50",
+            "duration": "9h 24min",
+            "price": "269 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BER",
+            "layover_duration": "4h 40min",
+            "airlines": [
+                "easyJet",
+                "Eurowings"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:15 – 23:55",
+            "arrival_time": "N/A",
+            "duration": "5h 40min",
+            "price": "462 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MXP",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "easyJet",
+                "Norwegian"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 12:40",
+            "arrival_time": "N/A",
+            "duration": "6h 40min",
+            "price": "481 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "KLM",
+                "Scandinavian Airlines"
+            ],
+            "fare_class": "Go Light"
+        },
+        {
+            "departure_time": "08:10 – 17:00",
+            "arrival_time": "15:35 – 07:30\n+1",
+            "duration": "8h 50min",
+            "price": "259 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "PAR-ORY",
+            "layover_duration": "Escale de 3h 55min, ,[object Object]",
+            "airlines": [
+                "easyJet",
+                "Wizz Air"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "08:10 – 17:40",
+            "arrival_time": "15:35 – 07:30\n+1",
+            "duration": "9h 30min",
+            "price": "299 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LGW",
+            "layover_duration": "1h 35min",
+            "airlines": [
+                "easyJet",
+                "Wizz Air"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "14:55 – 22:30",
+            "arrival_time": "15:35 – 07:30\n+1",
+            "duration": "7h 35min",
+            "price": "475 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MXP",
+            "layover_duration": "5h 15min",
+            "airlines": [
+                "easyJet",
+                "Wizz Air"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:00 – 07:30+1",
+            "arrival_time": "15:35 – 07:30\n+1",
+            "duration": "13h 30min",
+            "price": "202 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 50min",
+            "airlines": [
+                "easyJet",
+                "Wizz Air"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 12:40",
+            "arrival_time": "N/A",
+            "duration": "6h 40min",
+            "price": "594 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France",
+                "Scandinavian Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 12:45",
+            "arrival_time": "15:35 – 07:30\n+1",
+            "duration": "6h 45min",
+            "price": "704 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BER",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "easyJet",
+                "Wizz Air"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "14:55 – 23:25",
+            "arrival_time": "N/A",
+            "duration": "8h 30min",
+            "price": "394 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BER",
+            "layover_duration": "5h 35min",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "21:15 – 10:20+1",
+            "arrival_time": "N/A",
+            "duration": "13h 05min",
+            "price": "282 €",
+            "origin_airport": "BOD",
+            "destination_airport": "VST",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 40min",
+            "airlines": [
+                "British Airways",
+                "Ryanair"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "21:15 – 10:10+1",
+            "arrival_time": "18:00 – 23:25",
+            "duration": "12h 55min",
+            "price": "308 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "ZRH",
+            "layover_duration": "1h 20min",
+            "airlines": [
+                "easyJet",
+                "SWISS"
+            ],
+            "fare_class": "Light"
+        }
+    ]
+}

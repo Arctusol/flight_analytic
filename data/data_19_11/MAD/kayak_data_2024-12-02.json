@@ -1,0 +1,105 @@
+{
+    "search_date": "2024-11-19 23:56:32",
+    "flight_date": "2024-12-02",
+    "origin": "BOD",
+    "destination": "MAD",
+    "destination_city": "Madrid",
+    "flights": [
+        {
+            "departure_time": "07:45 – 09:15",
+            "arrival_time": "direct",
+            "duration": "1h 30min",
+            "price": "30 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Volotea"
+            ]
+        },
+        {
+            "departure_time": "07:45 – 09:15",
+            "arrival_time": "direct",
+            "duration": "1h 30min",
+            "price": "29 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Volotea"
+            ]
+        },
+        {
+            "departure_time": "17:55 – 19:20",
+            "arrival_time": "direct",
+            "duration": "1h 25min",
+            "price": "80 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Volotea"
+            ]
+        },
+        {
+            "departure_time": "17:55 – 19:20",
+            "arrival_time": "direct",
+            "duration": "1h 25min",
+            "price": "85 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Volotea"
+            ]
+        },
+        {
+            "departure_time": "09:05 – 10:30",
+            "arrival_time": "direct",
+            "duration": "1h 25min",
+            "price": "124 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ]
+        },
+        {
+            "departure_time": "09:05 – 10:30",
+            "arrival_time": "direct",
+            "duration": "1h 25min",
+            "price": "132 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Volotea"
+            ]
+        }
+    ]
+}

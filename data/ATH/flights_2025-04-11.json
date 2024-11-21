@@ -1,0 +1,450 @@
+{
+    "search_date": "2024-11-21 21:10:29",
+    "flight_date": "2025-04-11",
+    "origin": "BOD",
+    "destination": "ATH",
+    "destination_city": "Athènes",
+    "url": "https://www.kayak.fr/flights/BOD-ATH/2025-04-11?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "23:15 – 10:35+1",
+            "arrival_time": "23:15 – 10:35\n+1",
+            "duration": "10h 20min",
+            "price": "191 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BCN",
+            "layover_duration": "6h 10min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "11:50 – 19:25",
+            "arrival_time": "23:15 – 10:35\n+1",
+            "duration": "6h 35min",
+            "price": "118 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MXP",
+            "layover_duration": "2h 30min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "11:50 – 21:25",
+            "arrival_time": "23:15 – 10:35\n+1",
+            "duration": "8h 35min",
+            "price": "114 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MXP",
+            "layover_duration": "4h 35min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "15:25 – 22:20",
+            "arrival_time": "23:15 – 10:35\n+1",
+            "duration": "5h 55min",
+            "price": "189 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "6h 10min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "23:15 – 05:45+1",
+            "arrival_time": "N/A",
+            "duration": "5h 30min",
+            "price": "206 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "NCE",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Vueling",
+                "Aegean Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "18:50 – 03:05+1",
+            "arrival_time": "23:15 – 10:35\n+1",
+            "duration": "7h 15min",
+            "price": "222 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "6h 10min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "12:30 – 21:10",
+            "arrival_time": "N/A",
+            "duration": "7h 40min",
+            "price": "187 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "easyJet",
+                "Aegean Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "17:40 – 01:00+1",
+            "arrival_time": "N/A",
+            "duration": "6h 20min",
+            "price": "229 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "IST",
+            "layover_duration": "2h 00min",
+            "airlines": [
+                "easyJet",
+                "SWISS"
+            ],
+            "fare_class": "Semi-Flexible"
+        },
+        {
+            "departure_time": "23:15 – 10:35+1",
+            "arrival_time": "11:50 – 19:25",
+            "duration": "10h 20min",
+            "price": "187 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LYS",
+            "layover_duration": "3h 50min",
+            "airlines": [
+                "easyJet",
+                "Ryanair"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "17:10 – 01:10+1",
+            "arrival_time": "11:50 – 19:25",
+            "duration": "7h 00min",
+            "price": "290 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "GVA",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "easyJet",
+                "Ryanair"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "10:10 – 18:00",
+            "arrival_time": "11:50 – 19:25",
+            "duration": "6h 50min",
+            "price": "296 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BCN",
+            "layover_duration": "6h 10min",
+            "airlines": [
+                "easyJet",
+                "Ryanair"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 18:00",
+            "arrival_time": "11:50 – 19:25",
+            "duration": "7h 55min",
+            "price": "264 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 00min",
+            "airlines": [
+                "easyJet",
+                "Ryanair"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:10 – 03:50+1",
+            "arrival_time": "N/A",
+            "duration": "9h 40min",
+            "price": "212 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "easyJet",
+                "Aegean Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:15 – 16:00",
+            "arrival_time": "11:50 – 19:25",
+            "duration": "5h 45min",
+            "price": "365 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "easyJet",
+                "Ryanair"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:10 – 09:15+1",
+            "arrival_time": "N/A",
+            "duration": "15h 05min",
+            "price": "152 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LTN-LHR",
+            "layover_duration": "Escale de 4h 20min, ,[object Object]",
+            "airlines": [
+                "easyJet",
+                "Wizz Air",
+                "Wizz Air"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "11:50 – 22:50",
+            "arrival_time": "N/A",
+            "duration": "10h 00min",
+            "price": "201 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ZRH",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "easyJet",
+                "Aegean Airlines"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "16:30 – 23:05",
+            "arrival_time": "11:50 – 21:25",
+            "duration": "5h 35min",
+            "price": "333 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LTN",
+            "layover_duration": "4h 05min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:30 – 16:35",
+            "arrival_time": "11:50 – 21:25",
+            "duration": "9h 05min",
+            "price": "261 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MXP",
+            "layover_duration": "6h 05min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "08:55 – 22:20",
+            "arrival_time": "11:50 – 21:25",
+            "duration": "12h 25min",
+            "price": "189 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MXP",
+            "layover_duration": "4h 35min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 14:20",
+            "arrival_time": "11:50 – 21:25",
+            "duration": "7h 20min",
+            "price": "315 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FCO",
+            "layover_duration": "1h 30min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "07:00 – 19:10",
+            "arrival_time": "N/A",
+            "duration": "11h 10min",
+            "price": "207 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "4h 05min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:10 – 01:10+1",
+            "arrival_time": "11:50 – 21:25",
+            "duration": "7h 00min",
+            "price": "342 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "NCE",
+            "layover_duration": "8h 40min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "19:35 – 09:35+1",
+            "arrival_time": "N/A",
+            "duration": "13h 00min",
+            "price": "193 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Transavia France"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "16:30 – 01:20+1",
+            "arrival_time": "N/A",
+            "duration": "7h 50min",
+            "price": "271 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 40min",
+            "airlines": [
+                "Volotea",
+                "Aegean Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "14:35 – 23:15",
+            "arrival_time": "15:25 – 22:20",
+            "duration": "7h 40min",
+            "price": "324 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "NCE",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "easyJet",
+                "Aegean Airlines"
+            ],
+            "fare_class": "Economy"
+        }
+    ]
+}

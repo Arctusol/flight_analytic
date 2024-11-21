@@ -1,0 +1,89 @@
+{
+    "search_date": "2024-11-19 23:55:13",
+    "flight_date": "2024-11-30",
+    "origin": "BOD",
+    "destination": "MAD",
+    "destination_city": "Madrid",
+    "flights": [
+        {
+            "departure_time": "17:55 – 19:20",
+            "arrival_time": "direct",
+            "duration": "1h 25min",
+            "price": "48 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ]
+        },
+        {
+            "departure_time": "17:55 – 19:20",
+            "arrival_time": "direct",
+            "duration": "1h 25min",
+            "price": "44 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ]
+        },
+        {
+            "departure_time": "17:55 – 19:20",
+            "arrival_time": "direct",
+            "duration": "1h 25min",
+            "price": "47 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ]
+        },
+        {
+            "departure_time": "09:05 – 10:30",
+            "arrival_time": "direct",
+            "duration": "1h 25min",
+            "price": "199 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ]
+        },
+        {
+            "departure_time": "09:05 – 10:30",
+            "arrival_time": "direct",
+            "duration": "1h 25min",
+            "price": "245 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling"
+            ]
+        }
+    ]
+}

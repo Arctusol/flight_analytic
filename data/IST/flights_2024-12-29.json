@@ -1,0 +1,445 @@
+{
+    "search_date": "2024-11-21 21:12:43",
+    "flight_date": "2024-12-29",
+    "origin": "BOD",
+    "destination": "IST",
+    "destination_city": "Istanbul",
+    "url": "https://www.kayak.fr/flights/BOD-IST/2024-12-29?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "06:05 – 12:00",
+            "arrival_time": "direct",
+            "duration": "3h 55min",
+            "price": "178 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": true,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Transavia France"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:05 – 12:00",
+            "arrival_time": "direct",
+            "duration": "3h 55min",
+            "price": "152 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": true,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Transavia France"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "12:00 – 17:50",
+            "arrival_time": "direct",
+            "duration": "3h 50min",
+            "price": "280 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": true,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Transavia France"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "20:10 – 04:10+1",
+            "arrival_time": "06:05 – 12:00",
+            "duration": "6h 00min",
+            "price": "201 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Transavia France"
+            ],
+            "fare_class": "EcoFly"
+        },
+        {
+            "departure_time": "11:10 – 19:30",
+            "arrival_time": "N/A",
+            "duration": "6h 20min",
+            "price": "266 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:35 – 04:10+1",
+            "arrival_time": "06:05 – 12:00",
+            "duration": "7h 35min",
+            "price": "299 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "Transavia France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "07:10 – 16:00",
+            "arrival_time": "N/A",
+            "duration": "6h 50min",
+            "price": "300 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "GVA",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "easyJet",
+                "Aegean Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "15:35 – 23:25",
+            "arrival_time": "N/A",
+            "duration": "5h 50min",
+            "price": "383 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 40min",
+            "airlines": [
+                "Volotea",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "07:10 – 15:40",
+            "arrival_time": "06:05 – 12:00",
+            "duration": "6h 30min",
+            "price": "350 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "ATH",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Transavia France"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "07:00 – 15:50",
+            "arrival_time": "06:05 – 12:00",
+            "duration": "6h 50min",
+            "price": "341 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "NCE",
+            "layover_duration": "1h 20min",
+            "airlines": [
+                "Transavia France"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "14:25 – 23:25",
+            "arrival_time": "06:05 – 12:00",
+            "duration": "7h 00min",
+            "price": "344 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "ATH",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "Transavia France"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "14:20 – 23:25",
+            "arrival_time": "06:05 – 12:00",
+            "duration": "7h 05min",
+            "price": "344 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LYS",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "Transavia France"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "07:10 – 21:00",
+            "arrival_time": "N/A",
+            "duration": "11h 50min",
+            "price": "262 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MRS",
+            "layover_duration": "2h 25min",
+            "airlines": [
+                "easyJet",
+                "Aegean Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "07:00 – 18:00",
+            "arrival_time": "06:05 – 12:00",
+            "duration": "9h 00min",
+            "price": "310 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "NCE",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "Transavia France"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "11:10 – 20:00",
+            "arrival_time": "N/A",
+            "duration": "6h 50min",
+            "price": "392 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ATH",
+            "layover_duration": "7h 05min",
+            "airlines": [
+                "easyJet",
+                "Turkish Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "07:10 – 20:30",
+            "arrival_time": "N/A",
+            "duration": "11h 20min",
+            "price": "279 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LYS",
+            "layover_duration": "4h 40min",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "19:00 – 03:45+1",
+            "arrival_time": "12:00 – 17:50",
+            "duration": "6h 45min",
+            "price": "456 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "GVA",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "15:35 – 00:15+1",
+            "arrival_time": "12:00 – 17:50",
+            "duration": "6h 40min",
+            "price": "414 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "ATH",
+            "layover_duration": "6h 35min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "07:00 – 21:35",
+            "arrival_time": "12:00 – 17:50",
+            "duration": "12h 35min",
+            "price": "301 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "07:00 – 20:40",
+            "arrival_time": "12:00 – 17:50",
+            "duration": "11h 40min",
+            "price": "312 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ALG",
+            "layover_duration": "1h 30min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "08:10 – 16:50",
+            "arrival_time": "N/A",
+            "duration": "6h 40min",
+            "price": "534 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "NCE",
+            "layover_duration": "2h 00min",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "17:50 – 06:00+1",
+            "arrival_time": "12:00 – 17:50",
+            "duration": "10h 10min",
+            "price": "300 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LYS",
+            "layover_duration": "8h 15min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "18:00 – 06:00+1",
+            "arrival_time": "N/A",
+            "duration": "10h 00min",
+            "price": "300 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Eurowings",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "07:10 – 21:45",
+            "arrival_time": "N/A",
+            "duration": "12h 35min",
+            "price": "306 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LYS",
+            "layover_duration": "7h 15min",
+            "airlines": [
+                "easyJet",
+                "Sky Express"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "14:55 – 04:10+1",
+            "arrival_time": "20:10 – 04:10\n+1",
+            "duration": "11h 15min",
+            "price": "385 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Economy"
+        }
+    ]
+}

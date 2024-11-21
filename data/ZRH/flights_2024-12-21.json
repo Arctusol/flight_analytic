@@ -1,0 +1,440 @@
+{
+    "search_date": "2024-11-21 17:03:46",
+    "flight_date": "2024-12-21",
+    "origin": "BOD",
+    "destination": "ZRH",
+    "destination_city": "Zurich",
+    "url": "https://www.kayak.fr/flights/BOD-ZRH/2024-12-21?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "14:40 – 16:15",
+            "arrival_time": "direct",
+            "duration": "1h 35min",
+            "price": "238 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": true,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "14:40 – 16:15",
+            "arrival_time": "direct",
+            "duration": "1h 35min",
+            "price": "237 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": true,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "13:20 – 17:55",
+            "arrival_time": "14:40 – 16:15",
+            "duration": "4h 35min",
+            "price": "413 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "16:00 – 22:30",
+            "arrival_time": "14:40 – 16:15",
+            "duration": "6h 30min",
+            "price": "286 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 55min",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Affaires"
+        },
+        {
+            "departure_time": "06:00 – 09:50",
+            "arrival_time": "N/A",
+            "duration": "3h 50min",
+            "price": "498 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "11:58 – 20:26",
+            "arrival_time": "1 changement",
+            "duration": "8h 28min",
+            "price": "247 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "11:40 – 17:55",
+            "arrival_time": "N/A",
+            "duration": "6h 15min",
+            "price": "415 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Affaires"
+        },
+        {
+            "departure_time": "06:00 – 11:05",
+            "arrival_time": "N/A",
+            "duration": "5h 05min",
+            "price": "599 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "PAR-PAR",
+            "layover_duration": "Escale de 1h 41min, ,[object Object]",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "12:30 – 16:45",
+            "arrival_time": "14:40 – 16:15",
+            "duration": "4h 15min",
+            "price": "761 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 35min",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Business Leisure"
+        },
+        {
+            "departure_time": "16:00 – 21:10",
+            "arrival_time": "14:40 – 16:15",
+            "duration": "5h 10min",
+            "price": "537 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 55min",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "07:00 – 14:35",
+            "arrival_time": "14:40 – 16:15",
+            "duration": "7h 35min",
+            "price": "315 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "15:20 – 21:25",
+            "arrival_time": "14:40 – 16:15",
+            "duration": "6h 05min",
+            "price": "466 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:40 – 17:55",
+            "arrival_time": "N/A",
+            "duration": "7h 15min",
+            "price": "503 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 30min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "14:45 – 21:10",
+            "arrival_time": "14:40 – 16:15",
+            "duration": "6h 25min",
+            "price": "458 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW",
+            "layover_duration": "4h 10min",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "12:30 – 18:40",
+            "arrival_time": "N/A",
+            "duration": "6h 10min",
+            "price": "676 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "08:50 – 15:45",
+            "arrival_time": "N/A",
+            "duration": "6h 55min",
+            "price": "603 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "SWISS"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "11:40 – 18:40",
+            "arrival_time": "13:20 – 17:55",
+            "duration": "7h 00min",
+            "price": "603 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "4h 35min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Business Leisure"
+        },
+        {
+            "departure_time": "16:05 – 20:00",
+            "arrival_time": "13:20 – 17:55",
+            "duration": "3h 55min",
+            "price": "1 076 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 45min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 13:35",
+            "arrival_time": "13:20 – 17:55",
+            "duration": "7h 35min",
+            "price": "937 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "3h 00min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "11:40 – 18:40",
+            "arrival_time": "13:20 – 17:55",
+            "duration": "7h 00min",
+            "price": "1 479 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "GVA",
+            "layover_duration": "4h 35min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "07:40 – 15:00",
+            "arrival_time": "N/A",
+            "duration": "7h 20min",
+            "price": "1 431 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Lufthansa",
+                "SWISS"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "11:40 – 19:05",
+            "arrival_time": "13:20 – 17:55",
+            "duration": "7h 25min",
+            "price": "1 700 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "14:45 – 21:05",
+            "arrival_time": "N/A",
+            "duration": "6h 20min",
+            "price": "1 958 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LUX",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "Air France",
+                "SWISS"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "06:00 – 11:15",
+            "arrival_time": "N/A",
+            "duration": "5h 15min",
+            "price": "2 199 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "4h 30min",
+            "airlines": [
+                "Air France",
+                "SWISS"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 12:05",
+            "arrival_time": "16:00 – 22:30",
+            "duration": "6h 05min",
+            "price": "2 199 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 45min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Economy Light"
+        }
+    ]
+}

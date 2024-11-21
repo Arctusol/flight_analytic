@@ -1,0 +1,303 @@
+{
+    "search_date": "2024-11-21 13:24:26",
+    "flight_date": "2025-04-18",
+    "origin": "BOD",
+    "destination": "CPH",
+    "destination_city": "Copenhague",
+    "url": "https://www.kayak.fr/flights/BOD-CPH/2025-04-18?sort=price_a",
+    "flights": [
+        {
+            "departure_time": "07:10 – 09:45",
+            "arrival_time": "direct",
+            "duration": "2h 35min",
+            "price": "104 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CPH",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "12:15 – 21:25",
+            "arrival_time": "07:10 – 09:45",
+            "duration": "9h 10min",
+            "price": "130 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CPH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "12:15 – 20:15",
+            "arrival_time": "07:10 – 09:45",
+            "duration": "8h 00min",
+            "price": "147 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CPH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "12:15 – 17:35",
+            "arrival_time": "07:10 – 09:45",
+            "duration": "5h 20min",
+            "price": "152 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CPH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "08:55 – 16:35",
+            "arrival_time": "N/A",
+            "duration": "7h 40min",
+            "price": "157 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CPH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Scandinavian Airlines"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "06:30 – 11:05",
+            "arrival_time": "07:10 – 09:45",
+            "duration": "4h 35min",
+            "price": "171 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CPH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "06:30 – 15:45",
+            "arrival_time": "N/A",
+            "duration": "9h 15min",
+            "price": "182 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CPH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "06:30 – 11:50",
+            "arrival_time": "N/A",
+            "duration": "5h 20min",
+            "price": "187 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CPH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Scandinavian Airlines"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "06:30 – 13:25",
+            "arrival_time": "12:15 – 21:25",
+            "duration": "6h 55min",
+            "price": "187 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CPH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BSL",
+            "layover_duration": "5h 55min",
+            "airlines": [
+                "easyJet",
+                "Norwegian"
+            ],
+            "fare_class": "Standard",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "06:30 – 16:10",
+            "arrival_time": "12:15 – 21:25",
+            "duration": "9h 40min",
+            "price": "187 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CPH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BSL",
+            "layover_duration": "5h 55min",
+            "airlines": [
+                "easyJet",
+                "Norwegian"
+            ],
+            "fare_class": "Standard",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "17:10 – 22:30",
+            "arrival_time": "12:15 – 21:25",
+            "duration": "5h 20min",
+            "price": "191 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CPH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BSL",
+            "layover_duration": "5h 55min",
+            "airlines": [
+                "easyJet",
+                "Norwegian"
+            ],
+            "fare_class": "Standard",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "23:15 – 09:15+1",
+            "arrival_time": "12:15 – 21:25",
+            "duration": "10h 00min",
+            "price": "192 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CPH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BSL",
+            "layover_duration": "5h 55min",
+            "airlines": [
+                "easyJet",
+                "Norwegian"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "22:40 – 10:10+1",
+            "arrival_time": "N/A",
+            "duration": "11h 30min",
+            "price": "192 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CPH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Ryanair"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "11:50 – 18:20",
+            "arrival_time": "12:15 – 21:25",
+            "duration": "6h 30min",
+            "price": "194 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CPH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BSL",
+            "layover_duration": "5h 55min",
+            "airlines": [
+                "easyJet",
+                "Norwegian"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "17:40 – 22:10",
+            "arrival_time": "N/A",
+            "duration": "4h 30min",
+            "price": "196 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CPH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Scandinavian Airlines"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        }
+    ]
+}

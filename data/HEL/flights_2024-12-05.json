@@ -1,0 +1,449 @@
+{
+    "search_date": "2024-11-21 17:19:57",
+    "flight_date": "2024-12-05",
+    "origin": "BOD",
+    "destination": "HEL",
+    "destination_city": "Helsinki",
+    "url": "https://www.kayak.fr/flights/BOD-HEL/2024-12-05?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "18:00 – 00:05+1",
+            "arrival_time": "18:00 – 00:05\n+1",
+            "duration": "5h 05min",
+            "price": "166 €",
+            "origin_airport": "BOD",
+            "destination_airport": "HEL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 45min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:00 – 00:05+1",
+            "arrival_time": "18:00 – 00:05\n+1",
+            "duration": "5h 05min",
+            "price": "164 €",
+            "origin_airport": "BOD",
+            "destination_airport": "HEL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 45min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "21:50 – 00:20+2",
+            "arrival_time": "18:00 – 00:05\n+1",
+            "duration": "25h 30min",
+            "price": "134 €",
+            "origin_airport": "BOD",
+            "destination_airport": "HEL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MXP-BGY",
+            "layover_duration": "Escale de 6h 40min, ,[object Object]",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "18:00 – 00:05+1",
+            "arrival_time": "18:00 – 00:05\n+1",
+            "duration": "5h 05min",
+            "price": "207 €",
+            "origin_airport": "BOD",
+            "destination_airport": "HEL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 45min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "15:55 – 22:35",
+            "arrival_time": "N/A",
+            "duration": "5h 40min",
+            "price": "200 €",
+            "origin_airport": "BOD",
+            "destination_airport": "HEL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 45min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:30 – 01:10+1",
+            "arrival_time": "18:00 – 00:05\n+1",
+            "duration": "5h 40min",
+            "price": "226 €",
+            "origin_airport": "BOD",
+            "destination_airport": "HEL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 45min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "15:55 – 23:00",
+            "arrival_time": "N/A",
+            "duration": "6h 05min",
+            "price": "283 €",
+            "origin_airport": "BOD",
+            "destination_airport": "HEL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "Finnair"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "12:30 – 00:05+1",
+            "arrival_time": "N/A",
+            "duration": "10h 35min",
+            "price": "164 €",
+            "origin_airport": "BOD",
+            "destination_airport": "HEL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FRA",
+            "layover_duration": "1h 20min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "18:00 – 00:05+1",
+            "arrival_time": "18:00 – 00:05\n+1",
+            "duration": "5h 05min",
+            "price": "395 €",
+            "origin_airport": "BOD",
+            "destination_airport": "HEL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 35min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Economy Superlight"
+        },
+        {
+            "departure_time": "15:55 – 23:00",
+            "arrival_time": "18:00 – 00:05\n+1",
+            "duration": "6h 05min",
+            "price": "333 €",
+            "origin_airport": "BOD",
+            "destination_airport": "HEL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "6h 20min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "13:35 – 22:35",
+            "arrival_time": "18:00 – 00:05\n+1",
+            "duration": "8h 00min",
+            "price": "266 €",
+            "origin_airport": "BOD",
+            "destination_airport": "HEL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 45min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 13:10",
+            "arrival_time": "18:00 – 00:05\n+1",
+            "duration": "6h 10min",
+            "price": "474 €",
+            "origin_airport": "BOD",
+            "destination_airport": "HEL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 35min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "15:55 – 00:05+1",
+            "arrival_time": "N/A",
+            "duration": "7h 10min",
+            "price": "221 €",
+            "origin_airport": "BOD",
+            "destination_airport": "HEL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 30min",
+            "airlines": [
+                "Air France",
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "12:30 – 00:05+1",
+            "arrival_time": "18:00 – 00:05\n+1",
+            "duration": "10h 35min",
+            "price": "207 €",
+            "origin_airport": "BOD",
+            "destination_airport": "HEL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 13:10",
+            "arrival_time": "N/A",
+            "duration": "6h 10min",
+            "price": "540 €",
+            "origin_airport": "BOD",
+            "destination_airport": "HEL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "0h 55min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 13:10",
+            "arrival_time": "N/A",
+            "duration": "6h 10min",
+            "price": "567 €",
+            "origin_airport": "BOD",
+            "destination_airport": "HEL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "6h 20min",
+            "airlines": [
+                "Air France",
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "15:25 – 23:10",
+            "arrival_time": "21:50 – 00:20\n+2",
+            "duration": "6h 45min",
+            "price": "343 €",
+            "origin_airport": "BOD",
+            "destination_airport": "HEL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "easyJet",
+                "Ryanair",
+                "airBaltic"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "12:58 – 22:35",
+            "arrival_time": "21:50 – 00:20\n+2",
+            "duration": "8h 37min",
+            "price": "293 €",
+            "origin_airport": "BOD",
+            "destination_airport": "HEL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "easyJet",
+                "Ryanair",
+                "airBaltic"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:50 – 15:50",
+            "arrival_time": "21:50 – 00:20\n+2",
+            "duration": "8h 00min",
+            "price": "277 €",
+            "origin_airport": "BOD",
+            "destination_airport": "HEL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "DUB",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "easyJet",
+                "Ryanair",
+                "airBaltic"
+            ],
+            "fare_class": "Saver"
+        },
+        {
+            "departure_time": "14:55 – 22:50",
+            "arrival_time": "21:50 – 00:20\n+2",
+            "duration": "6h 55min",
+            "price": "460 €",
+            "origin_airport": "BOD",
+            "destination_airport": "HEL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Ryanair",
+                "airBaltic"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "11:30 – 23:05",
+            "arrival_time": "N/A",
+            "duration": "10h 35min",
+            "price": "226 €",
+            "origin_airport": "BOD",
+            "destination_airport": "HEL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 49min",
+            "airlines": [
+                "Volotea",
+                "Finnair"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "13:50 – 22:50",
+            "arrival_time": "21:50 – 00:20\n+2",
+            "duration": "8h 00min",
+            "price": "338 €",
+            "origin_airport": "BOD",
+            "destination_airport": "HEL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "easyJet",
+                "Ryanair",
+                "airBaltic"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "12:40 – 22:05",
+            "arrival_time": "N/A",
+            "duration": "8h 25min",
+            "price": "310 €",
+            "origin_airport": "BOD",
+            "destination_airport": "HEL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ZRH",
+            "layover_duration": "2h 35min",
+            "airlines": [
+                "easyJet",
+                "Finnair"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "06:00 – 16:00",
+            "arrival_time": "N/A",
+            "duration": "9h 00min",
+            "price": "387 €",
+            "origin_airport": "BOD",
+            "destination_airport": "HEL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "13:50 – 00:05+1",
+            "arrival_time": "18:00 – 00:05\n+1",
+            "duration": "9h 15min",
+            "price": "228 €",
+            "origin_airport": "BOD",
+            "destination_airport": "HEL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "FCO",
+            "layover_duration": "5h 05min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Economy"
+        }
+    ]
+}

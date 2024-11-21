@@ -1,0 +1,129 @@
+{
+    "search_date": "2024-11-21 17:32:26",
+    "flight_date": "2025-03-13",
+    "origin": "BOD",
+    "destination": "PRG",
+    "destination_city": "Prague",
+    "url": "https://www.kayak.fr/flights/BOD-PRG/2025-03-13?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "18:00 – 22:15",
+            "arrival_time": "18:00 – 22:15",
+            "duration": "4h 15min",
+            "price": "125 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 55min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 10:50",
+            "arrival_time": "18:00 – 22:15",
+            "duration": "4h 50min",
+            "price": "134 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 35min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "12:30 – 17:40",
+            "arrival_time": "18:00 – 22:15",
+            "duration": "5h 10min",
+            "price": "138 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 55min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 13:40",
+            "arrival_time": "18:00 – 22:15",
+            "duration": "7h 40min",
+            "price": "106 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "4h 30min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "12:30 – 19:25",
+            "arrival_time": "N/A",
+            "duration": "6h 55min",
+            "price": "150 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "3h 40min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 17:40",
+            "arrival_time": "18:00 – 22:15",
+            "duration": "11h 40min",
+            "price": "106 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "8h 30min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "12:30 – 22:15",
+            "arrival_time": "N/A",
+            "duration": "9h 45min",
+            "price": "166 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "6h 30min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        }
+    ]
+}

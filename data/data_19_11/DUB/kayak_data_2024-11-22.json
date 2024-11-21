@@ -1,0 +1,41 @@
+{
+    "search_date": "2024-11-19 23:57:55",
+    "flight_date": "2024-11-22",
+    "origin": "BOD",
+    "destination": "DUB",
+    "destination_city": "Dublin",
+    "flights": [
+        {
+            "departure_time": "15:25 – 16:25",
+            "arrival_time": "direct",
+            "duration": "2h 00min",
+            "price": "183 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DUB",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Aer Lingus"
+            ]
+        },
+        {
+            "departure_time": "15:25 – 16:25",
+            "arrival_time": "direct",
+            "duration": "2h 00min",
+            "price": "156 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DUB",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Aer Lingus"
+            ]
+        }
+    ]
+}

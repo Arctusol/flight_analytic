@@ -1,0 +1,301 @@
+{
+    "search_date": "2024-11-21 00:54:43",
+    "flight_date": "2025-03-26",
+    "origin": "BOD",
+    "destination": "BCN",
+    "destination_city": "Barcelone",
+    "url": "https://www.kayak.fr/flights/BOD-BCN/2025-03-26?sort=price_a",
+    "flights": [
+        {
+            "departure_time": "18:55 – 20:05",
+            "arrival_time": "direct",
+            "duration": "1h 10min",
+            "price": "14 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BCN",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Économique",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "10:40 – 15:00",
+            "arrival_time": "18:55 – 20:05",
+            "duration": "4h 20min",
+            "price": "57 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BCN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Économique",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "14:50 – 19:40",
+            "arrival_time": "18:55 – 20:05",
+            "duration": "4h 50min",
+            "price": "74 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BCN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Économique",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "17:55 – 22:50",
+            "arrival_time": "18:55 – 20:05",
+            "duration": "4h 55min",
+            "price": "78 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BCN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "15:00 – 20:20",
+            "arrival_time": "N/A",
+            "duration": "5h 20min",
+            "price": "90 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BCN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "06:50 – 12:15",
+            "arrival_time": "18:55 – 20:05",
+            "duration": "5h 25min",
+            "price": "95 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BCN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "06:50 – 12:35",
+            "arrival_time": "N/A",
+            "duration": "5h 45min",
+            "price": "96 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BCN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "09:05 – 14:30",
+            "arrival_time": "N/A",
+            "duration": "5h 25min",
+            "price": "100 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BCN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "13:00 – 19:50",
+            "arrival_time": "10:40 – 15:00",
+            "duration": "6h 50min",
+            "price": "109 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BCN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BSL",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "easyJet",
+                "Vueling"
+            ],
+            "fare_class": "Standard",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "13:55 – 18:40",
+            "arrival_time": "10:40 – 15:00",
+            "duration": "4h 45min",
+            "price": "114 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BCN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BSL",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "easyJet",
+                "Vueling"
+            ],
+            "fare_class": "Standard",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "18:55 – 20:05",
+            "arrival_time": "direct",
+            "duration": "1h 10min",
+            "price": "116 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BCN",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Vueling"
+            ],
+            "fare_class": "Standard",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "13:00 – 17:15",
+            "arrival_time": "10:40 – 15:00",
+            "duration": "4h 15min",
+            "price": "138 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BCN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BSL",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "easyJet",
+                "Vueling"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "18:00 – 23:05",
+            "arrival_time": "N/A",
+            "duration": "5h 05min",
+            "price": "146 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BCN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "13:00 – 18:10",
+            "arrival_time": "10:40 – 15:00",
+            "duration": "5h 10min",
+            "price": "150 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BCN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BSL",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "easyJet",
+                "Vueling"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "10:40 – 14:40",
+            "arrival_time": "N/A",
+            "duration": "4h 00min",
+            "price": "178 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BCN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        }
+    ]
+}

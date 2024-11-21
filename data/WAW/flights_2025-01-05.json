@@ -1,0 +1,452 @@
+{
+    "search_date": "2024-11-21 17:52:42",
+    "flight_date": "2025-01-05",
+    "origin": "BOD",
+    "destination": "WAW",
+    "destination_city": "Varsovie",
+    "url": "https://www.kayak.fr/flights/BOD-WAW/2025-01-05?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "18:30 – 08:30+1",
+            "arrival_time": "18:30 – 08:30\n+1",
+            "duration": "14h 00min",
+            "price": "231 €",
+            "origin_airport": "BOD",
+            "destination_airport": "WAW",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "FRA",
+            "layover_duration": "10h 30min",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "15:35 – 20:55",
+            "arrival_time": "18:30 – 08:30\n+1",
+            "duration": "5h 20min",
+            "price": "111 €",
+            "origin_airport": "BOD",
+            "destination_airport": "WAW",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MXP",
+            "layover_duration": "1h 35min",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "15:35 – 10:40+1",
+            "arrival_time": "18:30 – 08:30\n+1",
+            "duration": "19h 05min",
+            "price": "92 €",
+            "origin_airport": "BOD",
+            "destination_airport": "WAW",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MXP-BGY",
+            "layover_duration": "Escale de 15h 30min, ,[object Object]",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "07:10 – 14:15",
+            "arrival_time": "18:30 – 08:30\n+1",
+            "duration": "7h 05min",
+            "price": "166 €",
+            "origin_airport": "BOD",
+            "destination_airport": "WAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FRA",
+            "layover_duration": "10h 30min",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "15:35 – 21:55",
+            "arrival_time": "N/A",
+            "duration": "6h 20min",
+            "price": "222 €",
+            "origin_airport": "BOD",
+            "destination_airport": "WAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ATH",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "easyJet",
+                "LOT"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "08:41 – 16:10",
+            "arrival_time": "18:30 – 08:30\n+1",
+            "duration": "7h 29min",
+            "price": "176 €",
+            "origin_airport": "BOD",
+            "destination_airport": "WAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FRA",
+            "layover_duration": "10h 30min",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "17:50 – 06:35+1",
+            "arrival_time": "N/A",
+            "duration": "12h 45min",
+            "price": "105 €",
+            "origin_airport": "BOD",
+            "destination_airport": "WAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MXP",
+            "layover_duration": "2h 35min",
+            "airlines": [
+                "Vueling",
+                "Wizz Air",
+                "LOT"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "18:05 – 23:25",
+            "arrival_time": "N/A",
+            "duration": "5h 20min",
+            "price": "365 €",
+            "origin_airport": "BOD",
+            "destination_airport": "WAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "PAR-ORY",
+            "layover_duration": "Escale de 2h 34min, ,[object Object]",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "11:55 – 16:20",
+            "arrival_time": "15:35 – 20:55",
+            "duration": "4h 25min",
+            "price": "431 €",
+            "origin_airport": "BOD",
+            "destination_airport": "WAW",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BCN",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "easyJet",
+                "Wizz Air Malta"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "07:10 – 14:15",
+            "arrival_time": "15:35 – 20:55",
+            "duration": "7h 05min",
+            "price": "220 €",
+            "origin_airport": "BOD",
+            "destination_airport": "WAW",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 30min",
+            "airlines": [
+                "easyJet",
+                "Wizz Air Malta"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 12:05",
+            "arrival_time": "15:35 – 20:55",
+            "duration": "6h 05min",
+            "price": "365 €",
+            "origin_airport": "BOD",
+            "destination_airport": "WAW",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "0h 50min",
+            "airlines": [
+                "easyJet",
+                "Wizz Air Malta"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "19:10 – 08:45+1",
+            "arrival_time": "15:35 – 20:55",
+            "duration": "13h 35min",
+            "price": "108 €",
+            "origin_airport": "BOD",
+            "destination_airport": "WMI",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ATH",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "easyJet",
+                "Wizz Air Malta"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "10:40 – 16:20",
+            "arrival_time": "N/A",
+            "duration": "5h 40min",
+            "price": "431 €",
+            "origin_airport": "BOD",
+            "destination_airport": "WAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "18:05 – 23:25",
+            "arrival_time": "15:35 – 20:55",
+            "duration": "5h 20min",
+            "price": "424 €",
+            "origin_airport": "BOD",
+            "destination_airport": "WAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 25min",
+            "airlines": [
+                "easyJet",
+                "Wizz Air Malta"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "15:35 – 22:00",
+            "arrival_time": "N/A",
+            "duration": "6h 25min",
+            "price": "303 €",
+            "origin_airport": "BOD",
+            "destination_airport": "WAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FCO-CIA",
+            "layover_duration": "Escale de 9h 10min, ,[object Object]",
+            "airlines": [
+                "Volotea",
+                "LOT"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 12:00",
+            "arrival_time": "N/A",
+            "duration": "6h 00min",
+            "price": "418 €",
+            "origin_airport": "BOD",
+            "destination_airport": "WAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Business Leisure"
+        },
+        {
+            "departure_time": "19:10 – 11:40+1",
+            "arrival_time": "15:35 – 10:40\n+1",
+            "duration": "16h 30min",
+            "price": "111 €",
+            "origin_airport": "BOD",
+            "destination_airport": "WAW",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 30min",
+            "airlines": [
+                "easyJet",
+                "Wizz Air"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "12:15 – 20:55",
+            "arrival_time": "15:35 – 10:40\n+1",
+            "duration": "8h 40min",
+            "price": "235 €",
+            "origin_airport": "BOD",
+            "destination_airport": "WAW",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Wizz Air"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "06:00 – 13:05",
+            "arrival_time": "15:35 – 10:40\n+1",
+            "duration": "7h 05min",
+            "price": "317 €",
+            "origin_airport": "BOD",
+            "destination_airport": "WAW",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "NCE",
+            "layover_duration": "2h 35min",
+            "airlines": [
+                "easyJet",
+                "Wizz Air"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "14:25 – 22:20",
+            "arrival_time": "15:35 – 10:40\n+1",
+            "duration": "7h 55min",
+            "price": "233 €",
+            "origin_airport": "BOD",
+            "destination_airport": "WAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 25min",
+            "airlines": [
+                "easyJet",
+                "Wizz Air"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:25 – 16:20",
+            "arrival_time": "N/A",
+            "duration": "6h 55min",
+            "price": "412 €",
+            "origin_airport": "BOD",
+            "destination_airport": "WAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FCO",
+            "layover_duration": "11h 55min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:30 – 08:30+1",
+            "arrival_time": "15:35 – 10:40\n+1",
+            "duration": "14h 00min",
+            "price": "226 €",
+            "origin_airport": "BOD",
+            "destination_airport": "WAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Wizz Air"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "14:55 – 21:55",
+            "arrival_time": "N/A",
+            "duration": "7h 00min",
+            "price": "328 €",
+            "origin_airport": "BOD",
+            "destination_airport": "WAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "VCE",
+            "layover_duration": "4h 55min",
+            "airlines": [
+                "SWISS",
+                "LOT"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "10:10 – 19:50",
+            "arrival_time": "N/A",
+            "duration": "9h 40min",
+            "price": "212 €",
+            "origin_airport": "BOD",
+            "destination_airport": "WMI",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 25min",
+            "airlines": [
+                "easyJet",
+                "Ryanair"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "12:20 – 20:45",
+            "arrival_time": "07:10 – 14:15",
+            "duration": "8h 25min",
+            "price": "277 €",
+            "origin_airport": "BOD",
+            "destination_airport": "WMI",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MRS",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "easyJet",
+                "Sky Express"
+            ],
+            "fare_class": "Standard"
+        }
+    ]
+}

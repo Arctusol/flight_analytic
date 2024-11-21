@@ -1,0 +1,302 @@
+{
+    "search_date": "2024-11-21 01:29:20",
+    "flight_date": "2025-04-17",
+    "origin": "BOD",
+    "destination": "AMS",
+    "destination_city": "Amsterdam",
+    "url": "https://www.kayak.fr/flights/BOD-AMS/2025-04-17?sort=price_a",
+    "flights": [
+        {
+            "departure_time": "16:58 – 23:50",
+            "arrival_time": "1 changement",
+            "duration": "6h 52min",
+            "price": "69 €",
+            "origin_airport": "BOD",
+            "destination_airport": "AMS",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "SNCF",
+                "Eurostar"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "11:50 – 13:40",
+            "arrival_time": "direct",
+            "duration": "1h 50min",
+            "price": "85 €",
+            "origin_airport": "BOD",
+            "destination_airport": "AMS",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "SNCF",
+                "Eurostar"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "11:50 – 13:40",
+            "arrival_time": "direct",
+            "duration": "1h 50min",
+            "price": "87 €",
+            "origin_airport": "BOD",
+            "destination_airport": "AMS",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "SNCF",
+                "Eurostar"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "13:45 – 20:30",
+            "arrival_time": "16:58 – 23:50",
+            "duration": "6h 45min",
+            "price": "90 €",
+            "origin_airport": "BOD",
+            "destination_airport": "AMS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "SNCF",
+                "Eurostar"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "13:45 – 18:55",
+            "arrival_time": "N/A",
+            "duration": "5h 10min",
+            "price": "101 €",
+            "origin_airport": "BOD",
+            "destination_airport": "AMS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "17:10 – 18:55",
+            "arrival_time": "direct",
+            "duration": "1h 45min",
+            "price": "107 €",
+            "origin_airport": "BOD",
+            "destination_airport": "AMS",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "SNCF",
+                "Eurostar"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "17:10 – 18:55",
+            "arrival_time": "direct",
+            "duration": "1h 45min",
+            "price": "108 €",
+            "origin_airport": "BOD",
+            "destination_airport": "AMS",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "09:10 – 15:35",
+            "arrival_time": "N/A",
+            "duration": "6h 25min",
+            "price": "108 €",
+            "origin_airport": "BOD",
+            "destination_airport": "AMS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "09:55 – 15:40",
+            "arrival_time": "11:50 – 13:40",
+            "duration": "5h 45min",
+            "price": "112 €",
+            "origin_airport": "BOD",
+            "destination_airport": "AMS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "17:00 – 22:25",
+            "arrival_time": "11:50 – 13:40",
+            "duration": "5h 25min",
+            "price": "128 €",
+            "origin_airport": "BOD",
+            "destination_airport": "AMS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "07:00 – 14:55",
+            "arrival_time": "11:50 – 13:40",
+            "duration": "7h 55min",
+            "price": "128 €",
+            "origin_airport": "BOD",
+            "destination_airport": "AMS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "07:00 – 13:50",
+            "arrival_time": "11:50 – 13:40",
+            "duration": "6h 50min",
+            "price": "131 €",
+            "origin_airport": "BOD",
+            "destination_airport": "AMS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "11:45 – 17:05",
+            "arrival_time": "N/A",
+            "duration": "5h 20min",
+            "price": "133 €",
+            "origin_airport": "BOD",
+            "destination_airport": "AMS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Volotea",
+                "easyJet"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "11:45 – 18:00",
+            "arrival_time": "11:50 – 13:40",
+            "duration": "6h 15min",
+            "price": "136 €",
+            "origin_airport": "BOD",
+            "destination_airport": "AMS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "11:45 – 17:45",
+            "arrival_time": "N/A",
+            "duration": "6h 00min",
+            "price": "140 €",
+            "origin_airport": "BOD",
+            "destination_airport": "AMS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Volotea",
+                "Transavia"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        }
+    ]
+}

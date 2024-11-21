@@ -1,0 +1,298 @@
+{
+    "search_date": "2024-11-21 03:46:15",
+    "flight_date": "2024-12-22",
+    "origin": "BOD",
+    "destination": "BER",
+    "destination_city": "Berlin",
+    "url": "https://www.kayak.fr/flights/BOD-BER/2024-12-22?sort=price_a",
+    "flights": [
+        {
+            "departure_time": "21:00 – 08:55+1",
+            "arrival_time": "21:00 – 08:55\n+1",
+            "duration": "11h 55min",
+            "price": "111 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "8h 40min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "08:10 – 10:25",
+            "arrival_time": "direct",
+            "duration": "2h 15min",
+            "price": "154 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "13:45 – 20:10",
+            "arrival_time": "21:00 – 08:55\n+1",
+            "duration": "6h 25min",
+            "price": "162 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "8h 40min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "12:45 – 21:15",
+            "arrival_time": "21:00 – 08:55\n+1",
+            "duration": "8h 30min",
+            "price": "163 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "8h 40min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "13:45 – 19:35",
+            "arrival_time": "N/A",
+            "duration": "5h 50min",
+            "price": "168 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling",
+                "easyJet"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "18:00 – 22:55",
+            "arrival_time": "21:00 – 08:55\n+1",
+            "duration": "4h 55min",
+            "price": "184 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "8h 40min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "13:45 – 19:00",
+            "arrival_time": "N/A",
+            "duration": "5h 15min",
+            "price": "189 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "15:35 – 22:55",
+            "arrival_time": "N/A",
+            "duration": "7h 20min",
+            "price": "195 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Volotea",
+                "easyJet"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "13:45 – 21:45",
+            "arrival_time": "08:10 – 10:25",
+            "duration": "8h 00min",
+            "price": "205 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "13:45 – 22:45",
+            "arrival_time": "08:10 – 10:25",
+            "duration": "9h 00min",
+            "price": "207 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "17:50 – 22:50",
+            "arrival_time": "08:10 – 10:25",
+            "duration": "5h 00min",
+            "price": "217 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "14:20 – 22:55",
+            "arrival_time": "08:10 – 10:25",
+            "duration": "8h 35min",
+            "price": "223 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "13:45 – 22:55",
+            "arrival_time": "N/A",
+            "duration": "9h 10min",
+            "price": "229 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling",
+                "easyJet"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "14:10 – 22:50",
+            "arrival_time": "08:10 – 10:25",
+            "duration": "8h 40min",
+            "price": "234 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "18:35 – 22:55",
+            "arrival_time": "N/A",
+            "duration": "4h 20min",
+            "price": "237 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        }
+    ]
+}

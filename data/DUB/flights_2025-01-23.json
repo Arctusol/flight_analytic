@@ -1,0 +1,298 @@
+{
+    "search_date": "2024-11-21 05:12:12",
+    "flight_date": "2025-01-23",
+    "origin": "BOD",
+    "destination": "DUB",
+    "destination_city": "Dublin",
+    "url": "https://www.kayak.fr/flights/BOD-DUB/2025-01-23?sort=price_a",
+    "flights": [
+        {
+            "departure_time": "15:25 – 16:25",
+            "arrival_time": "direct",
+            "duration": "2h 00min",
+            "price": "76 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DUB",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Aer Lingus"
+            ],
+            "fare_class": "Saver",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "18:00 – 22:05",
+            "arrival_time": "15:25 – 16:25",
+            "duration": "5h 05min",
+            "price": "92 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DUB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Aer Lingus"
+            ],
+            "fare_class": "Saver",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "06:00 – 12:40",
+            "arrival_time": "15:25 – 16:25",
+            "duration": "7h 40min",
+            "price": "92 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DUB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Aer Lingus"
+            ],
+            "fare_class": "Saver",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "10:40 – 15:40",
+            "arrival_time": "15:25 – 16:25",
+            "duration": "6h 00min",
+            "price": "103 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DUB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Aer Lingus"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "12:30 – 16:40",
+            "arrival_time": "N/A",
+            "duration": "5h 10min",
+            "price": "114 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DUB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "13:35 – 20:15",
+            "arrival_time": "15:25 – 16:25",
+            "duration": "7h 40min",
+            "price": "122 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DUB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Aer Lingus"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "15:55 – 22:50",
+            "arrival_time": "N/A",
+            "duration": "7h 55min",
+            "price": "125 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DUB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "07:00 – 13:55",
+            "arrival_time": "N/A",
+            "duration": "7h 55min",
+            "price": "137 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DUB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Vueling"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "17:55 – 22:10",
+            "arrival_time": "18:00 – 22:05",
+            "duration": "5h 15min",
+            "price": "141 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DUB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 35min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "13:35 – 21:40",
+            "arrival_time": "18:00 – 22:05",
+            "duration": "9h 05min",
+            "price": "141 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DUB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 35min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "06:00 – 14:00",
+            "arrival_time": "18:00 – 22:05",
+            "duration": "9h 00min",
+            "price": "152 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DUB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 35min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "18:30 – 22:50",
+            "arrival_time": "18:00 – 22:05",
+            "duration": "5h 20min",
+            "price": "153 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DUB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 35min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "07:00 – 14:50",
+            "arrival_time": "N/A",
+            "duration": "8h 50min",
+            "price": "154 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DUB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Ryanair"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "05:55 – 15:40",
+            "arrival_time": "18:00 – 22:05",
+            "duration": "10h 45min",
+            "price": "161 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DUB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 35min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "06:00 – 13:40",
+            "arrival_time": "N/A",
+            "duration": "8h 40min",
+            "price": "164 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DUB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "KLM",
+                "Aer Lingus"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        }
+    ]
+}

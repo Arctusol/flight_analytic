@@ -1,0 +1,450 @@
+{
+    "search_date": "2024-11-21 20:57:57",
+    "flight_date": "2024-12-28",
+    "origin": "BOD",
+    "destination": "STO",
+    "destination_city": "Stockholm",
+    "url": "https://www.kayak.fr/flights/BOD-STO/2024-12-28?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "09:25 – 22:55",
+            "arrival_time": "",
+            "duration": "13h 30min",
+            "price": "320 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "",
+            "layover_duration": "9h 35min",
+            "airlines": [
+                "Air France",
+                "Scandinavian Airlines"
+            ],
+            "fare_class": ""
+        },
+        {
+            "departure_time": "06:00 – 10:35",
+            "arrival_time": "",
+            "duration": "4h 35min",
+            "price": "582 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "9h 35min",
+            "airlines": [
+                "Air France",
+                "Scandinavian Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "14:45 – 22:55",
+            "arrival_time": "",
+            "duration": "8h 10min",
+            "price": "461 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "11h 15min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 10:35",
+            "arrival_time": "",
+            "duration": "4h 35min",
+            "price": "665 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "4h 15min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 12:45",
+            "arrival_time": "N/A",
+            "duration": "6h 45min",
+            "price": "588 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": ""
+        },
+        {
+            "departure_time": "13:20 – 22:55",
+            "arrival_time": "",
+            "duration": "9h 35min",
+            "price": "461 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "9h 35min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 22:55",
+            "arrival_time": "N/A",
+            "duration": "16h 55min",
+            "price": "322 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 50min",
+            "airlines": [
+                "Air France",
+                "Scandinavian Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 23:55",
+            "arrival_time": "N/A",
+            "duration": "14h 50min",
+            "price": "361 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": ""
+        },
+        {
+            "departure_time": "06:00 – 12:45",
+            "arrival_time": "",
+            "duration": "6h 45min",
+            "price": "665 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "GVA",
+            "layover_duration": "2h 25min",
+            "airlines": [
+                "Vueling",
+                "Ryanair"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 11:50",
+            "arrival_time": "",
+            "duration": "5h 50min",
+            "price": "830 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "8h 20min",
+            "airlines": [
+                "Vueling",
+                "Ryanair"
+            ],
+            "fare_class": "Go Light"
+        },
+        {
+            "departure_time": "06:00 – 10:35",
+            "arrival_time": "",
+            "duration": "4h 35min",
+            "price": "1 525 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Vueling",
+                "Ryanair"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:40 – 17:10",
+            "arrival_time": "",
+            "duration": "6h 30min",
+            "price": "763 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "GVA",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "Vueling",
+                "Ryanair"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "14:45 – 14:55+1",
+            "arrival_time": "N/A",
+            "duration": "24h 10min",
+            "price": "322 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France",
+                "Scandinavian Airlines"
+            ],
+            "fare_class": ""
+        },
+        {
+            "departure_time": "06:00 – 13:40",
+            "arrival_time": "",
+            "duration": "7h 40min",
+            "price": "728 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "5h 40min",
+            "airlines": [
+                "Vueling",
+                "Ryanair"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "14:45 – 23:40",
+            "arrival_time": "N/A",
+            "duration": "8h 55min",
+            "price": "619 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "13h 00min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "14:45 – 23:40",
+            "arrival_time": "N/A",
+            "duration": "8h 55min",
+            "price": "619 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:10 – 16:25",
+            "arrival_time": "",
+            "duration": "6h 15min",
+            "price": "645 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "12h 35min",
+            "airlines": [
+                "Air France",
+                "Scandinavian Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "07:40 – 20:55",
+            "arrival_time": "",
+            "duration": "13h 15min",
+            "price": "400 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "8h 20min",
+            "airlines": [
+                "Air France",
+                "Scandinavian Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:30 – 11:25+1",
+            "arrival_time": "",
+            "duration": "16h 55min",
+            "price": "302 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Air France",
+                "Scandinavian Airlines"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "06:00 – 13:40",
+            "arrival_time": "",
+            "duration": "7h 40min",
+            "price": "728 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "",
+            "layover_duration": "4h 15min",
+            "airlines": [
+                "Air France",
+                "Scandinavian Airlines"
+            ],
+            "fare_class": ""
+        },
+        {
+            "departure_time": "10:40 – 17:10",
+            "arrival_time": "N/A",
+            "duration": "6h 30min",
+            "price": "763 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": ""
+        },
+        {
+            "departure_time": "12:30 – 22:55",
+            "arrival_time": "",
+            "duration": "10h 25min",
+            "price": "681 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "",
+            "layover_duration": "4h 15min",
+            "airlines": [
+                "Air France",
+                "Scandinavian Airlines"
+            ],
+            "fare_class": ""
+        },
+        {
+            "departure_time": "09:25 – 17:10",
+            "arrival_time": "N/A",
+            "duration": "7h 45min",
+            "price": "757 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": ""
+        },
+        {
+            "departure_time": "06:00 – 11:50",
+            "arrival_time": "N/A",
+            "duration": "5h 50min",
+            "price": "830 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": ""
+        },
+        {
+            "departure_time": "21:45 – 17:00+1",
+            "arrival_time": "",
+            "duration": "19h 15min",
+            "price": "265 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "",
+            "layover_duration": "9h 35min",
+            "airlines": [
+                "Air France",
+                "Scandinavian Airlines"
+            ],
+            "fare_class": ""
+        }
+    ]
+}

@@ -1,0 +1,458 @@
+{
+    "search_date": "2024-11-21 17:01:59",
+    "flight_date": "2024-11-30",
+    "origin": "BOD",
+    "destination": "IST",
+    "destination_city": "Istanbul",
+    "url": "https://www.kayak.fr/flights/BOD-IST/2024-11-30?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "10:20 – 20:35",
+            "arrival_time": "10:20 – 20:35",
+            "duration": "8h 15min",
+            "price": "127 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "ATH",
+            "layover_duration": "3h 30min",
+            "airlines": [
+                "Volotea",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "10:20 – 20:35",
+            "arrival_time": "10:20 – 20:35",
+            "duration": "8h 15min",
+            "price": "89 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "ATH",
+            "layover_duration": "3h 30min",
+            "airlines": [
+                "Volotea",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "10:20 – 21:00",
+            "arrival_time": "10:20 – 20:35",
+            "duration": "8h 40min",
+            "price": "91 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "ATH",
+            "layover_duration": "3h 30min",
+            "airlines": [
+                "Volotea",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "10:05 – 18:40",
+            "arrival_time": "10:20 – 20:35",
+            "duration": "6h 35min",
+            "price": "192 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ATH",
+            "layover_duration": "3h 55min",
+            "airlines": [
+                "Volotea",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "10:20 – 20:35",
+            "arrival_time": "N/A",
+            "duration": "8h 15min",
+            "price": "152 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Aegean Airlines",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "08:50 – 19:30",
+            "arrival_time": "10:20 – 20:35",
+            "duration": "8h 40min",
+            "price": "163 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MRS",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "Volotea",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "16:58 – 04:10+1",
+            "arrival_time": "N/A",
+            "duration": "9h 12min",
+            "price": "199 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ATH",
+            "layover_duration": "3h 30min",
+            "airlines": [
+                "SNCF",
+                "Air France"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "10:20 – 21:00",
+            "arrival_time": "N/A",
+            "duration": "8h 40min",
+            "price": "176 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Aegean Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "07:40 – 15:50",
+            "arrival_time": "10:20 – 20:35",
+            "duration": "6h 10min",
+            "price": "334 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "GVA",
+            "layover_duration": "4h 05min",
+            "airlines": [
+                "Volotea",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "14:40 – 23:25",
+            "arrival_time": "10:20 – 20:35",
+            "duration": "6h 45min",
+            "price": "332 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 59min",
+            "airlines": [
+                "Volotea",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "14:45 – 04:10+1",
+            "arrival_time": "10:20 – 20:35",
+            "duration": "11h 25min",
+            "price": "244 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "ATH",
+            "layover_duration": "3h 55min",
+            "airlines": [
+                "Volotea",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "07:40 – 18:00",
+            "arrival_time": "10:20 – 20:35",
+            "duration": "8h 20min",
+            "price": "266 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LYS",
+            "layover_duration": "1h 35min",
+            "airlines": [
+                "Volotea",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "08:50 – 20:00",
+            "arrival_time": "N/A",
+            "duration": "9h 10min",
+            "price": "235 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ZRH",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "easyJet",
+                "Turkish Airlines"
+            ],
+            "fare_class": "Elight"
+        },
+        {
+            "departure_time": "10:20 – 00:20+1",
+            "arrival_time": "10:20 – 20:35",
+            "duration": "12h 00min",
+            "price": "172 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "6h 30min",
+            "airlines": [
+                "Volotea",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "13:20 – 04:10+1",
+            "arrival_time": "N/A",
+            "duration": "12h 50min",
+            "price": "244 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LYS",
+            "layover_duration": "4h 00min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "07:00 – 17:15",
+            "arrival_time": "N/A",
+            "duration": "8h 15min",
+            "price": "322 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "GVA",
+            "layover_duration": "4h 30min",
+            "airlines": [
+                "easyJet",
+                "Turkish Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "10:20 – 21:00",
+            "arrival_time": "10:20 – 21:00",
+            "duration": "8h 40min",
+            "price": "286 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "ATH",
+            "layover_duration": "7h 00min",
+            "airlines": [
+                "Volotea",
+                "Aegean Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "10:20 – 04:50+1",
+            "arrival_time": "10:20 – 21:00",
+            "duration": "16h 30min",
+            "price": "145 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "7h 55min",
+            "airlines": [
+                "Volotea",
+                "Aegean Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "07:40 – 20:15",
+            "arrival_time": "10:20 – 21:00",
+            "duration": "10h 35min",
+            "price": "241 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LGW",
+            "layover_duration": "2h 35min",
+            "airlines": [
+                "Volotea",
+                "Aegean Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "07:00 – 20:35",
+            "arrival_time": "10:20 – 21:00",
+            "duration": "11h 35min",
+            "price": "238 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ATH",
+            "layover_duration": "3h 55min",
+            "airlines": [
+                "Volotea",
+                "Aegean Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "07:00 – 19:35",
+            "arrival_time": "N/A",
+            "duration": "10h 35min",
+            "price": "270 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ATH",
+            "layover_duration": "3h 55min",
+            "airlines": [
+                "easyJet",
+                "Ajet"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:30 – 23:35",
+            "arrival_time": "10:20 – 21:00",
+            "duration": "15h 05min",
+            "price": "168 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ATH",
+            "layover_duration": "1h 55min",
+            "airlines": [
+                "Volotea",
+                "Aegean Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "07:00 – 19:35",
+            "arrival_time": "N/A",
+            "duration": "10h 35min",
+            "price": "289 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LYS",
+            "layover_duration": "6h 10min",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "07:00 – 23:15",
+            "arrival_time": "N/A",
+            "duration": "14h 15min",
+            "price": "233 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Wizz Air UK"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:30 – 00:10+1",
+            "arrival_time": "10:05 – 18:40",
+            "duration": "15h 40min",
+            "price": "171 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LGW",
+            "layover_duration": "5h 55min",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Standard"
+        }
+    ]
+}

@@ -1,0 +1,306 @@
+{
+    "search_date": "2024-11-21 04:00:52",
+    "flight_date": "2024-12-31",
+    "origin": "BOD",
+    "destination": "LIS",
+    "destination_city": "Lisbonne",
+    "url": "https://www.kayak.fr/flights/BOD-LIS/2024-12-31?sort=price_a",
+    "flights": [
+        {
+            "departure_time": "15:05 – 16:05",
+            "arrival_time": "direct",
+            "duration": "2h 00min",
+            "price": "83 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "14:10 – 17:00",
+            "arrival_time": "15:05 – 16:05",
+            "duration": "3h 50min",
+            "price": "128 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "14:10 – 21:00",
+            "arrival_time": "15:05 – 16:05",
+            "duration": "7h 50min",
+            "price": "128 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "14:10 – 19:00",
+            "arrival_time": "15:05 – 16:05",
+            "duration": "5h 50min",
+            "price": "130 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "06:05 – 13:00",
+            "arrival_time": "N/A",
+            "duration": "7h 55min",
+            "price": "136 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Ryanair",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "09:35 – 13:15",
+            "arrival_time": "15:05 – 16:05",
+            "duration": "4h 40min",
+            "price": "140 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "09:35 – 16:10",
+            "arrival_time": "N/A",
+            "duration": "7h 35min",
+            "price": "144 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling",
+                "easyJet"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "06:30 – 12:45",
+            "arrival_time": "N/A",
+            "duration": "7h 15min",
+            "price": "159 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "17:55 – 21:30",
+            "arrival_time": "14:10 – 17:00",
+            "duration": "4h 35min",
+            "price": "165 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "OPO",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Standard",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "09:05 – 15:10",
+            "arrival_time": "14:10 – 17:00",
+            "duration": "7h 05min",
+            "price": "165 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "OPO",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Standard",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "09:05 – 16:05",
+            "arrival_time": "14:10 – 17:00",
+            "duration": "8h 00min",
+            "price": "185 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "OPO",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Standard",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "06:30 – 11:50",
+            "arrival_time": "14:10 – 17:00",
+            "duration": "6h 20min",
+            "price": "206 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "OPO",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "09:05 – 12:30",
+            "arrival_time": "N/A",
+            "duration": "4h 25min",
+            "price": "214 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "15:55 – 22:25",
+            "arrival_time": "14:10 – 17:00",
+            "duration": "7h 30min",
+            "price": "218 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "OPO",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "10:40 – 15:25",
+            "arrival_time": "N/A",
+            "duration": "5h 45min",
+            "price": "226 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Volotea",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        }
+    ]
+}

@@ -1,0 +1,506 @@
+{
+    "search_date": "2024-11-19 23:59:29",
+    "flight_date": "2024-12-10",
+    "origin": "BOD",
+    "destination": "LON",
+    "flights": [
+        {
+            "departure_time": "19:35 – 20:20",
+            "arrival_time": "direct",
+            "duration": "1h 45min",
+            "price": "49 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LGW",
+            "is_direct": true,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ]
+        },
+        {
+            "departure_time": "19:35 – 20:20",
+            "arrival_time": "direct",
+            "duration": "1h 45min",
+            "price": "36 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LGW",
+            "is_direct": true,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ]
+        },
+        {
+            "departure_time": "07:25 – 08:05",
+            "arrival_time": "direct",
+            "duration": "1h 40min",
+            "price": "60 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LGW",
+            "is_direct": true,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ]
+        },
+        {
+            "departure_time": "13:20 – 14:00",
+            "arrival_time": "direct",
+            "duration": "1h 40min",
+            "price": "86 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LGW",
+            "is_direct": true,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ]
+        },
+        {
+            "departure_time": "18:50 – 22:15",
+            "arrival_time": "N/A",
+            "duration": "4h 25min",
+            "price": "57 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LTN",
+            "is_direct": false,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ]
+        },
+        {
+            "departure_time": "09:35 – 13:50",
+            "arrival_time": "19:35 – 20:20",
+            "duration": "5h 15min",
+            "price": "52 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LGW",
+            "is_direct": false,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ]
+        },
+        {
+            "departure_time": "09:35 – 13:40",
+            "arrival_time": "N/A",
+            "duration": "5h 05min",
+            "price": "61 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LGW",
+            "is_direct": false,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling",
+                "easyJet"
+            ]
+        },
+        {
+            "departure_time": "09:25 – 13:40",
+            "arrival_time": "N/A",
+            "duration": "5h 15min",
+            "price": "65 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LGW",
+            "is_direct": false,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ]
+        },
+        {
+            "departure_time": "16:55 – 22:15",
+            "arrival_time": "19:35 – 20:20",
+            "duration": "6h 20min",
+            "price": "58 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LTN",
+            "is_direct": false,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ]
+        },
+        {
+            "departure_time": "09:25 – 13:10",
+            "arrival_time": "19:35 – 20:20",
+            "duration": "4h 45min",
+            "price": "78 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LTN",
+            "is_direct": false,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ]
+        },
+        {
+            "departure_time": "19:05 – 22:30",
+            "arrival_time": "19:35 – 20:20",
+            "duration": "4h 25min",
+            "price": "91 €",
+            "origin_airport": "BOD",
+            "destination_airport": "STN",
+            "is_direct": false,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ]
+        },
+        {
+            "departure_time": "18:00 – 20:50",
+            "arrival_time": "19:35 – 20:20",
+            "duration": "3h 50min",
+            "price": "117 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LHR",
+            "is_direct": false,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ]
+        },
+        {
+            "departure_time": "06:00 – 09:00",
+            "arrival_time": "N/A",
+            "duration": "4h 00min",
+            "price": "117 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LHR",
+            "is_direct": false,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "KLM"
+            ]
+        },
+        {
+            "departure_time": "06:00 – 08:50",
+            "arrival_time": "19:35 – 20:20",
+            "duration": "3h 50min",
+            "price": "135 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LCY",
+            "is_direct": false,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ]
+        },
+        {
+            "departure_time": "12:30 – 16:05",
+            "arrival_time": "N/A",
+            "duration": "4h 35min",
+            "price": "117 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LHR",
+            "is_direct": false,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "KLM"
+            ]
+        },
+        {
+            "departure_time": "08:55 – 13:05",
+            "arrival_time": "N/A",
+            "duration": "5h 10min",
+            "price": "99 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LGW",
+            "is_direct": false,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ]
+        },
+        {
+            "departure_time": "06:05 – 13:00",
+            "arrival_time": "07:25 – 08:05",
+            "duration": "7h 55min",
+            "price": "66 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LGW",
+            "is_direct": false,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ]
+        },
+        {
+            "departure_time": "13:35 – 16:35",
+            "arrival_time": "07:25 – 08:05",
+            "duration": "4h 00min",
+            "price": "181 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LHR",
+            "is_direct": false,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ]
+        },
+        {
+            "departure_time": "06:00 – 09:30",
+            "arrival_time": "07:25 – 08:05",
+            "duration": "4h 30min",
+            "price": "156 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LCY",
+            "is_direct": false,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ]
+        },
+        {
+            "departure_time": "15:30 – 22:25",
+            "arrival_time": "07:25 – 08:05",
+            "duration": "7h 55min",
+            "price": "83 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LTN",
+            "is_direct": false,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ]
+        },
+        {
+            "departure_time": "14:50 – 17:50",
+            "arrival_time": "N/A",
+            "duration": "4h 00min",
+            "price": "204 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LGW",
+            "is_direct": false,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "SWISS"
+            ]
+        },
+        {
+            "departure_time": "12:30 – 17:00",
+            "arrival_time": "07:25 – 08:05",
+            "duration": "5h 30min",
+            "price": "117 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LHR",
+            "is_direct": false,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ]
+        },
+        {
+            "departure_time": "09:05 – 14:30",
+            "arrival_time": "N/A",
+            "duration": "6h 25min",
+            "price": "94 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LGW",
+            "is_direct": false,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ]
+        },
+        {
+            "departure_time": "12:30 – 18:10",
+            "arrival_time": "N/A",
+            "duration": "6h 40min",
+            "price": "91 €",
+            "origin_airport": "BOD",
+            "destination_airport": "STN",
+            "is_direct": false,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Ryanair UK"
+            ]
+        },
+        {
+            "departure_time": "12:30 – 16:35",
+            "arrival_time": "13:20 – 14:00",
+            "duration": "5h 05min",
+            "price": "135 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LCY",
+            "is_direct": false,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ]
+        },
+        {
+            "departure_time": "09:05 – 13:20",
+            "arrival_time": "13:20 – 14:00",
+            "duration": "5h 15min",
+            "price": "127 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LGW",
+            "is_direct": false,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ]
+        },
+        {
+            "departure_time": "06:00 – 10:45",
+            "arrival_time": "13:20 – 14:00",
+            "duration": "5h 45min",
+            "price": "117 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LHR",
+            "is_direct": false,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ]
+        },
+        {
+            "departure_time": "09:35 – 13:45",
+            "arrival_time": "13:20 – 14:00",
+            "duration": "5h 10min",
+            "price": "141 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LHR",
+            "is_direct": false,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ]
+        },
+        {
+            "departure_time": "09:05 – 15:55",
+            "arrival_time": "N/A",
+            "duration": "7h 50min",
+            "price": "87 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LGW",
+            "is_direct": false,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ]
+        },
+        {
+            "departure_time": "15:55 – 21:25",
+            "arrival_time": "13:20 – 14:00",
+            "duration": "6h 30min",
+            "price": "116 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LHR",
+            "is_direct": false,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ]
+        },
+        {
+            "departure_time": "12:30 – 17:25",
+            "arrival_time": "N/A",
+            "duration": "5h 55min",
+            "price": "135 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LCY",
+            "is_direct": false,
+            "checked_baggage": "1 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "KLM"
+            ]
+        }
+    ]
+}

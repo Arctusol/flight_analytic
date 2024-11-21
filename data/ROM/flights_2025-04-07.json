@@ -1,0 +1,303 @@
+{
+    "search_date": "2024-11-21 01:14:02",
+    "flight_date": "2025-04-07",
+    "origin": "BOD",
+    "destination": "ROM",
+    "destination_city": "Rome",
+    "url": "https://www.kayak.fr/flights/BOD-ROM/2025-04-07?sort=price_a",
+    "flights": [
+        {
+            "departure_time": "18:15 – 23:45",
+            "arrival_time": "18:15 – 23:45",
+            "duration": "5h 30min",
+            "price": "48 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 25min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Économique",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "18:15 – 23:35",
+            "arrival_time": "18:15 – 23:45",
+            "duration": "5h 20min",
+            "price": "53 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 25min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Économique",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "15:15 – 17:20",
+            "arrival_time": "direct",
+            "duration": "2h 05min",
+            "price": "76 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Économique",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "18:15 – 22:40",
+            "arrival_time": "18:15 – 23:45",
+            "duration": "4h 25min",
+            "price": "82 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 25min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "08:55 – 15:05",
+            "arrival_time": "N/A",
+            "duration": "6h 10min",
+            "price": "82 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Wizz Air Malta"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "06:30 – 12:05",
+            "arrival_time": "18:15 – 23:45",
+            "duration": "5h 35min",
+            "price": "93 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 25min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "10:35 – 15:05",
+            "arrival_time": "N/A",
+            "duration": "4h 30min",
+            "price": "94 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Wizz Air Malta"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "13:15 – 21:30",
+            "arrival_time": "N/A",
+            "duration": "8h 15min",
+            "price": "94 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "15:30 – 22:10",
+            "arrival_time": "18:15 – 23:35",
+            "duration": "6h 40min",
+            "price": "95 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Vueling",
+                "Wizz Air Malta"
+            ],
+            "fare_class": "Économique",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "18:50 – 23:35",
+            "arrival_time": "18:15 – 23:35",
+            "duration": "4h 45min",
+            "price": "100 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Vueling",
+                "Wizz Air Malta"
+            ],
+            "fare_class": "Économique",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "17:55 – 23:10",
+            "arrival_time": "18:15 – 23:35",
+            "duration": "5h 15min",
+            "price": "100 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Vueling",
+                "Wizz Air Malta"
+            ],
+            "fare_class": "Économique",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "18:50 – 23:45",
+            "arrival_time": "18:15 – 23:35",
+            "duration": "4h 55min",
+            "price": "106 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Vueling",
+                "Wizz Air Malta"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "13:35 – 18:40",
+            "arrival_time": "N/A",
+            "duration": "5h 05min",
+            "price": "111 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "08:55 – 17:00",
+            "arrival_time": "18:15 – 23:35",
+            "duration": "8h 05min",
+            "price": "115 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Vueling",
+                "Wizz Air Malta"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "16:30 – 00:55+1",
+            "arrival_time": "N/A",
+            "duration": "8h 25min",
+            "price": "117 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Wizz Air Malta"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        }
+    ]
+}

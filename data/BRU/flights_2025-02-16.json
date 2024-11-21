@@ -1,0 +1,298 @@
+{
+    "search_date": "2024-11-21 14:41:58",
+    "flight_date": "2025-02-16",
+    "origin": "BOD",
+    "destination": "BRU",
+    "destination_city": "Bruxelles",
+    "url": "https://www.kayak.fr/flights/BOD-BRU/2025-02-16?sort=price_a",
+    "flights": [
+        {
+            "departure_time": "09:55 – 16:40",
+            "arrival_time": "09:55 – 16:40",
+            "duration": "6h 45min",
+            "price": "71 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "3h 15min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Économique",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "23:05 – 09:05+1",
+            "arrival_time": "09:55 – 16:40",
+            "duration": "10h 00min",
+            "price": "71 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "3h 15min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Économique",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "20:55 – 08:00+1",
+            "arrival_time": "09:55 – 16:40",
+            "duration": "11h 05min",
+            "price": "73 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "3h 15min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Économique",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "16:54 – 08:47+1",
+            "arrival_time": "2 changements",
+            "duration": "15h 53min",
+            "price": "73 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "23:05 – 08:30+1",
+            "arrival_time": "N/A",
+            "duration": "9h 25min",
+            "price": "80 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling",
+                "Ryanair"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "23:05 – 11:55+1",
+            "arrival_time": "09:55 – 16:40",
+            "duration": "12h 50min",
+            "price": "81 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CRL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "3h 15min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "23:05 – 13:50+1",
+            "arrival_time": "N/A",
+            "duration": "14h 45min",
+            "price": "81 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "09:55 – 14:45",
+            "arrival_time": "N/A",
+            "duration": "4h 50min",
+            "price": "87 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CRL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling",
+                "Ryanair"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "23:05 – 14:45+1",
+            "arrival_time": "23:05 – 09:05\n+1",
+            "duration": "15h 40min",
+            "price": "88 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "6h 35min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Économique",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "21:30 – 12:15+1",
+            "arrival_time": "23:05 – 09:05\n+1",
+            "duration": "14h 45min",
+            "price": "90 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "6h 35min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Économique",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "11:10 – 20:35",
+            "arrival_time": "23:05 – 09:05\n+1",
+            "duration": "9h 25min",
+            "price": "93 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "6h 35min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Économique",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "23:05 – 12:15+1",
+            "arrival_time": "23:05 – 09:05\n+1",
+            "duration": "13h 10min",
+            "price": "95 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "6h 35min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "09:55 – 17:35",
+            "arrival_time": "N/A",
+            "duration": "7h 40min",
+            "price": "96 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling",
+                "Ryanair"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "06:00 – 10:10",
+            "arrival_time": "23:05 – 09:05\n+1",
+            "duration": "4h 10min",
+            "price": "102 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "6h 35min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        },
+        {
+            "departure_time": "18:05 – 22:15",
+            "arrival_time": "N/A",
+            "duration": "4h 10min",
+            "price": "102 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "N/A",
+            "flight_number": "N/A",
+            "equipment_type": "N/A"
+        }
+    ]
+}

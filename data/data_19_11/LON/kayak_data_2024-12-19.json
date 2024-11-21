@@ -1,0 +1,152 @@
+{
+    "search_date": "2024-11-19 17:26:37",
+    "flight_date": "2024-12-19",
+    "origin": "BOD",
+    "destination": "LON",
+    "flights": [
+        {
+            "departure_time": "20:35 – 21:15",
+            "arrival_time": "direct",
+            "duration": "1h 40min",
+            "price": "33 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LON",
+            "is_direct": true
+        },
+        {
+            "departure_time": "20:35 – 21:15",
+            "arrival_time": "direct",
+            "duration": "1h 40min",
+            "price": "33 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LON",
+            "is_direct": true
+        },
+        {
+            "departure_time": "06:50 – 07:30",
+            "arrival_time": "direct",
+            "duration": "1h 40min",
+            "price": "53 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LON",
+            "is_direct": true
+        },
+        {
+            "departure_time": "15:30 – 16:10",
+            "arrival_time": "direct",
+            "duration": "1h 40min",
+            "price": "62 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LON",
+            "is_direct": true
+        },
+        {
+            "departure_time": "15:50 – 19:15",
+            "arrival_time": "1 escale",
+            "duration": "4h 25min",
+            "price": "87 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LON",
+            "is_direct": false
+        },
+        {
+            "departure_time": "15:45 – 19:15",
+            "arrival_time": "1 escale",
+            "duration": "4h 30min",
+            "price": "87 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LON",
+            "is_direct": false
+        },
+        {
+            "departure_time": "09:25 – 13:10",
+            "arrival_time": "1 escale",
+            "duration": "4h 45min",
+            "price": "91 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LON",
+            "is_direct": false
+        },
+        {
+            "departure_time": "18:35 – 21:25",
+            "arrival_time": "1 escale",
+            "duration": "3h 50min",
+            "price": "127 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LON",
+            "is_direct": false
+        },
+        {
+            "departure_time": "07:00 – 11:15",
+            "arrival_time": "1 escale",
+            "duration": "5h 15min",
+            "price": "89 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LON",
+            "is_direct": false
+        },
+        {
+            "departure_time": "13:35 – 18:45",
+            "arrival_time": "1 escale",
+            "duration": "6h 10min",
+            "price": "95 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LON",
+            "is_direct": false
+        },
+        {
+            "departure_time": "09:05 – 12:15",
+            "arrival_time": "1 escale",
+            "duration": "4h 10min",
+            "price": "132 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LON",
+            "is_direct": false
+        },
+        {
+            "departure_time": "13:35 – 17:50",
+            "arrival_time": "1 escale",
+            "duration": "5h 15min",
+            "price": "112 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LON",
+            "is_direct": false
+        },
+        {
+            "departure_time": "06:00 – 08:50",
+            "arrival_time": "1 escale",
+            "duration": "3h 50min",
+            "price": "209 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LON",
+            "is_direct": false
+        },
+        {
+            "departure_time": "08:41 – 14:25",
+            "arrival_time": "1 escale",
+            "duration": "6h 44min",
+            "price": "89 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LON",
+            "is_direct": false
+        },
+        {
+            "departure_time": "07:00 – 11:55",
+            "arrival_time": "1 escale",
+            "duration": "5h 55min",
+            "price": "106 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LON",
+            "is_direct": false
+        },
+        {
+            "departure_time": "13:35 – 20:15",
+            "arrival_time": "1 escale",
+            "duration": "7h 40min",
+            "price": "95 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LON",
+            "is_direct": false
+        }
+    ]
+}

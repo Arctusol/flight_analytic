@@ -1,0 +1,57 @@
+{
+    "search_date": "2024-11-19 23:49:27",
+    "flight_date": "2024-11-22",
+    "origin": "BOD",
+    "destination": "BCN",
+    "destination_city": "Barcelone",
+    "flights": [
+        {
+            "departure_time": "09:45 – 11:00",
+            "arrival_time": "direct",
+            "duration": "1h 15min",
+            "price": "65 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BCN",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling"
+            ]
+        },
+        {
+            "departure_time": "09:45 – 11:00",
+            "arrival_time": "direct",
+            "duration": "1h 15min",
+            "price": "65 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BCN",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling"
+            ]
+        },
+        {
+            "departure_time": "09:45 – 11:00",
+            "arrival_time": "direct",
+            "duration": "1h 15min",
+            "price": "194 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BCN",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling"
+            ]
+        }
+    ]
+}

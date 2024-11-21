@@ -1,0 +1,44 @@
+{
+    "search_date": "2024-11-21 21:16:24",
+    "flight_date": "2024-12-30",
+    "origin": "BOD",
+    "destination": "HEL",
+    "destination_city": "Helsinki",
+    "url": "https://www.kayak.fr/flights/BOD-HEL/2024-12-30?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "15:55 – 22:35",
+            "arrival_time": "15:55 – 22:35",
+            "duration": "5h 40min",
+            "price": "468 €",
+            "origin_airport": "BOD",
+            "destination_airport": "HEL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "15:55 – 22:35",
+            "arrival_time": "15:55 – 22:35",
+            "duration": "5h 40min",
+            "price": "466 €",
+            "origin_airport": "BOD",
+            "destination_airport": "HEL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        }
+    ]
+}

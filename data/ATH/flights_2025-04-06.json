@@ -1,0 +1,131 @@
+{
+    "search_date": "2024-11-21 21:01:20",
+    "flight_date": "2025-04-06",
+    "origin": "BOD",
+    "destination": "ATH",
+    "destination_city": "Athènes",
+    "url": "https://www.kayak.fr/flights/BOD-ATH/2025-04-06?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "06:00 – 10:15",
+            "arrival_time": "direct",
+            "duration": "3h 15min",
+            "price": "202 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": true,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "20:00 – 05:45+1",
+            "arrival_time": "06:00 – 10:15",
+            "duration": "8h 45min",
+            "price": "140 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BCN",
+            "layover_duration": "4h 40min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "13:20 – 22:20",
+            "arrival_time": "06:00 – 10:15",
+            "duration": "8h 00min",
+            "price": "226 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "NCE",
+            "layover_duration": "4h 15min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "13:05 – 22:50",
+            "arrival_time": "06:00 – 10:15",
+            "duration": "8h 45min",
+            "price": "206 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MXP",
+            "layover_duration": "4h 50min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "14:20 – 05:45+1",
+            "arrival_time": "N/A",
+            "duration": "14h 25min",
+            "price": "123 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "10h 20min",
+            "airlines": [
+                "Vueling",
+                "Aegean Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "12:55 – 05:45+1",
+            "arrival_time": "06:00 – 10:15",
+            "duration": "15h 50min",
+            "price": "123 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "11h 45min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "20:00 – 15:50+1",
+            "arrival_time": "N/A",
+            "duration": "18h 50min",
+            "price": "161 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ATH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "14h 45min",
+            "airlines": [
+                "Vueling",
+                "Aegean Airlines"
+            ],
+            "fare_class": "Economy"
+        }
+    ]
+}

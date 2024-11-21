@@ -1,0 +1,61 @@
+{
+    "search_date": "2024-11-21 17:55:23",
+    "flight_date": "2025-04-11",
+    "origin": "BOD",
+    "destination": "BRU",
+    "destination_city": "Bruxelles",
+    "url": "https://www.kayak.fr/flights/BOD-BRU/2025-04-11?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "06:30 – 09:40",
+            "arrival_time": "06:30 – 09:40",
+            "duration": "3h 10min",
+            "price": "139 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 40min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:10 – 22:15",
+            "arrival_time": "06:30 – 09:40",
+            "duration": "5h 05min",
+            "price": "139 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 35min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:30 – 14:35",
+            "arrival_time": "06:30 – 09:40",
+            "duration": "8h 05min",
+            "price": "139 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "5h 30min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "search_date": "2024-11-19 23:55:22",
+    "flight_date": "2024-11-23",
+    "origin": "BOD",
+    "destination": "AMS",
+    "destination_city": "Amsterdam",
+    "flights": [
+        {
+            "departure_time": "06:00 – 07:45",
+            "arrival_time": "direct",
+            "duration": "1h 45min",
+            "price": "603 €",
+            "origin_airport": "BOD",
+            "destination_airport": "AMS",
+            "is_direct": true,
+            "checked_baggage": "0 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "KLM"
+            ]
+        },
+        {
+            "departure_time": "06:00 – 07:45",
+            "arrival_time": "direct",
+            "duration": "1h 45min",
+            "price": "474 €",
+            "origin_airport": "BOD",
+            "destination_airport": "AMS",
+            "is_direct": true,
+            "checked_baggage": "0 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "KLM"
+            ]
+        },
+        {
+            "departure_time": "12:30 – 14:20",
+            "arrival_time": "direct",
+            "duration": "1h 50min",
+            "price": "586 €",
+            "origin_airport": "BOD",
+            "destination_airport": "AMS",
+            "is_direct": true,
+            "checked_baggage": "0 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "KLM"
+            ]
+        },
+        {
+            "departure_time": "12:30 – 14:20",
+            "arrival_time": "direct",
+            "duration": "1h 50min",
+            "price": "586 €",
+            "origin_airport": "BOD",
+            "destination_airport": "AMS",
+            "is_direct": true,
+            "checked_baggage": "0 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "KLM"
+            ]
+        },
+        {
+            "departure_time": "06:00 – 07:45",
+            "arrival_time": "direct",
+            "duration": "1h 45min",
+            "price": "586 €",
+            "origin_airport": "BOD",
+            "destination_airport": "AMS",
+            "is_direct": true,
+            "checked_baggage": "0 bagage en soute",
+            "hand_baggage": "1 bagage à main",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ]
+        }
+    ]
+}
