@@ -1,0 +1,438 @@
+{
+    "search_date": "2024-11-22 15:44:47",
+    "flight_date": "2025-03-16",
+    "origin": "BOD",
+    "destination": "STO",
+    "destination_city": "Stockholm",
+    "url": "https://www.kayak.fr/flights/BOD-STO/2025-03-16?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "06:00 – 10:35",
+            "arrival_time": "06:00 – 10:35",
+            "duration": "4h 35min",
+            "price": "117 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 45min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:05 – 22:55",
+            "arrival_time": "06:00 – 10:35",
+            "duration": "4h 50min",
+            "price": "152 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 55min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "12:30 – 19:05",
+            "arrival_time": "06:00 – 10:35",
+            "duration": "6h 35min",
+            "price": "120 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 12:45",
+            "arrival_time": "06:00 – 10:35",
+            "duration": "6h 45min",
+            "price": "117 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 50min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:35 – 23:40",
+            "arrival_time": "N/A",
+            "duration": "5h 05min",
+            "price": "187 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 11:50",
+            "arrival_time": "06:00 – 10:35",
+            "duration": "5h 50min",
+            "price": "172 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "11:55 – 17:10",
+            "arrival_time": "N/A",
+            "duration": "5h 15min",
+            "price": "193 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 10:35",
+            "arrival_time": "N/A",
+            "duration": "4h 35min",
+            "price": "289 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "Scandinavian Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:30 – 23:30",
+            "arrival_time": "18:05 – 22:55",
+            "duration": "5h 00min",
+            "price": "288 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 50min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:05 – 23:20",
+            "arrival_time": "18:05 – 22:55",
+            "duration": "5h 15min",
+            "price": "270 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "FRA",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "21:15 – 10:40+1",
+            "arrival_time": "18:05 – 22:55",
+            "duration": "13h 25min",
+            "price": "184 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 20min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "12:30 – 21:30",
+            "arrival_time": "18:05 – 22:55",
+            "duration": "9h 00min",
+            "price": "199 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 9h 15min, ,[object Object]",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Plus"
+        },
+        {
+            "departure_time": "18:35 – 23:40",
+            "arrival_time": "N/A",
+            "duration": "5h 05min",
+            "price": "417 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "5h 10min",
+            "airlines": [
+                "Scandinavian Airlines"
+            ],
+            "fare_class": "Go Light"
+        },
+        {
+            "departure_time": "06:00 – 12:40",
+            "arrival_time": "18:05 – 22:55",
+            "duration": "6h 40min",
+            "price": "270 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 11:50",
+            "arrival_time": "N/A",
+            "duration": "5h 50min",
+            "price": "352 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 50min",
+            "airlines": [
+                "Scandinavian Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "12:30 – 19:00",
+            "arrival_time": "N/A",
+            "duration": "6h 30min",
+            "price": "209 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "Air France",
+                "KLM"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:05 – 23:20",
+            "arrival_time": "12:30 – 19:05",
+            "duration": "5h 15min",
+            "price": "270 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 40min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:30 – 23:30",
+            "arrival_time": "12:30 – 19:05",
+            "duration": "5h 00min",
+            "price": "288 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 20min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 12:45",
+            "arrival_time": "12:30 – 19:05",
+            "duration": "6h 45min",
+            "price": "209 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "FRA",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "06:00 – 19:00",
+            "arrival_time": "12:30 – 19:05",
+            "duration": "13h 00min",
+            "price": "116 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 16:35",
+            "arrival_time": "N/A",
+            "duration": "10h 35min",
+            "price": "138 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:55 – 18:25",
+            "arrival_time": "12:30 – 19:05",
+            "duration": "8h 30min",
+            "price": "150 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "9h 15min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:05 – 23:20",
+            "arrival_time": "N/A",
+            "duration": "5h 15min",
+            "price": "331 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "KLM",
+                "Scandinavian Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "15:35 – 00:30+1",
+            "arrival_time": "N/A",
+            "duration": "8h 55min",
+            "price": "160 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "6h 50min",
+            "airlines": [
+                "easyJet",
+                "Ryanair"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 12:40",
+            "arrival_time": "06:00 – 12:45",
+            "duration": "6h 40min",
+            "price": "270 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "BCN",
+            "layover_duration": "3h 30min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Economy"
+        }
+    ]
+}

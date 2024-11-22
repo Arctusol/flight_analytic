@@ -1,0 +1,451 @@
+{
+    "search_date": "2024-11-22 15:53:20",
+    "flight_date": "2024-12-14",
+    "origin": "BOD",
+    "destination": "LIS",
+    "destination_city": "Lisbonne",
+    "url": "https://www.kayak.fr/flights/BOD-LIS/2024-12-14?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "16:55 – 17:50",
+            "arrival_time": "direct",
+            "duration": "1h 55min",
+            "price": "32 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": true,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "15:30 – 20:40",
+            "arrival_time": "16:55 – 17:50",
+            "duration": "6h 10min",
+            "price": "80 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "17:55 – 21:30",
+            "arrival_time": "16:55 – 17:50",
+            "duration": "4h 35min",
+            "price": "109 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AGP",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "17:55 – 21:30",
+            "arrival_time": "16:55 – 17:50",
+            "duration": "4h 35min",
+            "price": "109 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 10:35",
+            "arrival_time": "N/A",
+            "duration": "5h 35min",
+            "price": "120 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 11:50",
+            "arrival_time": "16:55 – 17:50",
+            "duration": "3h 45min",
+            "price": "187 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 12:30",
+            "arrival_time": "N/A",
+            "duration": "4h 25min",
+            "price": "149 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 50min",
+            "airlines": [
+                "Iberia",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:55 – 21:30",
+            "arrival_time": "N/A",
+            "duration": "4h 35min",
+            "price": "148 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "0h 55min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 21:30",
+            "arrival_time": "15:30 – 20:40",
+            "duration": "4h 35min",
+            "price": "149 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AGP",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Volotea",
+                "Ryanair"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "17:55 – 22:55",
+            "arrival_time": "15:30 – 20:40",
+            "duration": "6h 00min",
+            "price": "111 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "Volotea",
+                "Ryanair"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 22:55",
+            "arrival_time": "15:30 – 20:40",
+            "duration": "6h 00min",
+            "price": "111 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "Volotea",
+                "Ryanair"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "13:20 – 17:30",
+            "arrival_time": "15:30 – 20:40",
+            "duration": "5h 10min",
+            "price": "232 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "Volotea",
+                "Ryanair"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "20:45 – 08:15+1",
+            "arrival_time": "N/A",
+            "duration": "12h 30min",
+            "price": "88 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 10min",
+            "airlines": [
+                "SNCF",
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "11:35 – 17:30",
+            "arrival_time": "15:30 – 20:40",
+            "duration": "6h 55min",
+            "price": "158 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AGP",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Volotea",
+                "Ryanair"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 15:15",
+            "arrival_time": "N/A",
+            "duration": "7h 10min",
+            "price": "149 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 10min",
+            "airlines": [
+                "Iberia",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "08:15 – 13:25",
+            "arrival_time": "N/A",
+            "duration": "6h 10min",
+            "price": "194 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "Volotea",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "07:15 – 11:20",
+            "arrival_time": "17:55 – 21:30",
+            "duration": "5h 05min",
+            "price": "293 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "PAR-ORY",
+            "layover_duration": "Escale de 7h 21min, ,[object Object]",
+            "airlines": [
+                "Vueling",
+                "Ryanair"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 16:05",
+            "arrival_time": "17:55 – 21:30",
+            "duration": "8h 00min",
+            "price": "147 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MRS",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "Vueling",
+                "Ryanair"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "07:45 – 13:25",
+            "arrival_time": "17:55 – 21:30",
+            "duration": "6h 40min",
+            "price": "189 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 25min",
+            "airlines": [
+                "Vueling",
+                "Ryanair"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 10:35",
+            "arrival_time": "17:55 – 21:30",
+            "duration": "5h 35min",
+            "price": "284 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "RAK",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "Vueling",
+                "Ryanair"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 11:20",
+            "arrival_time": "N/A",
+            "duration": "6h 20min",
+            "price": "259 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "16:00 – 22:25",
+            "arrival_time": "17:55 – 21:30",
+            "duration": "7h 25min",
+            "price": "219 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "Vueling",
+                "Ryanair"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "10:40 – 15:10",
+            "arrival_time": "N/A",
+            "duration": "5h 30min",
+            "price": "313 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 10min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "11:40 – 17:30",
+            "arrival_time": "N/A",
+            "duration": "6h 50min",
+            "price": "259 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "15:20 – 22:55",
+            "arrival_time": "17:55 – 21:30",
+            "duration": "8h 35min",
+            "price": "200 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "RAK",
+            "layover_duration": "2h 20min",
+            "airlines": [
+                "Iberia",
+                "Ryanair"
+            ],
+            "fare_class": "Economy"
+        }
+    ]
+}

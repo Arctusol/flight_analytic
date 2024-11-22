@@ -1,0 +1,451 @@
+{
+    "search_date": "2024-11-22 15:35:12",
+    "flight_date": "2024-11-24",
+    "origin": "BOD",
+    "destination": "BRU",
+    "destination_city": "Bruxelles",
+    "url": "https://www.kayak.fr/flights/BOD-BRU/2024-11-24?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "18:30 – 22:35",
+            "arrival_time": "18:30 – 22:35",
+            "duration": "4h 05min",
+            "price": "294 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "FRA",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "05:58 – 12:06",
+            "arrival_time": "1 changement",
+            "duration": "6h 08min",
+            "price": "110 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": true,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "08:10 – 16:00",
+            "arrival_time": "18:30 – 22:35",
+            "duration": "7h 50min",
+            "price": "176 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "FRA",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "18:30 – 22:35",
+            "arrival_time": "18:30 – 22:35",
+            "duration": "4h 05min",
+            "price": "257 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BER",
+            "layover_duration": "4h 05min",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "14:55 – 19:10",
+            "arrival_time": "N/A",
+            "duration": "4h 15min",
+            "price": "257 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "06:00 – 10:10",
+            "arrival_time": "18:30 – 22:35",
+            "duration": "4h 10min",
+            "price": "258 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FRA",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "20:55 – 08:00+1",
+            "arrival_time": "N/A",
+            "duration": "11h 05min",
+            "price": "209 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ZRH",
+            "layover_duration": "1h 20min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "06:00 – 14:15",
+            "arrival_time": "N/A",
+            "duration": "8h 15min",
+            "price": "258 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "21:30 – 12:15+1",
+            "arrival_time": "05:58 – 12:06",
+            "duration": "14h 45min",
+            "price": "148 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "GVA",
+            "layover_duration": "8h 25min",
+            "airlines": [
+                "SNCF",
+                "Eurostar"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "18:00 – 09:05+1",
+            "arrival_time": "05:58 – 12:06",
+            "duration": "15h 05min",
+            "price": "181 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "5h 45min",
+            "airlines": [
+                "SNCF",
+                "Eurostar"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:00 – 08:30+1",
+            "arrival_time": "05:58 – 12:06",
+            "duration": "14h 30min",
+            "price": "187 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "NCE",
+            "layover_duration": "11h 45min",
+            "airlines": [
+                "SNCF",
+                "Eurostar"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 15:30",
+            "arrival_time": "05:58 – 12:06",
+            "duration": "9h 30min",
+            "price": "258 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "SNCF",
+                "Eurostar"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "18:00 – 09:05+1",
+            "arrival_time": "N/A",
+            "duration": "15h 05min",
+            "price": "195 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CRL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "11h 40min",
+            "airlines": [
+                "easyJet",
+                "Ryanair"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:00 – 23:25",
+            "arrival_time": "05:58 – 12:06",
+            "duration": "5h 25min",
+            "price": "347 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "11h 00min",
+            "airlines": [
+                "SNCF",
+                "Eurostar"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:45 – 08:30+1",
+            "arrival_time": "N/A",
+            "duration": "13h 45min",
+            "price": "231 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FUE",
+            "layover_duration": "1h 55min",
+            "airlines": [
+                "Volotea",
+                "Vueling",
+                "Ryanair"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:45 – 09:05+1",
+            "arrival_time": "N/A",
+            "duration": "14h 20min",
+            "price": "233 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ZRH",
+            "layover_duration": "1h 35min",
+            "airlines": [
+                "Volotea",
+                "Vueling"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "14:20 – 20:35",
+            "arrival_time": "08:10 – 16:00",
+            "duration": "6h 15min",
+            "price": "379 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BER",
+            "layover_duration": "4h 05min",
+            "airlines": [
+                "easyJet",
+                "Ryanair"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "09:50 – 22:45",
+            "arrival_time": "08:10 – 16:00",
+            "duration": "12h 55min",
+            "price": "262 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CRL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "easyJet",
+                "Ryanair"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:50 – 01:45+1",
+            "arrival_time": "08:10 – 16:00",
+            "duration": "15h 55min",
+            "price": "218 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "NCE",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "easyJet",
+                "Ryanair"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "14:25 – 20:45",
+            "arrival_time": "08:10 – 16:00",
+            "duration": "6h 20min",
+            "price": "395 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CRL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "NCE",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "easyJet",
+                "Ryanair"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "10:45 – 21:40",
+            "arrival_time": "N/A",
+            "duration": "10h 55min",
+            "price": "319 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CRL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Volotea",
+                "Ryanair"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "08:10 – 18:20",
+            "arrival_time": "08:10 – 16:00",
+            "duration": "10h 10min",
+            "price": "329 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CRL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "NCE",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "easyJet",
+                "Ryanair"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "14:40 – 20:25",
+            "arrival_time": "N/A",
+            "duration": "5h 45min",
+            "price": "414 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CRL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "TNG",
+            "layover_duration": "8h 00min",
+            "airlines": [
+                "easyJet",
+                "Ryanair"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "18:30 – 08:40+1",
+            "arrival_time": "N/A",
+            "duration": "14h 10min",
+            "price": "276 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "TNG",
+            "layover_duration": "3h 35min",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:45 – 10:10+1",
+            "arrival_time": "18:30 – 22:35",
+            "duration": "15h 25min",
+            "price": "255 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "FRA",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Economy Light"
+        }
+    ]
+}

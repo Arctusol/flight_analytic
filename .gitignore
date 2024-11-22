@@ -27,6 +27,7 @@ ENV/
 .env
 .venv/
 .venv
+.cursorignore
 
 # Données et logs
 data/logs/

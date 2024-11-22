@@ -1,0 +1,440 @@
+{
+    "search_date": "2024-11-22 15:52:36",
+    "flight_date": "2025-02-25",
+    "origin": "BOD",
+    "destination": "MIA",
+    "destination_city": "Miami",
+    "url": "https://www.kayak.fr/flights/BOD-MIA/2025-02-25?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "09:05 – 15:45",
+            "arrival_time": "09:05 – 15:45",
+            "duration": "12h 40min",
+            "price": "883 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "19:50 – 20:00+1",
+            "arrival_time": "09:05 – 15:45",
+            "duration": "30h 10min",
+            "price": "239 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "BCN",
+            "layover_duration": "17h 40min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 15:45",
+            "arrival_time": "09:05 – 15:45",
+            "duration": "12h 40min",
+            "price": "881 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 15:45",
+            "arrival_time": "09:05 – 15:45",
+            "duration": "12h 40min",
+            "price": "944 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 19:25",
+            "arrival_time": "N/A",
+            "duration": "16h 20min",
+            "price": "698 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia",
+                "Air Europa"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 20:30",
+            "arrival_time": "09:05 – 15:45",
+            "duration": "17h 25min",
+            "price": "881 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 21:00",
+            "arrival_time": "N/A",
+            "duration": "17h 55min",
+            "price": "886 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 55min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 20:59",
+            "arrival_time": "N/A",
+            "duration": "17h 54min",
+            "price": "886 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 40min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 19:42",
+            "arrival_time": "19:50 – 20:00\n+1",
+            "duration": "16h 37min",
+            "price": "945 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:35 – 20:30",
+            "arrival_time": "19:50 – 20:00\n+1",
+            "duration": "19h 55min",
+            "price": "686 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 00min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 21:30",
+            "arrival_time": "19:50 – 20:00\n+1",
+            "duration": "18h 25min",
+            "price": "900 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "BCN",
+            "layover_duration": "17h 40min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 19:42",
+            "arrival_time": "19:50 – 20:00\n+1",
+            "duration": "16h 37min",
+            "price": "946 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "09:05 – 20:30",
+            "arrival_time": "N/A",
+            "duration": "17h 25min",
+            "price": "944 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LYS",
+            "layover_duration": "4h 40min",
+            "airlines": [
+                "British Airways",
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 20:53",
+            "arrival_time": "19:50 – 20:00\n+1",
+            "duration": "17h 48min",
+            "price": "945 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 00min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 20:53",
+            "arrival_time": "N/A",
+            "duration": "17h 48min",
+            "price": "946 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "British Airways",
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 21:24",
+            "arrival_time": "N/A",
+            "duration": "18h 19min",
+            "price": "945 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "American Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 20:59",
+            "arrival_time": "09:05 – 15:45",
+            "duration": "17h 54min",
+            "price": "946 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 40min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 21:37",
+            "arrival_time": "09:05 – 15:45",
+            "duration": "18h 32min",
+            "price": "945 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "09:05 – 21:00",
+            "arrival_time": "09:05 – 15:45",
+            "duration": "17h 55min",
+            "price": "946 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 21:24",
+            "arrival_time": "09:05 – 15:45",
+            "duration": "18h 19min",
+            "price": "946 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "09:05 – 21:37",
+            "arrival_time": "N/A",
+            "duration": "18h 32min",
+            "price": "946 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "British Airways",
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 21:51",
+            "arrival_time": "09:05 – 15:45",
+            "duration": "18h 46min",
+            "price": "946 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 00min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 22:59",
+            "arrival_time": "N/A",
+            "duration": "19h 54min",
+            "price": "945 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "American Airlines"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "09:05 – 23:21",
+            "arrival_time": "N/A",
+            "duration": "20h 16min",
+            "price": "945 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "American Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 00:33+1",
+            "arrival_time": "09:05 – 15:45",
+            "duration": "21h 28min",
+            "price": "945 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "British Airways",
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        }
+    ]
+}

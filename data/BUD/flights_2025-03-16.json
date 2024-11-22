@@ -1,0 +1,439 @@
+{
+    "search_date": "2024-11-22 15:37:22",
+    "flight_date": "2025-03-16",
+    "origin": "BOD",
+    "destination": "BUD",
+    "destination_city": "Budapest",
+    "url": "https://www.kayak.fr/flights/BOD-BUD/2025-03-16?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "06:00 – 14:25",
+            "arrival_time": "06:00 – 14:25",
+            "duration": "8h 25min",
+            "price": "99 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BUD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "4h 40min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "11:10 – 16:05",
+            "arrival_time": "06:00 – 14:25",
+            "duration": "4h 55min",
+            "price": "73 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BUD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "GVA",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "12:30 – 20:10",
+            "arrival_time": "06:00 – 14:25",
+            "duration": "7h 40min",
+            "price": "78 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BUD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "4h 40min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "14:55 – 19:10",
+            "arrival_time": "06:00 – 14:25",
+            "duration": "4h 15min",
+            "price": "150 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BUD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW",
+            "layover_duration": "3h 30min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "08:10 – 13:25",
+            "arrival_time": "N/A",
+            "duration": "5h 15min",
+            "price": "115 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BUD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Ryanair"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:00 – 23:30",
+            "arrival_time": "06:00 – 14:25",
+            "duration": "5h 30min",
+            "price": "118 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BUD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ZRH",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "17:50 – 00:55+1",
+            "arrival_time": "N/A",
+            "duration": "7h 05min",
+            "price": "104 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BUD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BER",
+            "layover_duration": "1h 30min",
+            "airlines": [
+                "easyJet",
+                "Wizz Air"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 12:05",
+            "arrival_time": "N/A",
+            "duration": "6h 05min",
+            "price": "128 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BUD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FCO",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "15:35 – 23:35",
+            "arrival_time": "11:10 – 16:05",
+            "duration": "8h 00min",
+            "price": "89 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BUD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LIS",
+            "layover_duration": "1h 20min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 14:25",
+            "arrival_time": "11:10 – 16:05",
+            "duration": "8h 25min",
+            "price": "99 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BUD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 25min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "08:10 – 14:40",
+            "arrival_time": "11:10 – 16:05",
+            "duration": "6h 30min",
+            "price": "110 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BUD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MXP",
+            "layover_duration": "4h 45min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "11:55 – 16:30",
+            "arrival_time": "11:10 – 16:05",
+            "duration": "4h 35min",
+            "price": "168 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BUD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "4h 45min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:30 – 23:15",
+            "arrival_time": "N/A",
+            "duration": "4h 45min",
+            "price": "167 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BUD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BER",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 11:00",
+            "arrival_time": "11:10 – 16:05",
+            "duration": "5h 00min",
+            "price": "172 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BUD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 14:55",
+            "arrival_time": "N/A",
+            "duration": "5h 50min",
+            "price": "143 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BUD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FRA",
+            "layover_duration": "1h 20min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "20:55 – 08:30+1",
+            "arrival_time": "N/A",
+            "duration": "11h 35min",
+            "price": "84 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BUD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "07:45 – 21:25",
+            "arrival_time": "12:30 – 20:10",
+            "duration": "13h 40min",
+            "price": "82 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BUD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "18:05 – 23:05",
+            "arrival_time": "12:30 – 20:10",
+            "duration": "5h 00min",
+            "price": "207 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BUD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "GVA",
+            "layover_duration": "8h 25min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "07:45 – 14:55",
+            "arrival_time": "12:30 – 20:10",
+            "duration": "7h 10min",
+            "price": "139 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BUD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LGW",
+            "layover_duration": "3h 30min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "14:55 – 22:45",
+            "arrival_time": "12:30 – 20:10",
+            "duration": "7h 50min",
+            "price": "157 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BUD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "8h 55min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 21:25",
+            "arrival_time": "N/A",
+            "duration": "12h 20min",
+            "price": "94 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BUD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "Iberia",
+                "Wizz Air"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "12:10 – 23:30",
+            "arrival_time": "12:30 – 20:10",
+            "duration": "11h 20min",
+            "price": "98 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BUD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 30min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 16:15",
+            "arrival_time": "N/A",
+            "duration": "10h 15min",
+            "price": "119 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BUD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:55 – 23:25",
+            "arrival_time": "N/A",
+            "duration": "5h 30min",
+            "price": "191 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BUD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ZRH",
+            "layover_duration": "4h 35min",
+            "airlines": [
+                "Iberia",
+                "Ryanair"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "12:30 – 20:45",
+            "arrival_time": "14:55 – 19:10",
+            "duration": "8h 15min",
+            "price": "129 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BUD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "ZRH",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Light"
+        }
+    ]
+}

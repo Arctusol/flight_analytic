@@ -1,0 +1,441 @@
+{
+    "search_date": "2024-11-22 15:44:33",
+    "flight_date": "2024-11-27",
+    "origin": "BOD",
+    "destination": "MAD",
+    "destination_city": "Madrid",
+    "url": "https://www.kayak.fr/flights/BOD-MAD/2024-11-27?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "12:35 – 14:05",
+            "arrival_time": "direct",
+            "duration": "1h 30min",
+            "price": "50 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": true,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Volotea"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "12:35 – 14:05",
+            "arrival_time": "direct",
+            "duration": "1h 30min",
+            "price": "50 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": true,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Volotea"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "17:55 – 19:20",
+            "arrival_time": "direct",
+            "duration": "1h 25min",
+            "price": "96 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": true,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Volotea"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "17:55 – 19:20",
+            "arrival_time": "direct",
+            "duration": "1h 25min",
+            "price": "132 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Volotea"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 10:30",
+            "arrival_time": "direct",
+            "duration": "1h 25min",
+            "price": "199 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 10:30",
+            "arrival_time": "direct",
+            "duration": "1h 25min",
+            "price": "245 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Volotea"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:35 – 13:55",
+            "arrival_time": "N/A",
+            "duration": "4h 20min",
+            "price": "110 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling",
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:35 – 14:55",
+            "arrival_time": "N/A",
+            "duration": "5h 20min",
+            "price": "121 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling",
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:35 – 16:20",
+            "arrival_time": "12:35 – 14:05",
+            "duration": "6h 45min",
+            "price": "105 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BCN",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "Volotea"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:35 – 23:05",
+            "arrival_time": "12:35 – 14:05",
+            "duration": "4h 30min",
+            "price": "300 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 40min",
+            "airlines": [
+                "Volotea"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "11:35 – 18:05",
+            "arrival_time": "12:35 – 14:05",
+            "duration": "6h 30min",
+            "price": "228 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BCN-BCN",
+            "layover_duration": "Escale de 3h 00min, ,[object Object]",
+            "airlines": [
+                "Volotea"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:35 – 14:55",
+            "arrival_time": "12:35 – 14:05",
+            "duration": "5h 20min",
+            "price": "286 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "0h 55min",
+            "airlines": [
+                "Volotea"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:50 – 13:30",
+            "arrival_time": "N/A",
+            "duration": "6h 40min",
+            "price": "197 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Air Europa"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:35 – 16:15",
+            "arrival_time": "12:35 – 14:05",
+            "duration": "6h 40min",
+            "price": "176 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CMN",
+            "layover_duration": "2h 30min",
+            "airlines": [
+                "Volotea"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "11:20 – 17:15",
+            "arrival_time": "N/A",
+            "duration": "5h 55min",
+            "price": "277 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 40min",
+            "airlines": [
+                "easyJet",
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:35 – 13:55",
+            "arrival_time": "N/A",
+            "duration": "4h 20min",
+            "price": "408 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW",
+            "layover_duration": "2h 30min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:35 – 14:55",
+            "arrival_time": "17:55 – 19:20",
+            "duration": "5h 20min",
+            "price": "422 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "BCN",
+            "layover_duration": "1h 30min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 11:30",
+            "arrival_time": "17:55 – 19:20",
+            "duration": "5h 30min",
+            "price": "519 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:00 – 23:25",
+            "arrival_time": "17:55 – 19:20",
+            "duration": "5h 25min",
+            "price": "535 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MRS",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "18:25 – 23:55",
+            "arrival_time": "17:55 – 19:20",
+            "duration": "5h 30min",
+            "price": "577 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "18:00 – 23:25",
+            "arrival_time": "N/A",
+            "duration": "5h 25min",
+            "price": "660 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 40min",
+            "airlines": [
+                "Air France",
+                "KLM"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 12:15",
+            "arrival_time": "17:55 – 19:20",
+            "duration": "6h 15min",
+            "price": "853 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 00min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 12:15",
+            "arrival_time": "N/A",
+            "duration": "6h 15min",
+            "price": "878 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 55min",
+            "airlines": [
+                "Air France",
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:40 – 15:25",
+            "arrival_time": "N/A",
+            "duration": "4h 45min",
+            "price": "1 027 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FRA",
+            "layover_duration": "0h 55min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "10:40 – 17:00",
+            "arrival_time": "17:55 – 19:20",
+            "duration": "6h 20min",
+            "price": "1 352 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MAD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        }
+    ]
+}
