@@ -1,0 +1,445 @@
+{
+    "search_date": "2024-11-22 03:39:07",
+    "flight_date": "2025-02-24",
+    "origin": "BOD",
+    "destination": "LAX",
+    "destination_city": "Los Angeles",
+    "url": "https://www.kayak.fr/flights/BOD-LAX/2025-02-24?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "09:55 – 22:01",
+            "arrival_time": "09:55 – 22:01",
+            "duration": "21h 06min",
+            "price": "1 001 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 20min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "11:10 – 18:25",
+            "arrival_time": "09:55 – 22:01",
+            "duration": "16h 15min",
+            "price": "774 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 3h 15min, ,[object Object]",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "18:10 – 19:05+1",
+            "arrival_time": "09:55 – 22:01",
+            "duration": "33h 55min",
+            "price": "409 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "LGW",
+            "layover_duration": "14h 55min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "11:10 – 18:25",
+            "arrival_time": "09:55 – 22:01",
+            "duration": "16h 15min",
+            "price": "786 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 20min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:55 – 22:01",
+            "arrival_time": "N/A",
+            "duration": "21h 06min",
+            "price": "752 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 3h 15min, ,[object Object]",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:50 – 15:50",
+            "arrival_time": "09:55 – 22:01",
+            "duration": "18h 00min",
+            "price": "819 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 20min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 13:05",
+            "arrival_time": "N/A",
+            "duration": "16h 05min",
+            "price": "1 032 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 20min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:55 – 20:15",
+            "arrival_time": "N/A",
+            "duration": "19h 20min",
+            "price": "783 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 5h 00min, ,[object Object]",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 13:05",
+            "arrival_time": "11:10 – 18:25",
+            "duration": "16h 05min",
+            "price": "1 032 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "British Airways"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:50 – 18:25",
+            "arrival_time": "11:10 – 18:25",
+            "duration": "20h 35min",
+            "price": "794 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 50min",
+            "airlines": [
+                "British Airways"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 11:45",
+            "arrival_time": "11:10 – 18:25",
+            "duration": "14h 45min",
+            "price": "1 118 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "British Airways"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 11:45",
+            "arrival_time": "11:10 – 18:25",
+            "duration": "14h 45min",
+            "price": "1 118 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 50min",
+            "airlines": [
+                "British Airways"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "11:10 – 18:25",
+            "arrival_time": "N/A",
+            "duration": "16h 15min",
+            "price": "1 063 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 7h 35min, ,[object Object]",
+            "airlines": [
+                "British Airways",
+                "Finnair"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:50 – 21:44",
+            "arrival_time": "11:10 – 18:25",
+            "duration": "23h 54min",
+            "price": "712 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 55min",
+            "airlines": [
+                "British Airways"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "11:10 – 18:25",
+            "arrival_time": "N/A",
+            "duration": "16h 15min",
+            "price": "1 073 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 55min",
+            "airlines": [
+                "British Airways",
+                "American Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:40 – 16:10",
+            "arrival_time": "N/A",
+            "duration": "14h 30min",
+            "price": "1 216 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 3h 15min, ,[object Object]",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "10:40 – 16:10",
+            "arrival_time": "18:10 – 19:05\n+1",
+            "duration": "14h 30min",
+            "price": "1 216 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 7h 20min, ,[object Object]",
+            "airlines": [
+                "easyJet",
+                "Vueling"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 16:10",
+            "arrival_time": "18:10 – 19:05\n+1",
+            "duration": "19h 10min",
+            "price": "1 016 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 3h 15min, ,[object Object]",
+            "airlines": [
+                "easyJet",
+                "Vueling"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "06:00 – 16:10",
+            "arrival_time": "18:10 – 19:05\n+1",
+            "duration": "19h 10min",
+            "price": "1 016 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LGW",
+            "layover_duration": "14h 55min",
+            "airlines": [
+                "easyJet",
+                "Vueling"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "11:10 – 20:15",
+            "arrival_time": "18:10 – 19:05\n+1",
+            "duration": "18h 05min",
+            "price": "1 045 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "easyJet",
+                "Vueling"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "07:45 – 18:30",
+            "arrival_time": "N/A",
+            "duration": "19h 45min",
+            "price": "846 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Volotea",
+                "Aer Lingus"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 21:01",
+            "arrival_time": "18:10 – 19:05\n+1",
+            "duration": "20h 56min",
+            "price": "1 002 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "easyJet",
+                "Vueling"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "11:10 – 20:15",
+            "arrival_time": "N/A",
+            "duration": "18h 05min",
+            "price": "1 059 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "5h 55min",
+            "airlines": [
+                "British Airways",
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 20:18",
+            "arrival_time": "N/A",
+            "duration": "20h 13min",
+            "price": "1 002 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "5h 55min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "11:10 – 20:15",
+            "arrival_time": "11:10 – 18:25",
+            "duration": "18h 05min",
+            "price": "1 063 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "British Airways",
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        }
+    ]
+}

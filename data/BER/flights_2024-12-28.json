@@ -1,52 +1,218 @@
 {
-    "search_date": "2024-11-21 03:55:22",
+    "search_date": "2024-11-22 14:41:14",
     "flight_date": "2024-12-28",
     "origin": "BOD",
     "destination": "BER",
     "destination_city": "Berlin",
-    "url": "https://www.kayak.fr/flights/BOD-BER/2024-12-28?sort=price_a",
+    "url": "https://www.kayak.fr/flights/BOD-BER/2024-12-28?sort=bestflight_a",
     "flights": [
         {
+            "departure_time": "17:55 – 23:10",
+            "arrival_time": "17:55 – 23:10",
+            "duration": "5h 15min",
+            "price": "352 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "0h 45min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Business Optimal"
+        },
+        {
+            "departure_time": "17:55 – 23:10",
+            "arrival_time": "17:55 – 23:10",
+            "duration": "5h 15min",
+            "price": "282 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "0h 45min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Business Optimal"
+        },
+        {
             "departure_time": "21:45 – 09:55+1",
-            "arrival_time": "21:45 – 09:55\n+1",
+            "arrival_time": "17:55 – 23:10",
             "duration": "12h 10min",
             "price": "253 €",
             "origin_airport": "BOD",
             "destination_airport": "BER",
             "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
+            "checked_baggage": "1",
+            "hand_baggage": "1",
             "layover_airport": "BCN",
             "layover_duration": "8h 15min",
             "airlines": [
-                "Vueling"
+                "Iberia"
             ],
-            "fare_class": "Économique",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Economy"
         },
         {
-            "departure_time": "18:30 – 08:50+1",
-            "arrival_time": "21:45 – 09:55\n+1",
-            "duration": "14h 20min",
-            "price": "263 €",
+            "departure_time": "14:45 – 19:55",
+            "arrival_time": "17:55 – 23:10",
+            "duration": "5h 10min",
+            "price": "410 €",
             "origin_airport": "BOD",
             "destination_airport": "BER",
             "is_direct": false,
             "checked_baggage": "N/A",
             "hand_baggage": "N/A",
-            "layover_airport": "BCN",
-            "layover_duration": "8h 15min",
+            "layover_airport": "MAD",
+            "layover_duration": "0h 45min",
             "airlines": [
-                "Vueling"
+                "Iberia"
             ],
-            "fare_class": "Économique",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Business Optimal"
+        },
+        {
+            "departure_time": "13:20 – 18:05",
+            "arrival_time": "N/A",
+            "duration": "4h 45min",
+            "price": "437 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 00min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 19:00",
+            "arrival_time": "17:55 – 23:10",
+            "duration": "9h 55min",
+            "price": "282 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "0h 45min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Business Optimal"
+        },
+        {
+            "departure_time": "06:00 – 11:20",
+            "arrival_time": "N/A",
+            "duration": "5h 20min",
+            "price": "461 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 11:05",
+            "arrival_time": "N/A",
+            "duration": "5h 05min",
+            "price": "492 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 25min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Business Optimal"
+        },
+        {
+            "departure_time": "10:40 – 14:45",
+            "arrival_time": "17:55 – 23:10",
+            "duration": "4h 05min",
+            "price": "580 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "13:20 – 19:55",
+            "arrival_time": "17:55 – 23:10",
+            "duration": "6h 35min",
+            "price": "404 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:25 – 14:45",
+            "arrival_time": "17:55 – 23:10",
+            "duration": "5h 20min",
+            "price": "497 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Business Leisure"
+        },
+        {
+            "departure_time": "12:30 – 17:40",
+            "arrival_time": "17:55 – 23:10",
+            "duration": "5h 10min",
+            "price": "525 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 25min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
         },
         {
             "departure_time": "21:45 – 09:25+1",
-            "arrival_time": "21:45 – 09:55\n+1",
+            "arrival_time": "N/A",
             "duration": "11h 40min",
             "price": "275 €",
             "origin_airport": "BOD",
@@ -54,115 +220,34 @@
             "is_direct": false,
             "checked_baggage": "N/A",
             "hand_baggage": "N/A",
-            "layover_airport": "BCN",
-            "layover_duration": "8h 15min",
-            "airlines": [
-                "Vueling"
-            ],
-            "fare_class": "Économique",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
-        },
-        {
-            "departure_time": "17:55 – 23:10",
-            "arrival_time": "21:45 – 09:55\n+1",
-            "duration": "5h 15min",
-            "price": "288 €",
-            "origin_airport": "BOD",
-            "destination_airport": "BER",
-            "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "BCN",
-            "layover_duration": "8h 15min",
-            "airlines": [
-                "Vueling"
-            ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
-        },
-        {
-            "departure_time": "21:45 – 11:55+1",
-            "arrival_time": "N/A",
-            "duration": "14h 10min",
-            "price": "294 €",
-            "origin_airport": "BOD",
-            "destination_airport": "BER",
-            "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 15min",
             "airlines": [
                 "Vueling",
-                "Ryanair UK"
+                "Ryanair"
             ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Business Leisure"
         },
         {
-            "departure_time": "21:45 – 12:00+1",
-            "arrival_time": "21:45 – 09:55\n+1",
-            "duration": "14h 15min",
-            "price": "295 €",
+            "departure_time": "14:45 – 22:40",
+            "arrival_time": "17:55 – 23:10",
+            "duration": "7h 55min",
+            "price": "404 €",
             "origin_airport": "BOD",
             "destination_airport": "BER",
             "is_direct": false,
             "checked_baggage": "N/A",
             "hand_baggage": "N/A",
-            "layover_airport": "BCN",
-            "layover_duration": "8h 15min",
-            "airlines": [
-                "Vueling"
-            ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
-        },
-        {
-            "departure_time": "21:45 – 10:55+1",
-            "arrival_time": "N/A",
-            "duration": "13h 10min",
-            "price": "297 €",
-            "origin_airport": "BOD",
-            "destination_airport": "BER",
-            "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
-            "airlines": [
-                "Vueling",
-                "Lufthansa"
-            ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
-        },
-        {
-            "departure_time": "09:05 – 23:10",
-            "arrival_time": "N/A",
-            "duration": "14h 05min",
-            "price": "298 €",
-            "origin_airport": "BOD",
-            "destination_airport": "BER",
-            "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 05min",
             "airlines": [
                 "Iberia"
             ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Light"
         },
         {
             "departure_time": "06:45 – 19:00",
-            "arrival_time": "18:30 – 08:50\n+1",
+            "arrival_time": "N/A",
             "duration": "12h 15min",
             "price": "311 €",
             "origin_airport": "BOD",
@@ -170,120 +255,156 @@
             "is_direct": false,
             "checked_baggage": "N/A",
             "hand_baggage": "N/A",
-            "layover_airport": "VCE",
-            "layover_duration": "1h 30min",
+            "layover_airport": "BCN",
+            "layover_duration": "7h 45min",
             "airlines": [
                 "Volotea",
                 "Ryanair"
             ],
-            "fare_class": "Économique",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 11:25",
+            "arrival_time": "N/A",
+            "duration": "5h 25min",
+            "price": "564 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France",
+                "easyJet"
+            ],
+            "fare_class": "Business Optimal"
+        },
+        {
+            "departure_time": "21:45 – 11:05+1",
+            "arrival_time": "21:45 – 09:55\n+1",
+            "duration": "13h 20min",
+            "price": "272 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "4h 45min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "13:20 – 22:40",
+            "arrival_time": "21:45 – 09:55\n+1",
+            "duration": "9h 20min",
+            "price": "404 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "TFS",
+            "layover_duration": "3h 25min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 23:10",
+            "arrival_time": "21:45 – 09:55\n+1",
+            "duration": "14h 05min",
+            "price": "319 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Light"
         },
         {
             "departure_time": "21:45 – 12:35+1",
-            "arrival_time": "18:30 – 08:50\n+1",
+            "arrival_time": "21:45 – 09:55\n+1",
             "duration": "14h 50min",
-            "price": "313 €",
+            "price": "284 €",
             "origin_airport": "BOD",
             "destination_airport": "BER",
             "is_direct": false,
             "checked_baggage": "N/A",
             "hand_baggage": "N/A",
-            "layover_airport": "VCE",
-            "layover_duration": "1h 30min",
+            "layover_airport": "BCN",
+            "layover_duration": "8h 15min",
             "airlines": [
-                "Volotea",
-                "Ryanair"
+                "Vueling"
             ],
-            "fare_class": "Économique",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Business Optimal"
         },
         {
-            "departure_time": "06:45 – 22:25",
-            "arrival_time": "18:30 – 08:50\n+1",
-            "duration": "15h 40min",
-            "price": "313 €",
+            "departure_time": "06:00 – 13:25",
+            "arrival_time": "N/A",
+            "duration": "7h 25min",
+            "price": "473 €",
             "origin_airport": "BOD",
             "destination_airport": "BER",
             "is_direct": false,
             "checked_baggage": "N/A",
             "hand_baggage": "N/A",
-            "layover_airport": "VCE",
-            "layover_duration": "1h 30min",
+            "layover_airport": "BCN",
+            "layover_duration": "7h 05min",
             "airlines": [
-                "Volotea",
-                "Ryanair"
+                "KLM"
             ],
-            "fare_class": "Économique",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Economy"
         },
         {
             "departure_time": "21:25 – 08:50+1",
-            "arrival_time": "18:30 – 08:50\n+1",
+            "arrival_time": "21:45 – 09:55\n+1",
             "duration": "11h 25min",
-            "price": "339 €",
+            "price": "351 €",
             "origin_airport": "BOD",
             "destination_airport": "BER",
             "is_direct": false,
             "checked_baggage": "N/A",
             "hand_baggage": "N/A",
-            "layover_airport": "VCE",
-            "layover_duration": "1h 30min",
+            "layover_airport": "CDG",
+            "layover_duration": "6h 10min",
             "airlines": [
-                "Volotea",
-                "Ryanair"
+                "Vueling"
             ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Light"
         },
         {
             "departure_time": "06:00 – 21:15",
             "arrival_time": "N/A",
             "duration": "15h 15min",
-            "price": "341 €",
+            "price": "302 €",
             "origin_airport": "BOD",
             "destination_airport": "BER",
             "is_direct": false,
             "checked_baggage": "N/A",
             "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "9h 35min",
             "airlines": [
                 "easyJet"
             ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Business Optimal"
         },
         {
-            "departure_time": "21:25 – 09:45+1",
-            "arrival_time": "18:30 – 08:50\n+1",
-            "duration": "12h 20min",
-            "price": "367 €",
-            "origin_airport": "BOD",
-            "destination_airport": "BER",
-            "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "VCE",
-            "layover_duration": "1h 30min",
-            "airlines": [
-                "Volotea",
-                "Ryanair"
-            ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
-        },
-        {
-            "departure_time": "09:05 – 20:30",
+            "departure_time": "10:40 – 18:05",
             "arrival_time": "N/A",
-            "duration": "11h 25min",
-            "price": "368 €",
+            "duration": "7h 25min",
+            "price": "581 €",
             "origin_airport": "BOD",
             "destination_airport": "BER",
             "is_direct": false,
@@ -292,13 +413,26 @@
             "layover_airport": "N/A",
             "layover_duration": "N/A",
             "airlines": [
-                "Iberia",
-                "Air Europa",
-                "Vueling"
+                "Air France"
             ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Business Optimal"
+        },
+        {
+            "departure_time": "18:30 – 08:50+1",
+            "arrival_time": "14:45 – 19:55",
+            "duration": "14h 20min",
+            "price": "278 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "BCN",
+            "layover_duration": "10h 55min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Economy"
         }
     ]
 }

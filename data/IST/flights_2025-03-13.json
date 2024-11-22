@@ -1,0 +1,44 @@
+{
+    "search_date": "2024-11-22 01:32:51",
+    "flight_date": "2025-03-13",
+    "origin": "BOD",
+    "destination": "IST",
+    "destination_city": "Istanbul",
+    "url": "https://www.kayak.fr/flights/BOD-IST/2025-03-13?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "06:55 – 12:50",
+            "arrival_time": "direct",
+            "duration": "3h 55min",
+            "price": "53 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Transavia France"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:55 – 12:50",
+            "arrival_time": "direct",
+            "duration": "3h 55min",
+            "price": "53 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Transavia France"
+            ],
+            "fare_class": "Economy"
+        }
+    ]
+}

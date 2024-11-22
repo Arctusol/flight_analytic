@@ -1,0 +1,462 @@
+{
+    "search_date": "2024-11-22 04:35:30",
+    "flight_date": "2025-01-02",
+    "origin": "BOD",
+    "destination": "SFO",
+    "destination_city": "San Francisco",
+    "url": "https://www.kayak.fr/flights/BOD-SFO/2025-01-02?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "20:00 – 11:05+1",
+            "arrival_time": "20:00 – 11:05\n+1",
+            "duration": "24h 05min",
+            "price": "1 357 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "ALG",
+            "layover_duration": "2h 00min",
+            "airlines": [
+                "Volotea",
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 23:02",
+            "arrival_time": "20:00 – 11:05\n+1",
+            "duration": "22h 57min",
+            "price": "1 270 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Volotea",
+                "Turkish Airlines"
+            ],
+            "fare_class": "Saver"
+        },
+        {
+            "departure_time": "06:55 – 07:59+1",
+            "arrival_time": "20:00 – 11:05\n+1",
+            "duration": "34h 04min",
+            "price": "1 077 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "IST",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "Volotea",
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 11:50",
+            "arrival_time": "20:00 – 11:05\n+1",
+            "duration": "14h 50min",
+            "price": "2 195 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ALG",
+            "layover_duration": "2h 00min",
+            "airlines": [
+                "Volotea",
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 11:50",
+            "arrival_time": "N/A",
+            "duration": "14h 50min",
+            "price": "2 195 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 14:45",
+            "arrival_time": "20:00 – 11:05\n+1",
+            "duration": "17h 45min",
+            "price": "1 742 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ALG",
+            "layover_duration": "2h 00min",
+            "airlines": [
+                "Volotea",
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:50 – 22:17",
+            "arrival_time": "N/A",
+            "duration": "24h 27min",
+            "price": "1 179 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "easyJet",
+                "Norse Atlantic UK",
+                "Frontier"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 13:10",
+            "arrival_time": "N/A",
+            "duration": "16h 10min",
+            "price": "2 199 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 50min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Main Cabin"
+        },
+        {
+            "departure_time": "06:50 – 19:34",
+            "arrival_time": "09:05 – 23:02",
+            "duration": "21h 44min",
+            "price": "1 395 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Alaska Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 22:59",
+            "arrival_time": "09:05 – 23:02",
+            "duration": "22h 54min",
+            "price": "1 786 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "LGW",
+            "layover_duration": "4h 30min",
+            "airlines": [
+                "Alaska Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 00:39+1",
+            "arrival_time": "09:05 – 23:02",
+            "duration": "24h 34min",
+            "price": "1 786 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 00min",
+            "airlines": [
+                "Alaska Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:55 – 22:44",
+            "arrival_time": "09:05 – 23:02",
+            "duration": "24h 49min",
+            "price": "1 276 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW",
+            "layover_duration": "4h 30min",
+            "airlines": [
+                "Alaska Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:50 – 21:31",
+            "arrival_time": "N/A",
+            "duration": "23h 41min",
+            "price": "1 410 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 30min",
+            "airlines": [
+                "easyJet",
+                "TUI Airways",
+                "Alaska Airlines"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "06:00 – 13:10",
+            "arrival_time": "09:05 – 23:02",
+            "duration": "16h 10min",
+            "price": "2 497 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 30min",
+            "airlines": [
+                "Alaska Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "20:00 – 11:05+1",
+            "arrival_time": "N/A",
+            "duration": "24h 05min",
+            "price": "1 432 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "IST",
+            "layover_duration": "2h 30min",
+            "airlines": [
+                "Volotea",
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:50 – 21:47",
+            "arrival_time": "N/A",
+            "duration": "23h 57min",
+            "price": "1 225 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW",
+            "layover_duration": "3h 40min",
+            "airlines": [
+                "easyJet",
+                "Ryanair",
+                "Aer Lingus",
+                "Alaska Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "13:35 – 22:42",
+            "arrival_time": "06:55 – 07:59\n+1",
+            "duration": "18h 07min",
+            "price": "2 203 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "IST",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "Transavia France",
+                "Turkish Airlines",
+                "Frontier"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:25 – 18:45",
+            "arrival_time": "06:55 – 07:59\n+1",
+            "duration": "18h 20min",
+            "price": "1 888 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 00min",
+            "airlines": [
+                "Transavia France",
+                "Turkish Airlines",
+                "Frontier"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 15:47",
+            "arrival_time": "06:55 – 07:59\n+1",
+            "duration": "18h 47min",
+            "price": "2 199 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "ALG",
+            "layover_duration": "2h 00min",
+            "airlines": [
+                "Transavia France",
+                "Turkish Airlines",
+                "Frontier"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "13:35 – 22:42",
+            "arrival_time": "06:55 – 07:59\n+1",
+            "duration": "18h 07min",
+            "price": "2 406 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Transavia France",
+                "Turkish Airlines",
+                "Frontier"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:50 – 21:47",
+            "arrival_time": "N/A",
+            "duration": "23h 57min",
+            "price": "1 372 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "easyJet",
+                "British Airways",
+                "Aer Lingus",
+                "Alaska Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "20:10 – 12:03+1",
+            "arrival_time": "06:55 – 07:59\n+1",
+            "duration": "24h 53min",
+            "price": "1 914 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "IST",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "Transavia France",
+                "Turkish Airlines",
+                "Frontier"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 22:07",
+            "arrival_time": "N/A",
+            "duration": "25h 07min",
+            "price": "1 468 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "GVA",
+            "layover_duration": "2h 20min",
+            "airlines": [
+                "Air France",
+                "Aer Lingus"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "10:40 – 21:45",
+            "arrival_time": "N/A",
+            "duration": "20h 05min",
+            "price": "2 243 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 55min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 16:17",
+            "arrival_time": "06:00 – 11:50",
+            "duration": "19h 17min",
+            "price": "2 280 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        }
+    ]
+}

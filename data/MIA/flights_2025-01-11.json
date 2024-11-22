@@ -1,0 +1,451 @@
+{
+    "search_date": "2024-11-22 05:29:05",
+    "flight_date": "2025-01-11",
+    "origin": "BOD",
+    "destination": "MIA",
+    "destination_city": "Miami",
+    "url": "https://www.kayak.fr/flights/BOD-MIA/2025-01-11?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "21:45 – 14:45+1",
+            "arrival_time": "21:45 – 14:45\n+1",
+            "duration": "23h 00min",
+            "price": "364 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BCN",
+            "layover_duration": "7h 40min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "08:41 – 18:45",
+            "arrival_time": "21:45 – 14:45\n+1",
+            "duration": "16h 04min",
+            "price": "372 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "PAR-ORY",
+            "layover_duration": "Escale de 2h 58min, ,[object Object]",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "21:45 – 20:15+1",
+            "arrival_time": "21:45 – 14:45\n+1",
+            "duration": "28h 30min",
+            "price": "304 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BCN",
+            "layover_duration": "16h 00min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 15:45",
+            "arrival_time": "21:45 – 14:45\n+1",
+            "duration": "12h 40min",
+            "price": "884 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "7h 40min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 15:45",
+            "arrival_time": "N/A",
+            "duration": "12h 40min",
+            "price": "897 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "Iberia",
+                "Finnair"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 18:45",
+            "arrival_time": "21:45 – 14:45\n+1",
+            "duration": "18h 45min",
+            "price": "610 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "7h 40min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 15:45",
+            "arrival_time": "N/A",
+            "duration": "12h 40min",
+            "price": "907 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "Iberia",
+                "American Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 15:45",
+            "arrival_time": "N/A",
+            "duration": "12h 40min",
+            "price": "911 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG-ORY",
+            "layover_duration": "Escale de 7h 05min, ,[object Object]",
+            "airlines": [
+                "Iberia",
+                "British Airways"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 15:45",
+            "arrival_time": "08:41 – 18:45",
+            "duration": "12h 40min",
+            "price": "911 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "SNCF",
+                "French Bee"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 15:45",
+            "arrival_time": "08:41 – 18:45",
+            "duration": "12h 40min",
+            "price": "944 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "SNCF",
+                "French Bee"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "09:05 – 20:30",
+            "arrival_time": "08:41 – 18:45",
+            "duration": "17h 25min",
+            "price": "884 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "SNCF",
+                "French Bee"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 19:25",
+            "arrival_time": "08:41 – 18:45",
+            "duration": "19h 25min",
+            "price": "724 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "SNCF",
+                "French Bee"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 20:30",
+            "arrival_time": "N/A",
+            "duration": "17h 25min",
+            "price": "911 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 20:30",
+            "arrival_time": "08:41 – 18:45",
+            "duration": "17h 25min",
+            "price": "897 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "SNCF",
+                "French Bee"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 20:30",
+            "arrival_time": "N/A",
+            "duration": "17h 25min",
+            "price": "907 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 40min",
+            "airlines": [
+                "Iberia",
+                "American Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 20:30",
+            "arrival_time": "N/A",
+            "duration": "17h 25min",
+            "price": "911 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Iberia",
+                "British Airways"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 20:30",
+            "arrival_time": "21:45 – 20:15\n+1",
+            "duration": "17h 25min",
+            "price": "944 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 40min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 20:49",
+            "arrival_time": "21:45 – 20:15\n+1",
+            "duration": "17h 44min",
+            "price": "888 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 40min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 21:56",
+            "arrival_time": "21:45 – 20:15\n+1",
+            "duration": "18h 51min",
+            "price": "888 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "BCN",
+            "layover_duration": "16h 00min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 19:25",
+            "arrival_time": "21:45 – 20:15\n+1",
+            "duration": "16h 20min",
+            "price": "898 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 40min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "09:05 – 20:49",
+            "arrival_time": "N/A",
+            "duration": "17h 44min",
+            "price": "945 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 40min",
+            "airlines": [
+                "American Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 20:49",
+            "arrival_time": "21:45 – 20:15\n+1",
+            "duration": "17h 44min",
+            "price": "946 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "16h 00min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 20:49",
+            "arrival_time": "N/A",
+            "duration": "17h 44min",
+            "price": "951 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 40min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 21:56",
+            "arrival_time": "N/A",
+            "duration": "18h 51min",
+            "price": "918 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 00min",
+            "airlines": [
+                "Iberia",
+                "British Airways"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 20:49",
+            "arrival_time": "09:05 – 15:45",
+            "duration": "17h 44min",
+            "price": "946 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        }
+    ]
+}

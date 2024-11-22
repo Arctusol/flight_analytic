@@ -1,0 +1,438 @@
+{
+    "search_date": "2024-11-22 00:34:00",
+    "flight_date": "2025-02-26",
+    "origin": "BOD",
+    "destination": "OSL",
+    "destination_city": "Oslo",
+    "url": "https://www.kayak.fr/flights/BOD-OSL/2025-02-26?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "18:00 – 22:20",
+            "arrival_time": "18:00 – 22:20",
+            "duration": "4h 20min",
+            "price": "112 €",
+            "origin_airport": "BOD",
+            "destination_airport": "OSL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 40min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:00 – 22:20",
+            "arrival_time": "18:00 – 22:20",
+            "duration": "4h 20min",
+            "price": "112 €",
+            "origin_airport": "BOD",
+            "destination_airport": "OSL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 40min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "19:25 – 16:05+1",
+            "arrival_time": "18:00 – 22:20",
+            "duration": "20h 40min",
+            "price": "69 €",
+            "origin_airport": "BOD",
+            "destination_airport": "OSL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MXP",
+            "layover_duration": "16h 20min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "18:25 – 23:45",
+            "arrival_time": "18:00 – 22:20",
+            "duration": "5h 20min",
+            "price": "157 €",
+            "origin_airport": "BOD",
+            "destination_airport": "OSL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 40min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:20 – 15:40",
+            "arrival_time": "N/A",
+            "duration": "6h 20min",
+            "price": "126 €",
+            "origin_airport": "BOD",
+            "destination_airport": "OSL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FRA",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "easyJet",
+                "Scandinavian Airlines"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "06:50 – 12:25",
+            "arrival_time": "18:00 – 22:20",
+            "duration": "5h 35min",
+            "price": "145 €",
+            "origin_airport": "BOD",
+            "destination_airport": "OSL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 40min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:35 – 23:35",
+            "arrival_time": "N/A",
+            "duration": "5h 00min",
+            "price": "191 €",
+            "origin_airport": "BOD",
+            "destination_airport": "OSL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "GVA",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "12:30 – 18:20",
+            "arrival_time": "N/A",
+            "duration": "5h 50min",
+            "price": "192 €",
+            "origin_airport": "BOD",
+            "destination_airport": "OSL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "18:00 – 08:35+1",
+            "arrival_time": "18:00 – 22:20",
+            "duration": "14h 35min",
+            "price": "112 €",
+            "origin_airport": "BOD",
+            "destination_airport": "OSL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:50 – 19:35",
+            "arrival_time": "18:00 – 22:20",
+            "duration": "12h 45min",
+            "price": "111 €",
+            "origin_airport": "BOD",
+            "destination_airport": "TRF",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:50 – 13:50",
+            "arrival_time": "18:00 – 22:20",
+            "duration": "7h 00min",
+            "price": "157 €",
+            "origin_airport": "BOD",
+            "destination_airport": "OSL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "10h 50min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:00 – 22:20",
+            "arrival_time": "18:00 – 22:20",
+            "duration": "4h 20min",
+            "price": "320 €",
+            "origin_airport": "BOD",
+            "destination_airport": "OSL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 40min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:50 – 14:15",
+            "arrival_time": "N/A",
+            "duration": "7h 25min",
+            "price": "164 €",
+            "origin_airport": "BOD",
+            "destination_airport": "OSL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-STN",
+            "layover_duration": "Escale de 9h 10min, ,[object Object]",
+            "airlines": [
+                "easyJet",
+                "British Airways"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "14:25 – 23:35",
+            "arrival_time": "18:00 – 22:20",
+            "duration": "9h 10min",
+            "price": "133 €",
+            "origin_airport": "BOD",
+            "destination_airport": "OSL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 3h 05min, ,[object Object]",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 11:55",
+            "arrival_time": "N/A",
+            "duration": "5h 55min",
+            "price": "272 €",
+            "origin_airport": "BOD",
+            "destination_airport": "OSL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 40min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Go Light"
+        },
+        {
+            "departure_time": "15:55 – 23:35",
+            "arrival_time": "N/A",
+            "duration": "7h 40min",
+            "price": "193 €",
+            "origin_airport": "BOD",
+            "destination_airport": "OSL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 3h 30min, ,[object Object]",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 18:20",
+            "arrival_time": "19:25 – 16:05\n+1",
+            "duration": "12h 20min",
+            "price": "130 €",
+            "origin_airport": "BOD",
+            "destination_airport": "OSL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MXP",
+            "layover_duration": "16h 20min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 12:30",
+            "arrival_time": "19:25 – 16:05\n+1",
+            "duration": "6h 30min",
+            "price": "249 €",
+            "origin_airport": "BOD",
+            "destination_airport": "OSL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LYS",
+            "layover_duration": "3h 10min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 12:30",
+            "arrival_time": "19:25 – 16:05\n+1",
+            "duration": "6h 30min",
+            "price": "264 €",
+            "origin_airport": "BOD",
+            "destination_airport": "OSL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 20min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "20:20 – 10:15+1",
+            "arrival_time": "19:25 – 16:05\n+1",
+            "duration": "13h 55min",
+            "price": "127 €",
+            "origin_airport": "BOD",
+            "destination_airport": "OSL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 50min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "20:20 – 10:55+1",
+            "arrival_time": "N/A",
+            "duration": "14h 35min",
+            "price": "125 €",
+            "origin_airport": "BOD",
+            "destination_airport": "OSL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "8h 45min",
+            "airlines": [
+                "British Airways"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "13:19 – 20:50",
+            "arrival_time": "19:25 – 16:05\n+1",
+            "duration": "7h 31min",
+            "price": "260 €",
+            "origin_airport": "BOD",
+            "destination_airport": "OSL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 16:15",
+            "arrival_time": "N/A",
+            "duration": "10h 15min",
+            "price": "179 €",
+            "origin_airport": "BOD",
+            "destination_airport": "OSL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 12:30",
+            "arrival_time": "N/A",
+            "duration": "6h 30min",
+            "price": "274 €",
+            "origin_airport": "BOD",
+            "destination_airport": "OSL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "KLM",
+                "Scandinavian Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:50 – 18:10",
+            "arrival_time": "18:25 – 23:45",
+            "duration": "11h 20min",
+            "price": "155 €",
+            "origin_airport": "BOD",
+            "destination_airport": "OSL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 10h 05min, ,[object Object]",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Basic Economy"
+        }
+    ]
+}

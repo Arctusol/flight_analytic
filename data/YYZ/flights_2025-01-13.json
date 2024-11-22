@@ -1,0 +1,456 @@
+{
+    "search_date": "2024-11-22 06:15:12",
+    "flight_date": "2025-01-13",
+    "origin": "BOD",
+    "destination": "YYZ",
+    "destination_city": "Toronto",
+    "url": "https://www.kayak.fr/flights/BOD-YYZ/2025-01-13?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "09:55 – 21:15",
+            "arrival_time": "09:55 – 21:15",
+            "duration": "17h 20min",
+            "price": "324 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BCN",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:55 – 21:15",
+            "arrival_time": "09:55 – 21:15",
+            "duration": "17h 20min",
+            "price": "324 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BCN",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "16:50 – 19:50+1",
+            "arrival_time": "09:55 – 21:15",
+            "duration": "33h 00min",
+            "price": "289 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "OPO",
+            "layover_duration": "19h 10min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:50 – 15:00",
+            "arrival_time": "09:55 – 21:15",
+            "duration": "14h 10min",
+            "price": "530 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 15:40",
+            "arrival_time": "N/A",
+            "duration": "15h 40min",
+            "price": "553 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW",
+            "layover_duration": "4h 10min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 15:40",
+            "arrival_time": "09:55 – 21:15",
+            "duration": "15h 40min",
+            "price": "553 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "15:55 – 20:55",
+            "arrival_time": "N/A",
+            "duration": "11h 00min",
+            "price": "776 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "5h 40min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "15:55 – 20:55",
+            "arrival_time": "N/A",
+            "duration": "11h 00min",
+            "price": "776 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "5h 40min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:40 – 16:15",
+            "arrival_time": "09:55 – 21:15",
+            "duration": "11h 35min",
+            "price": "828 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BCN",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:50 – 18:15",
+            "arrival_time": "09:55 – 21:15",
+            "duration": "17h 25min",
+            "price": "474 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:40 – 16:15",
+            "arrival_time": "09:55 – 21:15",
+            "duration": "11h 35min",
+            "price": "828 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:55 – 21:15",
+            "arrival_time": "09:55 – 21:15",
+            "duration": "17h 20min",
+            "price": "501 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "12:30 – 22:55",
+            "arrival_time": "N/A",
+            "duration": "16h 25min",
+            "price": "674 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW",
+            "layover_duration": "4h 25min",
+            "airlines": [
+                "KLM Cityhopper",
+                "KLM",
+                "Marabu"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "11:10 – 23:40",
+            "arrival_time": "09:55 – 21:15",
+            "duration": "18h 30min",
+            "price": "497 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "11:10 – 20:15",
+            "arrival_time": "N/A",
+            "duration": "15h 05min",
+            "price": "859 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "British Airways"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "11:10 – 21:40",
+            "arrival_time": "N/A",
+            "duration": "16h 30min",
+            "price": "715 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "3h 25min",
+            "airlines": [
+                "British Airways",
+                "Lufthansa"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 18:15",
+            "arrival_time": "16:50 – 19:50\n+1",
+            "duration": "18h 15min",
+            "price": "595 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "Transavia France",
+                "Azores Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 18:15",
+            "arrival_time": "16:50 – 19:50\n+1",
+            "duration": "18h 15min",
+            "price": "595 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LGW",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Transavia France",
+                "Azores Airlines"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "06:50 – 18:15",
+            "arrival_time": "16:50 – 19:50\n+1",
+            "duration": "17h 25min",
+            "price": "628 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "OPO",
+            "layover_duration": "19h 10min",
+            "airlines": [
+                "Transavia France",
+                "Azores Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 18:15",
+            "arrival_time": "16:50 – 19:50\n+1",
+            "duration": "18h 15min",
+            "price": "530 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 5h 15min, ,[object Object]",
+            "airlines": [
+                "Transavia France",
+                "Azores Airlines"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "09:05 – 21:15",
+            "arrival_time": "N/A",
+            "duration": "18h 10min",
+            "price": "634 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 6h 10min, ,[object Object]",
+            "airlines": [
+                "Iberia",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "09:05 – 21:20",
+            "arrival_time": "16:50 – 19:50\n+1",
+            "duration": "18h 15min",
+            "price": "772 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "5h 10min",
+            "airlines": [
+                "Transavia France",
+                "Azores Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "11:10 – 21:51",
+            "arrival_time": "N/A",
+            "duration": "16h 41min",
+            "price": "830 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "British Airways"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "11:10 – 21:51",
+            "arrival_time": "N/A",
+            "duration": "16h 41min",
+            "price": "809 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "5h 10min",
+            "airlines": [
+                "British Airways",
+                "American Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 21:32",
+            "arrival_time": "06:50 – 15:00",
+            "duration": "18h 27min",
+            "price": "784 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 4h 45min, ,[object Object]",
+            "airlines": [
+                "easyJet",
+                "Air Transat"
+            ],
+            "fare_class": "Standard"
+        }
+    ]
+}

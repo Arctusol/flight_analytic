@@ -1,0 +1,446 @@
+{
+    "search_date": "2024-11-22 03:21:59",
+    "flight_date": "2024-11-27",
+    "origin": "BOD",
+    "destination": "MIA",
+    "destination_city": "Miami",
+    "url": "https://www.kayak.fr/flights/BOD-MIA/2024-11-27?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "12:35 – 19:25",
+            "arrival_time": "12:35 – 19:25",
+            "duration": "12h 50min",
+            "price": "636 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 20min",
+            "airlines": [
+                "Volotea",
+                "Air Europa"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "11:35 – 19:20",
+            "arrival_time": "12:35 – 19:25",
+            "duration": "13h 45min",
+            "price": "587 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CMN",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "Volotea",
+                "Air Europa"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:46 – 18:45+1",
+            "arrival_time": "12:35 – 19:25",
+            "duration": "29h 59min",
+            "price": "401 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "PAR-ORY",
+            "layover_duration": "Escale de 17h 48min, ,[object Object]",
+            "airlines": [
+                "Volotea",
+                "Air Europa"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "12:35 – 19:25",
+            "arrival_time": "12:35 – 19:25",
+            "duration": "12h 50min",
+            "price": "670 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 20min",
+            "airlines": [
+                "Volotea",
+                "Air Europa"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:35 – 20:00",
+            "arrival_time": "N/A",
+            "duration": "16h 25min",
+            "price": "757 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 20min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 20:10",
+            "arrival_time": "12:35 – 19:25",
+            "duration": "20h 10min",
+            "price": "538 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 20min",
+            "airlines": [
+                "Volotea",
+                "Air Europa"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:35 – 20:00",
+            "arrival_time": "N/A",
+            "duration": "16h 25min",
+            "price": "1 014 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "3h 50min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "12:35 – 20:30",
+            "arrival_time": "N/A",
+            "duration": "13h 55min",
+            "price": "991 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Volotea",
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 20:30",
+            "arrival_time": "11:35 – 19:20",
+            "duration": "17h 25min",
+            "price": "1 001 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "BCN",
+            "layover_duration": "3h 50min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 20:30",
+            "arrival_time": "11:35 – 19:20",
+            "duration": "17h 25min",
+            "price": "1 021 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:35 – 20:00",
+            "arrival_time": "11:35 – 19:20",
+            "duration": "16h 25min",
+            "price": "990 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 40min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 20:30",
+            "arrival_time": "11:35 – 19:20",
+            "duration": "17h 25min",
+            "price": "1 085 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CMN",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "12:35 – 03:15+1",
+            "arrival_time": "N/A",
+            "duration": "20h 40min",
+            "price": "818 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 40min",
+            "airlines": [
+                "Volotea",
+                "Avianca"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:35 – 21:45",
+            "arrival_time": "11:35 – 19:20",
+            "duration": "18h 10min",
+            "price": "822 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "3h 50min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 19:20",
+            "arrival_time": "N/A",
+            "duration": "16h 15min",
+            "price": "905 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 40min",
+            "airlines": [
+                "Iberia",
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 20:18",
+            "arrival_time": "N/A",
+            "duration": "17h 13min",
+            "price": "1 021 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "American Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 20:18",
+            "arrival_time": "18:46 – 18:45\n+1",
+            "duration": "17h 13min",
+            "price": "1 023 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air Caraïbes"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 21:00",
+            "arrival_time": "18:46 – 18:45\n+1",
+            "duration": "17h 55min",
+            "price": "1 023 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "BCN",
+            "layover_duration": "3h 45min",
+            "airlines": [
+                "Air Caraïbes"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 20:00",
+            "arrival_time": "18:46 – 18:45\n+1",
+            "duration": "16h 55min",
+            "price": "1 091 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 30min",
+            "airlines": [
+                "Air Caraïbes"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 21:00",
+            "arrival_time": "18:46 – 18:45\n+1",
+            "duration": "17h 55min",
+            "price": "1 034 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Air Caraïbes"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "07:00 – 19:20",
+            "arrival_time": "N/A",
+            "duration": "18h 20min",
+            "price": "893 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 21:25",
+            "arrival_time": "18:46 – 18:45\n+1",
+            "duration": "18h 20min",
+            "price": "1 021 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Air Caraïbes"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 20:18",
+            "arrival_time": "N/A",
+            "duration": "17h 13min",
+            "price": "1 090 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 21:25",
+            "arrival_time": "N/A",
+            "duration": "18h 20min",
+            "price": "1 023 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "British Airways",
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 22:25",
+            "arrival_time": "12:35 – 19:25",
+            "duration": "19h 20min",
+            "price": "1 021 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 20min",
+            "airlines": [
+                "Volotea",
+                "Air Europa"
+            ],
+            "fare_class": "Economy"
+        }
+    ]
+}

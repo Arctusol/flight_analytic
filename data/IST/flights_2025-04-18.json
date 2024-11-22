@@ -1,0 +1,450 @@
+{
+    "search_date": "2024-11-22 03:19:32",
+    "flight_date": "2025-04-18",
+    "origin": "BOD",
+    "destination": "IST",
+    "destination_city": "Istanbul",
+    "url": "https://www.kayak.fr/flights/BOD-IST/2025-04-18?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "18:50 – 23:40",
+            "arrival_time": "direct",
+            "duration": "3h 50min",
+            "price": "272 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": true,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "EcoFly"
+        },
+        {
+            "departure_time": "18:50 – 23:40",
+            "arrival_time": "direct",
+            "duration": "3h 50min",
+            "price": "255 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": true,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "EcoFly"
+        },
+        {
+            "departure_time": "07:00 – 06:05+1",
+            "arrival_time": "18:50 – 23:40",
+            "duration": "22h 05min",
+            "price": "127 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "LGW-STN",
+            "layover_duration": "Escale de 16h 40min, ,[object Object]",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "17:10 – 06:05+1",
+            "arrival_time": "18:50 – 23:40",
+            "duration": "11h 55min",
+            "price": "129 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "EcoFly"
+        },
+        {
+            "departure_time": "10:25 – 20:25",
+            "arrival_time": "N/A",
+            "duration": "9h 00min",
+            "price": "178 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LTN-STN",
+            "layover_duration": "Escale de 6h 25min, ,[object Object]",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "07:00 – 18:00",
+            "arrival_time": "18:50 – 23:40",
+            "duration": "10h 00min",
+            "price": "161 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "EcoFly"
+        },
+        {
+            "departure_time": "17:10 – 04:05+1",
+            "arrival_time": "N/A",
+            "duration": "9h 55min",
+            "price": "165 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MRS",
+            "layover_duration": "4h 45min",
+            "airlines": [
+                "easyJet",
+                "Wizz Air"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "07:00 – 17:45",
+            "arrival_time": "N/A",
+            "duration": "9h 45min",
+            "price": "170 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-STN",
+            "layover_duration": "Escale de 4h 35min, ,[object Object]",
+            "airlines": [
+                "easyJet",
+                "Ajet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "15:25 – 23:05",
+            "arrival_time": "18:50 – 23:40",
+            "duration": "6h 40min",
+            "price": "241 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "EcoFly"
+        },
+        {
+            "departure_time": "07:05 – 20:25",
+            "arrival_time": "18:50 – 23:40",
+            "duration": "12h 20min",
+            "price": "160 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LTN-LGW",
+            "layover_duration": "Escale de 4h 05min, ,[object Object]",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "07:05 – 14:50",
+            "arrival_time": "18:50 – 23:40",
+            "duration": "6h 45min",
+            "price": "247 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LGW-STN",
+            "layover_duration": "Escale de 4h 10min, ,[object Object]",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "07:00 – 16:15",
+            "arrival_time": "18:50 – 23:40",
+            "duration": "8h 15min",
+            "price": "218 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "NCE",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "07:00 – 20:25",
+            "arrival_time": "N/A",
+            "duration": "12h 25min",
+            "price": "161 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MRS",
+            "layover_duration": "8h 05min",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "11:58 – 21:50",
+            "arrival_time": "18:50 – 23:40",
+            "duration": "8h 52min",
+            "price": "208 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MRS",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "07:10 – 17:15",
+            "arrival_time": "N/A",
+            "duration": "9h 05min",
+            "price": "206 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW",
+            "layover_duration": "2h 30min",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "07:00 – 21:35",
+            "arrival_time": "N/A",
+            "duration": "13h 35min",
+            "price": "170 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-STN",
+            "layover_duration": "Escale de 7h 00min, ,[object Object]",
+            "airlines": [
+                "easyJet",
+                "Ajet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "12:15 – 22:05",
+            "arrival_time": "07:00 – 06:05\n+1",
+            "duration": "8h 50min",
+            "price": "232 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "PAR-ORY",
+            "layover_duration": "Escale de 3h 19min, ,[object Object]",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "07:10 – 20:10",
+            "arrival_time": "07:00 – 06:05\n+1",
+            "duration": "12h 00min",
+            "price": "187 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CPH",
+            "layover_duration": "3h 15min",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "07:10 – 17:15",
+            "arrival_time": "07:00 – 06:05\n+1",
+            "duration": "9h 05min",
+            "price": "241 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LGW-STN",
+            "layover_duration": "Escale de 8h 00min, ,[object Object]",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "07:00 – 17:00",
+            "arrival_time": "07:00 – 06:05\n+1",
+            "duration": "9h 00min",
+            "price": "246 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BSL",
+            "layover_duration": "4h 20min",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:30 – 16:05",
+            "arrival_time": "N/A",
+            "duration": "8h 35min",
+            "price": "315 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "EcoFly"
+        },
+        {
+            "departure_time": "09:55 – 18:45",
+            "arrival_time": "07:00 – 06:05\n+1",
+            "duration": "7h 50min",
+            "price": "278 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CPH",
+            "layover_duration": "6h 10min",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "10:25 – 20:05",
+            "arrival_time": "N/A",
+            "duration": "8h 40min",
+            "price": "269 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CPH",
+            "layover_duration": "3h 10min",
+            "airlines": [
+                "Volotea",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "16:30 – 05:25+1",
+            "arrival_time": "N/A",
+            "duration": "11h 55min",
+            "price": "206 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW",
+            "layover_duration": "3h 15min",
+            "airlines": [
+                "Volotea",
+                "Wizz Air",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "10:25 – 22:10",
+            "arrival_time": "17:10 – 06:05\n+1",
+            "duration": "10h 45min",
+            "price": "245 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "EcoFly"
+        }
+    ]
+}

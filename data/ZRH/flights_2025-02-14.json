@@ -1,0 +1,444 @@
+{
+    "search_date": "2024-11-21 23:47:07",
+    "flight_date": "2025-02-14",
+    "origin": "BOD",
+    "destination": "ZRH",
+    "destination_city": "Zurich",
+    "url": "https://www.kayak.fr/flights/BOD-ZRH/2025-02-14?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "06:00 – 10:50",
+            "arrival_time": "06:00 – 10:50",
+            "duration": "4h 50min",
+            "price": "121 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "15:45 – 21:05",
+            "arrival_time": "06:00 – 10:50",
+            "duration": "5h 20min",
+            "price": "82 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "OPO",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "13:00 – 21:05",
+            "arrival_time": "06:00 – 10:50",
+            "duration": "8h 05min",
+            "price": "68 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "OPO",
+            "layover_duration": "3h 55min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 10:50",
+            "arrival_time": "06:00 – 10:50",
+            "duration": "4h 50min",
+            "price": "121 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:05 – 22:30",
+            "arrival_time": "N/A",
+            "duration": "4h 25min",
+            "price": "137 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 09:50",
+            "arrival_time": "06:00 – 10:50",
+            "duration": "3h 50min",
+            "price": "154 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "12:30 – 16:45",
+            "arrival_time": "N/A",
+            "duration": "4h 15min",
+            "price": "168 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "16:45 – 19:55",
+            "arrival_time": "N/A",
+            "duration": "3h 10min",
+            "price": "163 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "easyJet",
+                "SWISS"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "16:45 – 21:05",
+            "arrival_time": "15:45 – 21:05",
+            "duration": "4h 20min",
+            "price": "163 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:35 – 22:30",
+            "arrival_time": "15:45 – 21:05",
+            "duration": "3h 55min",
+            "price": "234 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "GVA",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "07:12 – 14:26",
+            "arrival_time": "1 changement",
+            "duration": "7h 14min",
+            "price": "148 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": true,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "13:35 – 20:40",
+            "arrival_time": "15:45 – 21:05",
+            "duration": "7h 05min",
+            "price": "132 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "12:30 – 18:25",
+            "arrival_time": "N/A",
+            "duration": "5h 55min",
+            "price": "201 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "PAR-PAR",
+            "layover_duration": "Escale de 1h 00min, ,[object Object]",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "12:30 – 22:30",
+            "arrival_time": "15:45 – 21:05",
+            "duration": "10h 00min",
+            "price": "137 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "3h 55min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:55 – 20:40",
+            "arrival_time": "N/A",
+            "duration": "10h 45min",
+            "price": "144 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "15:45 – 22:55",
+            "arrival_time": "N/A",
+            "duration": "7h 10min",
+            "price": "183 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "6h 50min",
+            "airlines": [
+                "easyJet",
+                "SWISS"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "12:15 – 19:30",
+            "arrival_time": "13:00 – 21:05",
+            "duration": "7h 15min",
+            "price": "142 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "BCN",
+            "layover_duration": "7h 35min",
+            "airlines": [
+                "Transavia France",
+                "easyJet"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "10:50 – 17:55",
+            "arrival_time": "13:00 – 21:05",
+            "duration": "7h 05min",
+            "price": "213 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "OPO",
+            "layover_duration": "3h 00min",
+            "airlines": [
+                "Transavia France",
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:35 – 16:05",
+            "arrival_time": "13:00 – 21:05",
+            "duration": "6h 30min",
+            "price": "197 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "LYS",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "Transavia France",
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "15:55 – 22:30",
+            "arrival_time": "13:00 – 21:05",
+            "duration": "6h 35min",
+            "price": "234 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "OPO",
+            "layover_duration": "3h 55min",
+            "airlines": [
+                "Transavia France",
+                "easyJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 19:30",
+            "arrival_time": "N/A",
+            "duration": "10h 25min",
+            "price": "129 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "4h 25min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:50 – 22:30",
+            "arrival_time": "13:00 – 21:05",
+            "duration": "11h 40min",
+            "price": "158 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "VCE",
+            "layover_duration": "3h 25min",
+            "airlines": [
+                "Transavia France",
+                "easyJet"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "21:35 – 06:55+1",
+            "arrival_time": "N/A",
+            "duration": "9h 20min",
+            "price": "164 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "SWISS"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "13:00 – 22:30",
+            "arrival_time": "N/A",
+            "duration": "9h 30min",
+            "price": "135 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 50min",
+            "airlines": [
+                "Transavia France",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 13:35",
+            "arrival_time": "06:00 – 10:50",
+            "duration": "7h 35min",
+            "price": "237 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ZRH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "LYS",
+            "layover_duration": "4h 15min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Standard"
+        }
+    ]
+}

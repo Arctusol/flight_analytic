@@ -1,0 +1,443 @@
+{
+    "search_date": "2024-11-22 05:03:02",
+    "flight_date": "2024-12-30",
+    "origin": "BOD",
+    "destination": "CHI",
+    "destination_city": "Chicago",
+    "url": "https://www.kayak.fr/flights/BOD-CHI/2024-12-30?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "09:05 – 14:30",
+            "arrival_time": "09:05 – 14:30",
+            "duration": "12h 25min",
+            "price": "1 114 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 14:30",
+            "arrival_time": "09:05 – 14:30",
+            "duration": "12h 25min",
+            "price": "1 054 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "08:41 – 10:10+1",
+            "arrival_time": "09:05 – 14:30",
+            "duration": "32h 29min",
+            "price": "845 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "PAR-CDG",
+            "layover_duration": "Escale de 4h 09min, ,[object Object]",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "09:05 – 14:30",
+            "arrival_time": "09:05 – 14:30",
+            "duration": "12h 25min",
+            "price": "1 085 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "11:10 – 18:45",
+            "arrival_time": "N/A",
+            "duration": "14h 35min",
+            "price": "1 008 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "British Airways"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "11:10 – 18:45",
+            "arrival_time": "09:05 – 14:30",
+            "duration": "14h 35min",
+            "price": "1 008 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "10:40 – 15:05",
+            "arrival_time": "N/A",
+            "duration": "11h 25min",
+            "price": "1 299 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 3h 55min, ,[object Object]",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "10:40 – 15:05",
+            "arrival_time": "N/A",
+            "duration": "11h 25min",
+            "price": "1 299 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 3h 55min, ,[object Object]",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:35 – 15:05",
+            "arrival_time": "09:05 – 14:30",
+            "duration": "12h 30min",
+            "price": "1 257 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 19:24",
+            "arrival_time": "09:05 – 14:30",
+            "duration": "17h 19min",
+            "price": "909 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 19:24",
+            "arrival_time": "09:05 – 14:30",
+            "duration": "17h 19min",
+            "price": "910 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 19:45",
+            "arrival_time": "09:05 – 14:30",
+            "duration": "17h 40min",
+            "price": "910 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 20:07",
+            "arrival_time": "N/A",
+            "duration": "18h 02min",
+            "price": "909 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "American Airlines"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "09:05 – 20:07",
+            "arrival_time": "09:05 – 14:30",
+            "duration": "18h 02min",
+            "price": "910 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 20:07",
+            "arrival_time": "N/A",
+            "duration": "18h 02min",
+            "price": "910 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "British Airways",
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 14:30",
+            "arrival_time": "N/A",
+            "duration": "15h 30min",
+            "price": "1 225 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 14:30",
+            "arrival_time": "08:41 – 10:10\n+1",
+            "duration": "15h 30min",
+            "price": "1 225 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "SNCF",
+                "Turkish Airlines"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "11:10 – 18:45",
+            "arrival_time": "08:41 – 10:10\n+1",
+            "duration": "14h 35min",
+            "price": "1 520 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "SNCF",
+                "Turkish Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 15:05",
+            "arrival_time": "08:41 – 10:10\n+1",
+            "duration": "16h 05min",
+            "price": "1 203 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "SNCF",
+                "Turkish Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 15:05",
+            "arrival_time": "08:41 – 10:10\n+1",
+            "duration": "16h 05min",
+            "price": "1 203 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "4h 50min",
+            "airlines": [
+                "SNCF",
+                "Turkish Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 14:30",
+            "arrival_time": "N/A",
+            "duration": "15h 30min",
+            "price": "1 486 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "4h 50min",
+            "airlines": [
+                "Air France",
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "13:35 – 20:59",
+            "arrival_time": "08:41 – 10:10\n+1",
+            "duration": "14h 24min",
+            "price": "1 432 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "SNCF",
+                "Turkish Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 18:45",
+            "arrival_time": "N/A",
+            "duration": "16h 40min",
+            "price": "997 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 3h 55min, ,[object Object]",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "09:05 – 18:45",
+            "arrival_time": "N/A",
+            "duration": "16h 40min",
+            "price": "997 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "5h 45min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:35 – 18:48",
+            "arrival_time": "09:05 – 14:30",
+            "duration": "16h 13min",
+            "price": "1 427 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "5h 45min",
+            "airlines": [
+                "British Airways",
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        }
+    ]
+}

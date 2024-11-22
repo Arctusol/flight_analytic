@@ -1,0 +1,457 @@
+{
+    "search_date": "2024-11-22 04:30:36",
+    "flight_date": "2024-12-08",
+    "origin": "BOD",
+    "destination": "YYZ",
+    "destination_city": "Toronto",
+    "url": "https://www.kayak.fr/flights/BOD-YYZ/2024-12-08?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "09:05 – 20:15",
+            "arrival_time": "09:05 – 20:15",
+            "duration": "17h 10min",
+            "price": "947 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Iberia",
+                "British Airways"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 14:45",
+            "arrival_time": "09:05 – 20:15",
+            "duration": "14h 45min",
+            "price": "520 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 45min",
+            "airlines": [
+                "Iberia",
+                "British Airways"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:50 – 16:06+1",
+            "arrival_time": "09:05 – 20:15",
+            "duration": "28h 16min",
+            "price": "311 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "LIS",
+            "layover_duration": "14h 35min",
+            "airlines": [
+                "Iberia",
+                "British Airways"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "11:35 – 19:25",
+            "arrival_time": "09:05 – 20:15",
+            "duration": "13h 50min",
+            "price": "673 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Iberia",
+                "British Airways"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 19:25",
+            "arrival_time": "N/A",
+            "duration": "16h 20min",
+            "price": "589 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CMN",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Iberia",
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 16:06",
+            "arrival_time": "09:05 – 20:15",
+            "duration": "16h 06min",
+            "price": "647 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Iberia",
+                "British Airways"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "07:30 – 19:25",
+            "arrival_time": "N/A",
+            "duration": "17h 55min",
+            "price": "645 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 30min",
+            "airlines": [
+                "easyJet",
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "08:10 – 21:15",
+            "arrival_time": "N/A",
+            "duration": "19h 05min",
+            "price": "701 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 25min",
+            "airlines": [
+                "easyJet",
+                "Ryanair",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:40 – 21:15",
+            "arrival_time": "06:00 – 14:45",
+            "duration": "16h 35min",
+            "price": "801 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 45min",
+            "airlines": [
+                "KLM",
+                "Condor"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 20:15",
+            "arrival_time": "06:00 – 14:45",
+            "duration": "17h 10min",
+            "price": "911 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "RAK",
+            "layover_duration": "3h 30min",
+            "airlines": [
+                "KLM",
+                "Condor"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 20:15",
+            "arrival_time": "06:00 – 14:45",
+            "duration": "17h 10min",
+            "price": "912 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BER",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "KLM",
+                "Condor"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 18:15",
+            "arrival_time": "06:00 – 14:45",
+            "duration": "18h 15min",
+            "price": "703 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "KLM",
+                "Condor"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 19:25",
+            "arrival_time": "N/A",
+            "duration": "19h 25min",
+            "price": "684 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Air France",
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "09:05 – 20:15",
+            "arrival_time": "06:00 – 14:45",
+            "duration": "17h 10min",
+            "price": "926 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 45min",
+            "airlines": [
+                "KLM",
+                "Condor"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 20:15",
+            "arrival_time": "N/A",
+            "duration": "17h 10min",
+            "price": "939 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Iberia",
+                "British Airways"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "09:05 – 21:15",
+            "arrival_time": "N/A",
+            "duration": "18h 10min",
+            "price": "761 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "5h 35min",
+            "airlines": [
+                "Iberia",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 18:15",
+            "arrival_time": "17:50 – 16:06\n+1",
+            "duration": "18h 15min",
+            "price": "677 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "4h 50min",
+            "airlines": [
+                "easyJet",
+                "Air Transat"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 18:15",
+            "arrival_time": "17:50 – 16:06\n+1",
+            "duration": "18h 15min",
+            "price": "677 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "easyJet",
+                "Air Transat"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 18:15",
+            "arrival_time": "17:50 – 16:06\n+1",
+            "duration": "18h 15min",
+            "price": "680 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LIS",
+            "layover_duration": "14h 35min",
+            "airlines": [
+                "easyJet",
+                "Air Transat"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 18:15",
+            "arrival_time": "17:50 – 16:06\n+1",
+            "duration": "18h 15min",
+            "price": "681 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "easyJet",
+                "Air Transat"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 21:25",
+            "arrival_time": "N/A",
+            "duration": "18h 20min",
+            "price": "928 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 25min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 21:25",
+            "arrival_time": "17:50 – 16:06\n+1",
+            "duration": "18h 20min",
+            "price": "928 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LIS",
+            "layover_duration": "14h 35min",
+            "airlines": [
+                "easyJet",
+                "Air Transat"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 21:32",
+            "arrival_time": "N/A",
+            "duration": "18h 27min",
+            "price": "928 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "American Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 21:51",
+            "arrival_time": "N/A",
+            "duration": "18h 46min",
+            "price": "927 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 45min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 21:32",
+            "arrival_time": "11:35 – 19:25",
+            "duration": "18h 27min",
+            "price": "928 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YYZ",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 50min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Light"
+        }
+    ]
+}

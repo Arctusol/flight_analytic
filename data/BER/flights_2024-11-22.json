@@ -1,254 +1,256 @@
 {
-    "search_date": "2024-11-21 03:02:39",
+    "search_date": "2024-11-22 13:02:11",
     "flight_date": "2024-11-22",
     "origin": "BOD",
     "destination": "BER",
     "destination_city": "Berlin",
-    "url": "https://www.kayak.fr/flights/BOD-BER/2024-11-22?sort=price_a",
+    "url": "https://www.kayak.fr/flights/BOD-BER/2024-11-22?sort=bestflight_a",
     "flights": [
         {
-            "departure_time": "12:50 – 22:55",
-            "arrival_time": "12:50 – 22:55",
-            "duration": "10h 05min",
-            "price": "154 €",
+            "departure_time": "21:35 – 10:35+1",
+            "arrival_time": "21:35 – 10:35\n+1",
+            "duration": "13h 00min",
+            "price": "240 €",
             "origin_airport": "BOD",
             "destination_airport": "BER",
             "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
-            "airlines": [
-                "Volotea",
-                "Ryanair"
-            ],
-            "fare_class": "Économique",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
-        },
-        {
-            "departure_time": "19:45 – 08:40+1",
-            "arrival_time": "12:50 – 22:55",
-            "duration": "12h 55min",
-            "price": "155 €",
-            "origin_airport": "BOD",
-            "destination_airport": "BER",
-            "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
-            "airlines": [
-                "Volotea",
-                "Ryanair"
-            ],
-            "fare_class": "Économique",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
-        },
-        {
-            "departure_time": "12:15 – 17:20",
-            "arrival_time": "12:50 – 22:55",
-            "duration": "5h 05min",
-            "price": "164 €",
-            "origin_airport": "BOD",
-            "destination_airport": "BER",
-            "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
-            "airlines": [
-                "Volotea",
-                "Ryanair"
-            ],
-            "fare_class": "Économique",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
-        },
-        {
-            "departure_time": "09:05 – 17:20",
-            "arrival_time": "12:50 – 22:55",
-            "duration": "8h 15min",
-            "price": "166 €",
-            "origin_airport": "BOD",
-            "destination_airport": "BER",
-            "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
-            "airlines": [
-                "Volotea",
-                "Ryanair"
-            ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
-        },
-        {
-            "departure_time": "19:45 – 11:10+1",
-            "arrival_time": "N/A",
-            "duration": "15h 25min",
-            "price": "166 €",
-            "origin_airport": "BOD",
-            "destination_airport": "BER",
-            "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "GVA",
+            "layover_duration": "9h 55min",
             "airlines": [
                 "easyJet"
             ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
-        },
-        {
-            "departure_time": "07:00 – 20:35",
-            "arrival_time": "12:50 – 22:55",
-            "duration": "13h 35min",
-            "price": "178 €",
-            "origin_airport": "BOD",
-            "destination_airport": "BER",
-            "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
-            "airlines": [
-                "Volotea",
-                "Ryanair"
-            ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Standard"
         },
         {
             "departure_time": "21:35 – 10:35+1",
-            "arrival_time": "N/A",
+            "arrival_time": "21:35 – 10:35\n+1",
             "duration": "13h 00min",
-            "price": "182 €",
+            "price": "204 €",
             "origin_airport": "BOD",
             "destination_airport": "BER",
             "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "GVA",
+            "layover_duration": "9h 55min",
             "airlines": [
                 "easyJet"
             ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Standard"
         },
         {
-            "departure_time": "09:45 – 23:00",
-            "arrival_time": "N/A",
-            "duration": "13h 15min",
-            "price": "202 €",
+            "departure_time": "19:45 – 11:10+1",
+            "arrival_time": "21:35 – 10:35\n+1",
+            "duration": "15h 25min",
+            "price": "203 €",
             "origin_airport": "BOD",
             "destination_airport": "BER",
             "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MXP-LIN",
+            "layover_duration": "Escale de 12h 10min, ,[object Object]",
             "airlines": [
-                "Vueling",
-                "Ryanair"
+                "easyJet"
             ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Standard"
         },
         {
-            "departure_time": "16:45 – 22:35",
-            "arrival_time": "19:45 – 08:40\n+1",
-            "duration": "5h 50min",
-            "price": "209 €",
+            "departure_time": "17:55 – 23:10",
+            "arrival_time": "21:35 – 10:35\n+1",
+            "duration": "5h 15min",
+            "price": "718 €",
             "origin_airport": "BOD",
             "destination_airport": "BER",
             "is_direct": false,
             "checked_baggage": "N/A",
             "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
+            "layover_airport": "GVA",
+            "layover_duration": "9h 55min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "19:45 – 08:40+1",
+            "arrival_time": "N/A",
+            "duration": "12h 55min",
+            "price": "253 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "0h 45min",
             "airlines": [
                 "easyJet",
                 "Ryanair"
             ],
-            "fare_class": "Standard",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Business Optimal"
         },
         {
-            "departure_time": "20:10 – 08:55+1",
-            "arrival_time": "19:45 – 08:40\n+1",
+            "departure_time": "21:35 – 11:05+1",
+            "arrival_time": "21:35 – 10:35\n+1",
+            "duration": "13h 30min",
+            "price": "259 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "GVA",
+            "layover_duration": "9h 55min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "19:45 – 13:00+1",
+            "arrival_time": "N/A",
+            "duration": "17h 15min",
+            "price": "217 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MXP-BGY",
+            "layover_duration": "Escale de 9h 40min, ,[object Object]",
+            "airlines": [
+                "easyJet",
+                "Ryanair"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "21:50 – 10:35+1",
+            "arrival_time": "N/A",
             "duration": "12h 45min",
-            "price": "209 €",
+            "price": "321 €",
             "origin_airport": "BOD",
             "destination_airport": "BER",
             "is_direct": false,
             "checked_baggage": "N/A",
             "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
+            "layover_airport": "BSL",
+            "layover_duration": "10h 30min",
             "airlines": [
-                "easyJet",
-                "Ryanair"
+                "easyJet"
             ],
-            "fare_class": "Standard",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Standard"
         },
         {
-            "departure_time": "08:30 – 23:10",
-            "arrival_time": "19:45 – 08:40\n+1",
-            "duration": "14h 40min",
-            "price": "211 €",
+            "departure_time": "20:40 – 08:35+1",
+            "arrival_time": "21:35 – 10:35\n+1",
+            "duration": "11h 55min",
+            "price": "490 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MXP-BGY",
+            "layover_duration": "Escale de 14h 00min, ,[object Object]",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "20:40 – 14:00+1",
+            "arrival_time": "21:35 – 10:35\n+1",
+            "duration": "17h 20min",
+            "price": "411 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "GVA",
+            "layover_duration": "9h 55min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "18:00 – 09:50+1",
+            "arrival_time": "21:35 – 10:35\n+1",
+            "duration": "15h 50min",
+            "price": "457 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "NCE",
+            "layover_duration": "7h 40min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "22:25 – 12:00+1",
+            "arrival_time": "21:35 – 10:35\n+1",
+            "duration": "13h 35min",
+            "price": "418 €",
             "origin_airport": "BOD",
             "destination_airport": "BER",
             "is_direct": false,
             "checked_baggage": "N/A",
             "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
+            "layover_airport": "LGW-STN",
+            "layover_duration": "Escale de 8h 35min, ,[object Object]",
             "airlines": [
-                "easyJet",
-                "Ryanair"
+                "easyJet"
             ],
-            "fare_class": "Standard",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Basic Economy"
         },
         {
-            "departure_time": "09:45 – 23:00",
-            "arrival_time": "19:45 – 08:40\n+1",
-            "duration": "13h 15min",
-            "price": "212 €",
-            "origin_airport": "BOD",
-            "destination_airport": "BER",
-            "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
-            "airlines": [
-                "easyJet",
-                "Ryanair"
-            ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
-        },
-        {
-            "departure_time": "08:30 – 23:10",
+            "departure_time": "20:40 – 10:35+1",
             "arrival_time": "N/A",
-            "duration": "14h 40min",
-            "price": "216 €",
+            "duration": "13h 55min",
+            "price": "490 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 13h 45min, ,[object Object]",
+            "airlines": [
+                "British Airways"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "21:35 – 10:10+1",
+            "arrival_time": "21:35 – 10:35\n+1",
+            "duration": "12h 35min",
+            "price": "423 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "IST",
+            "layover_duration": "8h 55min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "EcoFly"
+        },
+        {
+            "departure_time": "18:00 – 12:05+1",
+            "arrival_time": "N/A",
+            "duration": "18h 05min",
+            "price": "457 €",
             "origin_airport": "BOD",
             "destination_airport": "BER",
             "is_direct": false,
@@ -257,53 +259,181 @@
             "layover_airport": "N/A",
             "layover_duration": "N/A",
             "airlines": [
-                "Volotea",
+                "Turkish Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "20:40 – 10:45+1",
+            "arrival_time": "N/A",
+            "duration": "14h 05min",
+            "price": "647 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LIS",
+            "layover_duration": "8h 00min",
+            "airlines": [
+                "British Airways"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "18:15 – 10:25+1",
+            "arrival_time": "19:45 – 11:10\n+1",
+            "duration": "16h 10min",
+            "price": "426 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LGW-LCY",
+            "layover_duration": "Escale de 10h 35min, ,[object Object]",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "22:25 – 11:55+1",
+            "arrival_time": "19:45 – 11:10\n+1",
+            "duration": "13h 30min",
+            "price": "426 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "GVA",
+            "layover_duration": "7h 25min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "20:40 – 13:55+1",
+            "arrival_time": "19:45 – 11:10\n+1",
+            "duration": "17h 15min",
+            "price": "533 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "IST",
+            "layover_duration": "11h 20min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "EcoFly"
+        },
+        {
+            "departure_time": "18:05 – 09:25+1",
+            "arrival_time": "19:45 – 11:10\n+1",
+            "duration": "15h 20min",
+            "price": "617 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 10h 30min, ,[object Object]",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "21:50 – 10:55+1",
+            "arrival_time": "N/A",
+            "duration": "13h 05min",
+            "price": "447 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Lufthansa"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "18:05 – 11:05+1",
+            "arrival_time": "19:45 – 11:10\n+1",
+            "duration": "17h 00min",
+            "price": "617 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "OPO",
+            "layover_duration": "11h 20min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "21:50 – 12:00+1",
+            "arrival_time": "N/A",
+            "duration": "14h 10min",
+            "price": "438 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LIS",
+            "layover_duration": "5h 40min",
+            "airlines": [
+                "easyJet",
+                "Lufthansa"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "17:55 – 10:50+1",
+            "arrival_time": "N/A",
+            "duration": "16h 55min",
+            "price": "593 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BER",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LCY",
+            "layover_duration": "Escale de 13h 55min, ,[object Object]",
+            "airlines": [
                 "Iberia"
             ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Basic Economy"
         },
         {
-            "departure_time": "09:05 – 23:10",
-            "arrival_time": "19:45 – 08:40\n+1",
-            "duration": "14h 05min",
-            "price": "220 €",
+            "departure_time": "17:45 – 09:15+1",
+            "arrival_time": "17:55 – 23:10",
+            "duration": "15h 30min",
+            "price": "384 €",
             "origin_airport": "BOD",
             "destination_airport": "BER",
             "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "0h 45min",
             "airlines": [
-                "easyJet",
-                "Ryanair"
+                "Iberia"
             ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
-        },
-        {
-            "departure_time": "09:45 – 23:00",
-            "arrival_time": "N/A",
-            "duration": "13h 15min",
-            "price": "221 €",
-            "origin_airport": "BOD",
-            "destination_airport": "BER",
-            "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
-            "airlines": [
-                "Vueling",
-                "easyJet",
-                "Ryanair"
-            ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Standard"
         }
     ]
 }

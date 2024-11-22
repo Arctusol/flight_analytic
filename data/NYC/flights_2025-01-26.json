@@ -1,0 +1,439 @@
+{
+    "search_date": "2024-11-22 14:03:27",
+    "flight_date": "2025-01-26",
+    "origin": "BOD",
+    "destination": "NYC",
+    "destination_city": "New York",
+    "url": "https://www.kayak.fr/flights/BOD-NYC/2025-01-26?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "11:00 – 17:55",
+            "arrival_time": "11:00 – 17:55",
+            "duration": "12h 55min",
+            "price": "540 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "CMN",
+            "layover_duration": "2h 35min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "11:00 – 17:55",
+            "arrival_time": "11:00 – 17:55",
+            "duration": "12h 55min",
+            "price": "537 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "CMN",
+            "layover_duration": "2h 35min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "23:05 – 22:00+1",
+            "arrival_time": "11:00 – 17:55",
+            "duration": "28h 55min",
+            "price": "298 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "BCN",
+            "layover_duration": "18h 30min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "14:55 – 20:30",
+            "arrival_time": "11:00 – 17:55",
+            "duration": "11h 35min",
+            "price": "601 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EWR",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CMN",
+            "layover_duration": "2h 35min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 10:40",
+            "arrival_time": "N/A",
+            "duration": "10h 40min",
+            "price": "668 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ZRH",
+            "layover_duration": "0h 40min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "06:00 – 10:40",
+            "arrival_time": "11:00 – 17:55",
+            "duration": "10h 40min",
+            "price": "668 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CMN",
+            "layover_duration": "2h 35min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 15:50",
+            "arrival_time": "N/A",
+            "duration": "15h 50min",
+            "price": "546 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 15:50",
+            "arrival_time": "N/A",
+            "duration": "15h 50min",
+            "price": "546 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:40 – 16:10",
+            "arrival_time": "11:00 – 17:55",
+            "duration": "11h 30min",
+            "price": "756 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "5h 45min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:40 – 16:10",
+            "arrival_time": "11:00 – 17:55",
+            "duration": "11h 30min",
+            "price": "756 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "5h 45min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "12:00 – 22:15",
+            "arrival_time": "11:00 – 17:55",
+            "duration": "16h 15min",
+            "price": "591 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 17:05",
+            "arrival_time": "11:00 – 17:55",
+            "duration": "17h 05min",
+            "price": "496 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SWF",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CMN",
+            "layover_duration": "2h 35min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 19:15",
+            "arrival_time": "N/A",
+            "duration": "16h 10min",
+            "price": "583 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "12:00 – 22:35",
+            "arrival_time": "11:00 – 17:55",
+            "duration": "16h 35min",
+            "price": "591 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EWR",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "IST",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "09:05 – 15:00",
+            "arrival_time": "N/A",
+            "duration": "11h 55min",
+            "price": "890 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "4h 05min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 15:00",
+            "arrival_time": "N/A",
+            "duration": "11h 55min",
+            "price": "895 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 55min",
+            "airlines": [
+                "Iberia",
+                "British Airways"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 15:00",
+            "arrival_time": "23:05 – 22:00\n+1",
+            "duration": "11h 55min",
+            "price": "946 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "BCN",
+            "layover_duration": "18h 30min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 15:00",
+            "arrival_time": "23:05 – 22:00\n+1",
+            "duration": "11h 55min",
+            "price": "904 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "IST",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "09:05 – 15:00",
+            "arrival_time": "23:05 – 22:00\n+1",
+            "duration": "11h 55min",
+            "price": "914 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 15:00",
+            "arrival_time": "23:05 – 22:00\n+1",
+            "duration": "11h 55min",
+            "price": "951 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 17:05",
+            "arrival_time": "N/A",
+            "duration": "17h 05min",
+            "price": "525 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SWF",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "KLM",
+                "PLAY"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "06:00 – 14:40",
+            "arrival_time": "23:05 – 22:00\n+1",
+            "duration": "14h 40min",
+            "price": "703 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EWR",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "18h 30min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 17:05",
+            "arrival_time": "N/A",
+            "duration": "17h 05min",
+            "price": "552 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SWF",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Scandinavian Airlines",
+                "PLAY"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:55 – 22:00",
+            "arrival_time": "N/A",
+            "duration": "18h 05min",
+            "price": "533 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EWR",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 19:15",
+            "arrival_time": "14:55 – 20:30",
+            "duration": "16h 10min",
+            "price": "904 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Basic"
+        }
+    ]
+}

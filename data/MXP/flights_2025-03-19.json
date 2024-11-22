@@ -1,0 +1,437 @@
+{
+    "search_date": "2024-11-22 04:05:43",
+    "flight_date": "2025-03-19",
+    "origin": "BOD",
+    "destination": "MXP",
+    "destination_city": "Milan",
+    "url": "https://www.kayak.fr/flights/BOD-MXP/2025-03-19?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "19:25 – 21:00",
+            "arrival_time": "direct",
+            "duration": "1h 35min",
+            "price": "27 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": true,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "18:25 – 22:15",
+            "arrival_time": "19:25 – 21:00",
+            "duration": "3h 50min",
+            "price": "113 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "15:00 – 20:55",
+            "arrival_time": "19:25 – 21:00",
+            "duration": "5h 55min",
+            "price": "76 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "FRA",
+            "layover_duration": "0h 45min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "17:55 – 23:10",
+            "arrival_time": "19:25 – 21:00",
+            "duration": "5h 15min",
+            "price": "98 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LIS",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 10:35",
+            "arrival_time": "N/A",
+            "duration": "4h 35min",
+            "price": "129 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "18:25 – 22:15",
+            "arrival_time": "19:25 – 21:00",
+            "duration": "3h 50min",
+            "price": "166 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 11:40",
+            "arrival_time": "N/A",
+            "duration": "5h 40min",
+            "price": "133 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:35 – 23:00",
+            "arrival_time": "N/A",
+            "duration": "4h 25min",
+            "price": "209 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FRA",
+            "layover_duration": "0h 45min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "12:24 – 19:25",
+            "arrival_time": "18:25 – 22:15",
+            "duration": "7h 01min",
+            "price": "102 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:40 – 15:15",
+            "arrival_time": "18:25 – 22:15",
+            "duration": "4h 35min",
+            "price": "218 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 30min",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "13:00 – 18:25",
+            "arrival_time": "18:25 – 22:15",
+            "duration": "5h 25min",
+            "price": "192 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "PAR-ORY",
+            "layover_duration": "Escale de 3h 23min, ,[object Object]",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 11:40",
+            "arrival_time": "18:25 – 22:15",
+            "duration": "5h 40min",
+            "price": "176 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 14:05",
+            "arrival_time": "N/A",
+            "duration": "5h 00min",
+            "price": "254 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 16:35",
+            "arrival_time": "18:25 – 22:15",
+            "duration": "7h 30min",
+            "price": "146 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:20 – 15:15",
+            "arrival_time": "N/A",
+            "duration": "4h 55min",
+            "price": "315 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "15:55 – 23:00",
+            "arrival_time": "N/A",
+            "duration": "7h 05min",
+            "price": "228 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 20min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 16:35",
+            "arrival_time": "15:00 – 20:55",
+            "duration": "7h 30min",
+            "price": "153 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 55min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "11:10 – 18:10",
+            "arrival_time": "15:00 – 20:55",
+            "duration": "7h 00min",
+            "price": "187 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 00min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 11:40",
+            "arrival_time": "15:00 – 20:55",
+            "duration": "5h 40min",
+            "price": "260 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LIS",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "14:55 – 19:25",
+            "arrival_time": "15:00 – 20:55",
+            "duration": "4h 30min",
+            "price": "343 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "4h 10min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:40 – 17:40",
+            "arrival_time": "N/A",
+            "duration": "7h 00min",
+            "price": "256 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 55min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "14:50 – 20:35",
+            "arrival_time": "15:00 – 20:55",
+            "duration": "5h 45min",
+            "price": "315 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "NCE",
+            "layover_duration": "2h 20min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "13:35 – 17:40",
+            "arrival_time": "N/A",
+            "duration": "4h 05min",
+            "price": "400 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "07:20 – 14:15",
+            "arrival_time": "N/A",
+            "duration": "6h 55min",
+            "price": "257 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "easyJet",
+                "SWISS"
+            ],
+            "fare_class": "Go Light"
+        },
+        {
+            "departure_time": "10:20 – 17:40",
+            "arrival_time": "17:55 – 23:10",
+            "duration": "7h 20min",
+            "price": "341 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LYS",
+            "layover_duration": "2h 20min",
+            "airlines": [
+                "Iberia",
+                "Ryanair"
+            ],
+            "fare_class": "Light"
+        }
+    ]
+}

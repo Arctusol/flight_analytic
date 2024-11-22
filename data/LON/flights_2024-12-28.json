@@ -1,30 +1,27 @@
 {
-    "search_date": "2024-11-20 22:32:33",
+    "search_date": "2024-11-22 14:39:04",
     "flight_date": "2024-12-28",
     "origin": "BOD",
     "destination": "LON",
     "destination_city": "Londres",
-    "url": "https://www.kayak.fr/flights/BOD-LON/2024-12-28?sort=price_a",
+    "url": "https://www.kayak.fr/flights/BOD-LON/2024-12-28?sort=bestflight_a",
     "flights": [
         {
-            "departure_time": "18:30 – 23:15",
-            "arrival_time": "18:30 – 23:15",
-            "duration": "5h 45min",
-            "price": "190 €",
+            "departure_time": "21:25 – 22:10",
+            "arrival_time": "direct",
+            "duration": "1h 45min",
+            "price": "250 €",
             "origin_airport": "BOD",
-            "destination_airport": "STN",
-            "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "VCE",
-            "layover_duration": "1h 30min",
+            "destination_airport": "LGW",
+            "is_direct": true,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
             "airlines": [
-                "Volotea",
-                "Ryanair"
+                "easyJet"
             ],
-            "fare_class": "Économique",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Economy"
         },
         {
             "departure_time": "21:25 – 22:10",
@@ -34,85 +31,57 @@
             "origin_airport": "BOD",
             "destination_airport": "LGW",
             "is_direct": true,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
-            "airlines": [
-                "Volotea",
-                "Ryanair"
-            ],
-            "fare_class": "Économique",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
-        },
-        {
-            "departure_time": "20:45 – 07:20+1",
-            "arrival_time": "18:30 – 23:15",
-            "duration": "11h 35min",
-            "price": "236 €",
-            "origin_airport": "BOD",
-            "destination_airport": "LTN",
-            "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "VCE",
-            "layover_duration": "1h 30min",
-            "airlines": [
-                "Volotea",
-                "Ryanair"
-            ],
-            "fare_class": "Économique",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
-        },
-        {
-            "departure_time": "09:05 – 15:20",
-            "arrival_time": "18:30 – 23:15",
-            "duration": "7h 15min",
-            "price": "249 €",
-            "origin_airport": "BOD",
-            "destination_airport": "STN",
-            "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "VCE",
-            "layover_duration": "1h 30min",
-            "airlines": [
-                "Volotea",
-                "Ryanair"
-            ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
-        },
-        {
-            "departure_time": "07:40 – 11:15",
-            "arrival_time": "N/A",
-            "duration": "4h 35min",
-            "price": "259 €",
-            "origin_airport": "BOD",
-            "destination_airport": "LTN",
-            "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
+            "checked_baggage": "0",
+            "hand_baggage": "0",
             "layover_airport": "N/A",
             "layover_duration": "N/A",
             "airlines": [
                 "easyJet"
             ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "21:45 – 00:30+2",
+            "arrival_time": "21:25 – 22:10",
+            "duration": "27h 45min",
+            "price": "187 €",
+            "origin_airport": "BOD",
+            "destination_airport": "STN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BCN",
+            "layover_duration": "24h 05min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy"
         },
         {
             "departure_time": "07:00 – 07:40",
             "arrival_time": "direct",
             "duration": "1h 40min",
-            "price": "263 €",
+            "price": "275 €",
             "origin_airport": "BOD",
             "destination_airport": "LGW",
             "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:30 – 23:15",
+            "arrival_time": "N/A",
+            "duration": "5h 45min",
+            "price": "193 €",
+            "origin_airport": "BOD",
+            "destination_airport": "STN",
+            "is_direct": false,
             "checked_baggage": "N/A",
             "hand_baggage": "N/A",
             "layover_airport": "N/A",
@@ -121,93 +90,13 @@
                 "Volotea",
                 "Ryanair"
             ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
-        },
-        {
-            "departure_time": "17:55 – 23:15",
-            "arrival_time": "N/A",
-            "duration": "6h 20min",
-            "price": "265 €",
-            "origin_airport": "BOD",
-            "destination_airport": "STN",
-            "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
-            "airlines": [
-                "Iberia",
-                "Ryanair"
-            ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
-        },
-        {
-            "departure_time": "08:50 – 13:15",
-            "arrival_time": "N/A",
-            "duration": "5h 25min",
-            "price": "286 €",
-            "origin_airport": "BOD",
-            "destination_airport": "LHR",
-            "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
-            "airlines": [
-                "easyJet",
-                "British Airways"
-            ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
-        },
-        {
-            "departure_time": "08:50 – 14:25",
-            "arrival_time": "21:25 – 22:10",
-            "duration": "6h 35min",
-            "price": "290 €",
-            "origin_airport": "BOD",
-            "destination_airport": "LHR",
-            "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
-            "airlines": [
-                "easyJet"
-            ],
-            "fare_class": "Standard",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
-        },
-        {
-            "departure_time": "07:40 – 14:30",
-            "arrival_time": "21:25 – 22:10",
-            "duration": "7h 50min",
-            "price": "298 €",
-            "origin_airport": "BOD",
-            "destination_airport": "LGW",
-            "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
-            "airlines": [
-                "easyJet"
-            ],
-            "fare_class": "Standard",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Economy"
         },
         {
             "departure_time": "10:10 – 10:55",
             "arrival_time": "direct",
             "duration": "1h 45min",
-            "price": "317 €",
+            "price": "350 €",
             "origin_airport": "BOD",
             "destination_airport": "LGW",
             "is_direct": true,
@@ -218,15 +107,132 @@
             "airlines": [
                 "easyJet"
             ],
-            "fare_class": "Standard",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "15:20 – 16:00",
+            "arrival_time": "direct",
+            "duration": "1h 40min",
+            "price": "352 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LGW",
+            "is_direct": true,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "07:40 – 11:15",
+            "arrival_time": "N/A",
+            "duration": "4h 35min",
+            "price": "258 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LTN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "17:55 – 23:15",
+            "arrival_time": "21:25 – 22:10",
+            "duration": "6h 20min",
+            "price": "293 €",
+            "origin_airport": "BOD",
+            "destination_airport": "STN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "08:50 – 13:15",
+            "arrival_time": "21:25 – 22:10",
+            "duration": "5h 25min",
+            "price": "313 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LHR",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "07:40 – 12:15",
+            "arrival_time": "21:25 – 22:10",
+            "duration": "5h 35min",
+            "price": "307 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LGW",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LYS",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy"
         },
         {
             "departure_time": "08:50 – 13:10",
             "arrival_time": "21:25 – 22:10",
             "duration": "5h 20min",
-            "price": "319 €",
+            "price": "325 €",
+            "origin_airport": "BOD",
+            "destination_airport": "STN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 25min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "08:50 – 12:10",
+            "arrival_time": "N/A",
+            "duration": "4h 20min",
+            "price": "388 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LTN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "GVA",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "11:35 – 15:10",
+            "arrival_time": "21:25 – 22:10",
+            "duration": "4h 35min",
+            "price": "377 €",
             "origin_airport": "BOD",
             "destination_airport": "STN",
             "is_direct": false,
@@ -237,66 +243,199 @@
             "airlines": [
                 "easyJet"
             ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Economy"
         },
         {
-            "departure_time": "07:40 – 11:35",
+            "departure_time": "07:40 – 14:30",
             "arrival_time": "N/A",
-            "duration": "4h 55min",
-            "price": "326 €",
+            "duration": "7h 50min",
+            "price": "283 €",
             "origin_airport": "BOD",
             "destination_airport": "LGW",
             "is_direct": false,
             "checked_baggage": "N/A",
             "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
+            "layover_airport": "LYS",
+            "layover_duration": "2h 40min",
             "airlines": [
                 "easyJet"
             ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Economy"
         },
         {
-            "departure_time": "07:40 – 12:15",
-            "arrival_time": "21:25 – 22:10",
-            "duration": "5h 35min",
-            "price": "337 €",
+            "departure_time": "13:20 – 16:35",
+            "arrival_time": "N/A",
+            "duration": "4h 15min",
+            "price": "441 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LHR",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "GVA",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 15:20",
+            "arrival_time": "21:45 – 00:30\n+2",
+            "duration": "7h 15min",
+            "price": "296 €",
+            "origin_airport": "BOD",
+            "destination_airport": "STN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "GVA",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "Vueling",
+                "Ryanair"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "14:45 – 18:20",
+            "arrival_time": "21:45 – 00:30\n+2",
+            "duration": "4h 35min",
+            "price": "449 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LHR",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MRS",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "Vueling",
+                "Ryanair"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 13:30",
+            "arrival_time": "21:45 – 00:30\n+2",
+            "duration": "5h 25min",
+            "price": "449 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LHR",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BCN",
+            "layover_duration": "24h 05min",
+            "airlines": [
+                "Vueling",
+                "Ryanair"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "10:40 – 13:45",
+            "arrival_time": "21:45 – 00:30\n+2",
+            "duration": "4h 05min",
+            "price": "617 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LHR",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LYS",
+            "layover_duration": "5h 00min",
+            "airlines": [
+                "Vueling",
+                "Ryanair"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "11:35 – 17:00",
+            "arrival_time": "N/A",
+            "duration": "6h 25min",
+            "price": "453 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LHR",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "13:20 – 17:05",
+            "arrival_time": "21:45 – 00:30\n+2",
+            "duration": "4h 45min",
+            "price": "456 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LTN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "Vueling",
+                "Ryanair"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "14:40 – 17:50",
+            "arrival_time": "N/A",
+            "duration": "4h 10min",
+            "price": "721 €",
             "origin_airport": "BOD",
             "destination_airport": "LGW",
             "is_direct": false,
             "checked_baggage": "N/A",
             "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 50min",
             "airlines": [
-                "easyJet"
+                "SWISS"
             ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 14:00",
+            "arrival_time": "N/A",
+            "duration": "5h 55min",
+            "price": "449 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LHR",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Business Optimal"
         },
         {
             "departure_time": "08:50 – 13:50",
-            "arrival_time": "N/A",
+            "arrival_time": "07:00 – 07:40",
             "duration": "6h 00min",
-            "price": "361 €",
+            "price": "393 €",
             "origin_airport": "BOD",
             "destination_airport": "LGW",
             "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 10min",
             "airlines": [
                 "easyJet"
             ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Light"
         }
     ]
 }

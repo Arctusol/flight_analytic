@@ -1,0 +1,460 @@
+{
+    "search_date": "2024-11-22 07:37:55",
+    "flight_date": "2024-12-02",
+    "origin": "BOD",
+    "destination": "EZE",
+    "destination_city": "Buenos Aires",
+    "url": "https://www.kayak.fr/flights/BOD-EZE/2024-12-02?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "09:05 – 21:00",
+            "arrival_time": "09:05 – 21:00",
+            "duration": "15h 55min",
+            "price": "1 218 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 20min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "13:55 – 13:41+1",
+            "arrival_time": "09:05 – 21:00",
+            "duration": "27h 46min",
+            "price": "651 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 20:25",
+            "arrival_time": "09:05 – 21:00",
+            "duration": "18h 25min",
+            "price": "979 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 20min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 21:00",
+            "arrival_time": "09:05 – 21:00",
+            "duration": "15h 55min",
+            "price": "1 109 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 10min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "13:55 – 11:25+1",
+            "arrival_time": "N/A",
+            "duration": "25h 30min",
+            "price": "666 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL",
+                "GOL"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "13:55 – 12:11+1",
+            "arrival_time": "09:05 – 21:00",
+            "duration": "26h 16min",
+            "price": "661 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 20min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "13:55 – 11:50+1",
+            "arrival_time": "N/A",
+            "duration": "25h 55min",
+            "price": "696 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL",
+                "British Airways"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "07:45 – 21:00",
+            "arrival_time": "N/A",
+            "duration": "17h 15min",
+            "price": "1 115 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Volotea",
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:25 – 07:55+1",
+            "arrival_time": "13:55 – 13:41\n+1",
+            "duration": "17h 30min",
+            "price": "1 234 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL",
+                "JetSMART"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "17:55 – 08:40+1",
+            "arrival_time": "13:55 – 13:41\n+1",
+            "duration": "18h 45min",
+            "price": "1 162 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 35min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL",
+                "JetSMART"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:00 – 07:00+1",
+            "arrival_time": "13:55 – 13:41\n+1",
+            "duration": "17h 00min",
+            "price": "1 334 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "FRA",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL",
+                "JetSMART"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "15:15 – 11:25+1",
+            "arrival_time": "13:55 – 13:41\n+1",
+            "duration": "24h 10min",
+            "price": "818 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 39min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL",
+                "JetSMART"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "18:00 – 07:00+1",
+            "arrival_time": "N/A",
+            "duration": "17h 00min",
+            "price": "1 392 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "Air France",
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "15:00 – 11:25+1",
+            "arrival_time": "13:55 – 13:41\n+1",
+            "duration": "24h 25min",
+            "price": "899 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FCO",
+            "layover_duration": "2h 20min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL",
+                "JetSMART"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "15:15 – 12:11+1",
+            "arrival_time": "N/A",
+            "duration": "24h 56min",
+            "price": "813 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL",
+                "JetSMART"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "15:00 – 12:11+1",
+            "arrival_time": "N/A",
+            "duration": "25h 11min",
+            "price": "894 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LIS",
+            "layover_duration": "7h 30min",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL",
+                "JetSMART"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "20:10 – 14:35+1",
+            "arrival_time": "06:00 – 20:25",
+            "duration": "22h 25min",
+            "price": "1 085 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "FCO",
+            "layover_duration": "2h 20min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 02:45+1",
+            "arrival_time": "06:00 – 20:25",
+            "duration": "21h 40min",
+            "price": "1 109 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "LIS",
+            "layover_duration": "7h 30min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "15:15 – 13:41+1",
+            "arrival_time": "06:00 – 20:25",
+            "duration": "26h 26min",
+            "price": "803 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "15:15 – 11:50+1",
+            "arrival_time": "06:00 – 20:25",
+            "duration": "24h 35min",
+            "price": "849 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 10min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "15:00 – 11:50+1",
+            "arrival_time": "N/A",
+            "duration": "24h 50min",
+            "price": "929 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 40min",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL",
+                "British Airways"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "15:15 – 11:25+1",
+            "arrival_time": "06:00 – 20:25",
+            "duration": "24h 10min",
+            "price": "980 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FCO",
+            "layover_duration": "2h 20min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "14:30 – 07:55+1",
+            "arrival_time": "N/A",
+            "duration": "21h 25min",
+            "price": "1 031 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Lufthansa"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "15:15 – 12:11+1",
+            "arrival_time": "N/A",
+            "duration": "24h 56min",
+            "price": "975 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FCO",
+            "layover_duration": "2h 20min",
+            "airlines": [
+                "easyJet",
+                "ITA Airways",
+                "JetSMART"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "18:10 – 11:50+1",
+            "arrival_time": "09:05 – 21:00",
+            "duration": "21h 40min",
+            "price": "1 081 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "LIS",
+            "layover_duration": "7h 30min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Standard"
+        }
+    ]
+}

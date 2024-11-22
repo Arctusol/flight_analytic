@@ -1,0 +1,44 @@
+{
+    "search_date": "2024-11-22 02:03:09",
+    "flight_date": "2025-04-05",
+    "origin": "BOD",
+    "destination": "WAW",
+    "destination_city": "Varsovie",
+    "url": "https://www.kayak.fr/flights/BOD-WAW/2025-04-05?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "17:10 – 22:10",
+            "arrival_time": "17:10 – 22:10",
+            "duration": "5h 00min",
+            "price": "120 €",
+            "origin_airport": "BOD",
+            "destination_airport": "WAW",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:10 – 22:10",
+            "arrival_time": "17:10 – 22:10",
+            "duration": "5h 00min",
+            "price": "119 €",
+            "origin_airport": "BOD",
+            "destination_airport": "WAW",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        }
+    ]
+}

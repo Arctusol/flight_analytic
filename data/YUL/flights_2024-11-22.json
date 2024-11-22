@@ -1,0 +1,452 @@
+{
+    "search_date": "2024-11-22 03:46:01",
+    "flight_date": "2024-11-22",
+    "origin": "BOD",
+    "destination": "YUL",
+    "destination_city": "Montréal",
+    "url": "https://www.kayak.fr/flights/BOD-YUL/2024-11-22?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "08:30 – 18:35",
+            "arrival_time": "08:30 – 18:35",
+            "duration": "16h 05min",
+            "price": "666 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 00min",
+            "airlines": [
+                "Volotea",
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "05:58 – 15:45",
+            "arrival_time": "08:30 – 18:35",
+            "duration": "15h 47min",
+            "price": "1 368 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "4h 19min",
+            "airlines": [
+                "Volotea",
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Flex"
+        },
+        {
+            "departure_time": "08:30 – 18:35",
+            "arrival_time": "08:30 – 18:35",
+            "duration": "16h 05min",
+            "price": "694 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 00min",
+            "airlines": [
+                "Volotea",
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:45 – 20:15",
+            "arrival_time": "08:30 – 18:35",
+            "duration": "16h 30min",
+            "price": "756 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 00min",
+            "airlines": [
+                "Volotea",
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 18:35",
+            "arrival_time": "N/A",
+            "duration": "15h 30min",
+            "price": "839 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "3h 35min",
+            "airlines": [
+                "Iberia",
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:45 – 20:15",
+            "arrival_time": "08:30 – 18:35",
+            "duration": "16h 30min",
+            "price": "863 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 00min",
+            "airlines": [
+                "Volotea",
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "08:30 – 20:15",
+            "arrival_time": "N/A",
+            "duration": "17h 45min",
+            "price": "790 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 30min",
+            "airlines": [
+                "Volotea",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "08:30 – 20:15",
+            "arrival_time": "N/A",
+            "duration": "17h 45min",
+            "price": "790 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "Volotea",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "08:30 – 18:20",
+            "arrival_time": "05:58 – 15:45",
+            "duration": "15h 50min",
+            "price": "1 418 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "4h 19min",
+            "airlines": [
+                "Air Canada"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 18:20",
+            "arrival_time": "05:58 – 15:45",
+            "duration": "15h 15min",
+            "price": "1 425 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 55min",
+            "airlines": [
+                "Air Canada"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 20:15",
+            "arrival_time": "05:58 – 15:45",
+            "duration": "17h 10min",
+            "price": "1 036 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Air Canada"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 20:15",
+            "arrival_time": "05:58 – 15:45",
+            "duration": "17h 10min",
+            "price": "1 086 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Air Canada"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 19:05",
+            "arrival_time": "N/A",
+            "duration": "16h 00min",
+            "price": "2 233 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LYS",
+            "layover_duration": "2h 30min",
+            "airlines": [
+                "Iberia",
+                "British Airways",
+                "American Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 19:05",
+            "arrival_time": "05:58 – 15:45",
+            "duration": "16h 00min",
+            "price": "2 233 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "Air Canada"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 19:05",
+            "arrival_time": "N/A",
+            "duration": "16h 00min",
+            "price": "2 248 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 25min",
+            "airlines": [
+                "British Airways"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 19:05",
+            "arrival_time": "N/A",
+            "duration": "16h 00min",
+            "price": "2 248 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "10:50 – 15:25",
+            "arrival_time": "08:30 – 18:35",
+            "duration": "10h 35min",
+            "price": "2 738 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 20min",
+            "airlines": [
+                "Volotea",
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 19:05",
+            "arrival_time": "08:30 – 18:35",
+            "duration": "16h 00min",
+            "price": "2 248 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Volotea",
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 19:05",
+            "arrival_time": "08:30 – 18:35",
+            "duration": "16h 00min",
+            "price": "2 255 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Volotea",
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "09:05 – 19:05",
+            "arrival_time": "08:30 – 18:35",
+            "duration": "16h 00min",
+            "price": "2 288 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Volotea",
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 12:15",
+            "arrival_time": "N/A",
+            "duration": "12h 15min",
+            "price": "2 659 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 19:05",
+            "arrival_time": "08:30 – 18:35",
+            "duration": "16h 00min",
+            "price": "2 291 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "Volotea",
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Premium Select"
+        },
+        {
+            "departure_time": "09:05 – 19:05",
+            "arrival_time": "N/A",
+            "duration": "16h 00min",
+            "price": "2 291 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 20min",
+            "airlines": [
+                "Iberia",
+                "British Airways"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:45 – 19:05",
+            "arrival_time": "N/A",
+            "duration": "15h 20min",
+            "price": "2 432 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "09:45 – 19:05",
+            "arrival_time": "09:45 – 20:15",
+            "duration": "15h 20min",
+            "price": "2 149 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BCN",
+            "layover_duration": "3h 35min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Economy"
+        }
+    ]
+}

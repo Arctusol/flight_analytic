@@ -1,0 +1,449 @@
+{
+    "search_date": "2024-11-22 02:36:46",
+    "flight_date": "2025-02-21",
+    "origin": "BOD",
+    "destination": "NYC",
+    "destination_city": "New York",
+    "url": "https://www.kayak.fr/flights/BOD-NYC/2025-02-21?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "06:50 – 15:50",
+            "arrival_time": "06:50 – 15:50",
+            "duration": "15h 00min",
+            "price": "353 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LGW",
+            "layover_duration": "5h 30min",
+            "airlines": [
+                "easyJet",
+                "Norse Atlantic UK"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "13:35 – 22:00",
+            "arrival_time": "06:50 – 15:50",
+            "duration": "14h 25min",
+            "price": "455 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LGW",
+            "layover_duration": "5h 30min",
+            "airlines": [
+                "easyJet",
+                "Norse Atlantic UK"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "15:45 – 22:00",
+            "arrival_time": "06:50 – 15:50",
+            "duration": "12h 15min",
+            "price": "499 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EWR",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BCN",
+            "layover_duration": "3h 55min",
+            "airlines": [
+                "easyJet",
+                "Norse Atlantic UK"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:55 – 22:00",
+            "arrival_time": "06:50 – 15:50",
+            "duration": "18h 05min",
+            "price": "431 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "OPO",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "easyJet",
+                "Norse Atlantic UK"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "13:35 – 22:00",
+            "arrival_time": "N/A",
+            "duration": "14h 25min",
+            "price": "565 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "13:35 – 22:00",
+            "arrival_time": "06:50 – 15:50",
+            "duration": "14h 25min",
+            "price": "510 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "7h 35min",
+            "airlines": [
+                "easyJet",
+                "Norse Atlantic UK"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "13:00 – 22:00",
+            "arrival_time": "N/A",
+            "duration": "15h 00min",
+            "price": "516 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EWR",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Transavia France",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 15:15",
+            "arrival_time": "N/A",
+            "duration": "12h 10min",
+            "price": "910 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "3h 55min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:55 – 22:00",
+            "arrival_time": "13:35 – 22:00",
+            "duration": "18h 05min",
+            "price": "485 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "BCN",
+            "layover_duration": "3h 55min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:55 – 22:00",
+            "arrival_time": "13:35 – 22:00",
+            "duration": "18h 05min",
+            "price": "543 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "OPO",
+            "layover_duration": "5h 00min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 15:15",
+            "arrival_time": "13:35 – 22:00",
+            "duration": "12h 10min",
+            "price": "890 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 00min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 10:40",
+            "arrival_time": "13:35 – 22:00",
+            "duration": "10h 40min",
+            "price": "1 345 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "3h 55min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:50 – 14:20",
+            "arrival_time": "N/A",
+            "duration": "13h 30min",
+            "price": "781 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "7h 35min",
+            "airlines": [
+                "easyJet",
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "10:50 – 16:10",
+            "arrival_time": "13:35 – 22:00",
+            "duration": "11h 20min",
+            "price": "977 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "7h 35min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Confort"
+        },
+        {
+            "departure_time": "13:35 – 19:10",
+            "arrival_time": "N/A",
+            "duration": "11h 35min",
+            "price": "1 034 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 00min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "09:55 – 22:00",
+            "arrival_time": "N/A",
+            "duration": "18h 05min",
+            "price": "543 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "10:50 – 16:10",
+            "arrival_time": "15:45 – 22:00",
+            "duration": "11h 20min",
+            "price": "977 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "OPO",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "10:50 – 16:10",
+            "arrival_time": "15:45 – 22:00",
+            "duration": "11h 20min",
+            "price": "977 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 3h 50min, ,[object Object]",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 15:50",
+            "arrival_time": "15:45 – 22:00",
+            "duration": "15h 50min",
+            "price": "670 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 15:50",
+            "arrival_time": "15:45 – 22:00",
+            "duration": "15h 50min",
+            "price": "670 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 30min",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 15:15",
+            "arrival_time": "N/A",
+            "duration": "12h 10min",
+            "price": "951 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "British Airways",
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "13:35 – 19:10",
+            "arrival_time": "15:45 – 22:00",
+            "duration": "11h 35min",
+            "price": "1 034 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "7h 35min",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Confort"
+        },
+        {
+            "departure_time": "13:35 – 19:10",
+            "arrival_time": "N/A",
+            "duration": "11h 35min",
+            "price": "1 034 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 15:15",
+            "arrival_time": "N/A",
+            "duration": "12h 10min",
+            "price": "890 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "Iberia",
+                "Finnair"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 15:15",
+            "arrival_time": "09:55 – 22:00",
+            "duration": "12h 10min",
+            "price": "1 066 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "BCN",
+            "layover_duration": "7h 35min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        }
+    ]
+}

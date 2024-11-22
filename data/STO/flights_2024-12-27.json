@@ -1,0 +1,452 @@
+{
+    "search_date": "2024-11-22 13:04:15",
+    "flight_date": "2024-12-27",
+    "origin": "BOD",
+    "destination": "STO",
+    "destination_city": "Stockholm",
+    "url": "https://www.kayak.fr/flights/BOD-STO/2024-12-27?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "10:15 – 18:10",
+            "arrival_time": "10:15 – 18:10",
+            "duration": "7h 55min",
+            "price": "208 €",
+            "origin_airport": "BOD",
+            "destination_airport": "NYO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AGP",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "Volotea",
+                "Norwegian"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "10:15 – 18:10",
+            "arrival_time": "10:15 – 18:10",
+            "duration": "7h 55min",
+            "price": "197 €",
+            "origin_airport": "BOD",
+            "destination_airport": "NYO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AGP",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "Volotea",
+                "Norwegian"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 10:35",
+            "arrival_time": "10:15 – 18:10",
+            "duration": "4h 35min",
+            "price": "495 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AGP",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "Volotea",
+                "Norwegian"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:35 – 23:40",
+            "arrival_time": "10:15 – 18:10",
+            "duration": "5h 05min",
+            "price": "496 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 50min",
+            "airlines": [
+                "Volotea",
+                "Norwegian"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 10:35",
+            "arrival_time": "N/A",
+            "duration": "4h 35min",
+            "price": "551 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France",
+                "KLM"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "15:55 – 22:55",
+            "arrival_time": "10:15 – 18:10",
+            "duration": "7h 00min",
+            "price": "461 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "Volotea",
+                "Norwegian"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:15 – 00:15+1",
+            "arrival_time": "N/A",
+            "duration": "14h 00min",
+            "price": "199 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 50min",
+            "airlines": [
+                "Volotea",
+                "Ryanair"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "11:15 – 23:55",
+            "arrival_time": "N/A",
+            "duration": "12h 40min",
+            "price": "243 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 05min",
+            "airlines": [
+                "Volotea",
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:50 – 12:40",
+            "arrival_time": "10:15 – 18:10",
+            "duration": "5h 50min",
+            "price": "496 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AGP",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "Volotea",
+                "Norwegian"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:05 – 22:55",
+            "arrival_time": "10:15 – 18:10",
+            "duration": "4h 50min",
+            "price": "732 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AGP",
+            "layover_duration": "7h 50min",
+            "airlines": [
+                "Volotea",
+                "Norwegian"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:45 – 20:00",
+            "arrival_time": "10:15 – 18:10",
+            "duration": "10h 15min",
+            "price": "302 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "7h 15min",
+            "airlines": [
+                "Volotea",
+                "Norwegian"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "10:50 – 22:55",
+            "arrival_time": "10:15 – 18:10",
+            "duration": "12h 05min",
+            "price": "320 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "Volotea",
+                "Norwegian"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "10:15 – 20:20",
+            "arrival_time": "N/A",
+            "duration": "10h 05min",
+            "price": "297 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 55min",
+            "airlines": [
+                "Volotea",
+                "Ryanair"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "19:45 – 07:30+1",
+            "arrival_time": "10:15 – 18:10",
+            "duration": "11h 45min",
+            "price": "270 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AGP",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "Volotea",
+                "Norwegian"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "15:55 – 22:20",
+            "arrival_time": "N/A",
+            "duration": "6h 25min",
+            "price": "523 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "5h 15min",
+            "airlines": [
+                "Volotea",
+                "Scandinavian Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "13:55 – 21:40",
+            "arrival_time": "N/A",
+            "duration": "7h 45min",
+            "price": "438 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "8h 10min",
+            "airlines": [
+                "easyJet",
+                "Scandinavian Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "12:30 – 19:00",
+            "arrival_time": "06:00 – 10:35",
+            "duration": "6h 30min",
+            "price": "599 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AGP",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:25 – 22:55",
+            "arrival_time": "06:00 – 10:35",
+            "duration": "13h 30min",
+            "price": "320 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MXP",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "19:45 – 07:25+1",
+            "arrival_time": "06:00 – 10:35",
+            "duration": "11h 40min",
+            "price": "277 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "NCE",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 14:55",
+            "arrival_time": "06:00 – 10:35",
+            "duration": "8h 55min",
+            "price": "461 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 3h 30min, ,[object Object]",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 12:45",
+            "arrival_time": "N/A",
+            "duration": "6h 45min",
+            "price": "599 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 40min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "13:55 – 20:25",
+            "arrival_time": "06:00 – 10:35",
+            "duration": "6h 30min",
+            "price": "537 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "9h 35min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:50 – 17:10",
+            "arrival_time": "N/A",
+            "duration": "6h 20min",
+            "price": "651 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "13:35 – 22:55",
+            "arrival_time": "N/A",
+            "duration": "9h 20min",
+            "price": "461 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MXP",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "Air France",
+                "Scandinavian Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "15:55 – 23:40",
+            "arrival_time": "18:35 – 23:40",
+            "duration": "7h 45min",
+            "price": "544 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ARN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Economy"
+        }
+    ]
+}

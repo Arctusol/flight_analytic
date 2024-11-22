@@ -1,0 +1,452 @@
+{
+    "search_date": "2024-11-22 06:24:54",
+    "flight_date": "2024-11-28",
+    "origin": "BOD",
+    "destination": "GRU",
+    "destination_city": "São Paulo",
+    "url": "https://www.kayak.fr/flights/BOD-GRU/2024-11-28?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "09:05 – 18:35",
+            "arrival_time": "09:05 – 18:35",
+            "duration": "13h 30min",
+            "price": "649 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 18:35",
+            "arrival_time": "09:05 – 18:35",
+            "duration": "13h 30min",
+            "price": "642 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "13:50 – 20:00+1",
+            "arrival_time": "09:05 – 18:35",
+            "duration": "34h 10min",
+            "price": "475 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "ZRH",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "17:55 – 07:05+1",
+            "arrival_time": "09:05 – 18:35",
+            "duration": "17h 10min",
+            "price": "647 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "13:50 – 07:05+1",
+            "arrival_time": "N/A",
+            "duration": "21h 15min",
+            "price": "567 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 35min",
+            "airlines": [
+                "easyJet",
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 07:05+1",
+            "arrival_time": "09:05 – 18:35",
+            "duration": "17h 10min",
+            "price": "692 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 05:05+1",
+            "arrival_time": "N/A",
+            "duration": "15h 10min",
+            "price": "822 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ZRH",
+            "layover_duration": "4h 15min",
+            "airlines": [
+                "Iberia",
+                "Air China"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "13:50 – 07:05+1",
+            "arrival_time": "N/A",
+            "duration": "21h 15min",
+            "price": "604 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 35min",
+            "airlines": [
+                "easyJet",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "20:10 – 07:15+1",
+            "arrival_time": "09:05 – 18:35",
+            "duration": "15h 05min",
+            "price": "1 039 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "18:35 – 07:05+1",
+            "arrival_time": "09:05 – 18:35",
+            "duration": "16h 30min",
+            "price": "901 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 18:20",
+            "arrival_time": "09:05 – 18:35",
+            "duration": "16h 20min",
+            "price": "1 039 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "ZRH",
+            "layover_duration": "4h 15min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "18:35 – 07:15+1",
+            "arrival_time": "09:05 – 18:35",
+            "duration": "16h 40min",
+            "price": "1 039 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:55 – 07:05+1",
+            "arrival_time": "N/A",
+            "duration": "17h 10min",
+            "price": "1 006 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LYS",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 19:00",
+            "arrival_time": "09:05 – 18:35",
+            "duration": "17h 00min",
+            "price": "1 040 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 05min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 19:00",
+            "arrival_time": "N/A",
+            "duration": "17h 00min",
+            "price": "1 040 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:55 – 06:30+1",
+            "arrival_time": "N/A",
+            "duration": "16h 35min",
+            "price": "991 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 35min",
+            "airlines": [
+                "Iberia",
+                "Air Europa"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "15:45 – 07:05+1",
+            "arrival_time": "13:50 – 20:00\n+1",
+            "duration": "19h 20min",
+            "price": "793 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "3h 10min",
+            "airlines": [
+                "easyJet",
+                "ITA Airways",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "13:50 – 07:05+1",
+            "arrival_time": "13:50 – 20:00\n+1",
+            "duration": "21h 15min",
+            "price": "764 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "3h 10min",
+            "airlines": [
+                "easyJet",
+                "ITA Airways",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "15:55 – 07:15+1",
+            "arrival_time": "13:50 – 20:00\n+1",
+            "duration": "19h 20min",
+            "price": "1 039 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 35min",
+            "airlines": [
+                "easyJet",
+                "ITA Airways",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 19:00",
+            "arrival_time": "13:50 – 20:00\n+1",
+            "duration": "17h 00min",
+            "price": "1 243 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LYS",
+            "layover_duration": "4h 00min",
+            "airlines": [
+                "easyJet",
+                "ITA Airways",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "11:30 – 06:25+1",
+            "arrival_time": "N/A",
+            "duration": "22h 55min",
+            "price": "785 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Volotea",
+                "ITA Airways"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "15:45 – 07:05+1",
+            "arrival_time": "13:50 – 20:00\n+1",
+            "duration": "19h 20min",
+            "price": "861 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ZRH",
+            "layover_duration": "4h 15min",
+            "airlines": [
+                "easyJet",
+                "ITA Airways",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "14:55 – 06:30+1",
+            "arrival_time": "N/A",
+            "duration": "19h 35min",
+            "price": "1 101 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "6h 00min",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "13:35 – 06:00+1",
+            "arrival_time": "N/A",
+            "duration": "20h 25min",
+            "price": "946 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "3h 10min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 23:55",
+            "arrival_time": "17:55 – 07:05\n+1",
+            "duration": "18h 50min",
+            "price": "863 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 35min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        }
+    ]
+}

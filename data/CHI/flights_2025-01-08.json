@@ -1,0 +1,454 @@
+{
+    "search_date": "2024-11-22 05:30:48",
+    "flight_date": "2025-01-08",
+    "origin": "BOD",
+    "destination": "CHI",
+    "destination_city": "Chicago",
+    "url": "https://www.kayak.fr/flights/BOD-CHI/2025-01-08?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "06:00 – 21:10",
+            "arrival_time": "06:00 – 21:10",
+            "duration": "22h 10min",
+            "price": "690 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "KLM",
+                "Air Serbia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:50 – 13:55",
+            "arrival_time": "06:00 – 21:10",
+            "duration": "14h 05min",
+            "price": "818 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 3h 30min, ,[object Object]",
+            "airlines": [
+                "KLM",
+                "Air Serbia"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "10:40 – 10:47+1",
+            "arrival_time": "06:00 – 21:10",
+            "duration": "31h 07min",
+            "price": "566 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "TLS-TLS",
+            "layover_duration": "Escale de 3h 42min, ,[object Object]",
+            "airlines": [
+                "KLM",
+                "Air Serbia"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "06:50 – 17:00",
+            "arrival_time": "06:00 – 21:10",
+            "duration": "17h 10min",
+            "price": "815 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "KLM",
+                "Air Serbia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 14:30",
+            "arrival_time": "N/A",
+            "duration": "12h 25min",
+            "price": "1 192 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 6h 40min, ,[object Object]",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 14:30",
+            "arrival_time": "06:00 – 21:10",
+            "duration": "15h 30min",
+            "price": "1 007 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "KLM",
+                "Air Serbia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 14:30",
+            "arrival_time": "N/A",
+            "duration": "15h 30min",
+            "price": "1 007 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "10:40 – 15:05",
+            "arrival_time": "N/A",
+            "duration": "11h 25min",
+            "price": "1 407 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "4h 50min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:40 – 15:05",
+            "arrival_time": "06:50 – 13:55",
+            "duration": "11h 25min",
+            "price": "1 407 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AMS",
+            "layover_duration": "4h 50min",
+            "airlines": [
+                "easyJet",
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 14:30",
+            "arrival_time": "06:50 – 13:55",
+            "duration": "12h 25min",
+            "price": "1 499 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "easyJet",
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 14:30",
+            "arrival_time": "06:50 – 13:55",
+            "duration": "12h 25min",
+            "price": "1 511 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 14:05",
+            "arrival_time": "06:50 – 13:55",
+            "duration": "15h 05min",
+            "price": "1 202 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "easyJet",
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:20 – 19:15",
+            "arrival_time": "N/A",
+            "duration": "16h 55min",
+            "price": "864 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "easyJet",
+                "SWISS",
+                "Aer Lingus"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:00 – 18:25",
+            "arrival_time": "06:50 – 13:55",
+            "duration": "16h 25min",
+            "price": "891 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "easyJet",
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 14:45",
+            "arrival_time": "N/A",
+            "duration": "15h 45min",
+            "price": "928 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "4h 30min",
+            "airlines": [
+                "KLM",
+                "Finnair"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "12:30 – 23:59",
+            "arrival_time": "N/A",
+            "duration": "18h 29min",
+            "price": "1 090 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 19:50",
+            "arrival_time": "10:40 – 10:47\n+1",
+            "duration": "17h 45min",
+            "price": "1 139 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "GVA",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "SNCF",
+                "British Airways"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:50 – 17:20",
+            "arrival_time": "10:40 – 10:47\n+1",
+            "duration": "17h 30min",
+            "price": "945 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "LYS",
+            "layover_duration": "2h 35min",
+            "airlines": [
+                "SNCF",
+                "British Airways"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:50 – 17:20",
+            "arrival_time": "10:40 – 10:47\n+1",
+            "duration": "17h 30min",
+            "price": "1 056 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 50min",
+            "airlines": [
+                "SNCF",
+                "British Airways"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 17:20",
+            "arrival_time": "10:40 – 10:47\n+1",
+            "duration": "18h 20min",
+            "price": "911 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 30min",
+            "airlines": [
+                "SNCF",
+                "British Airways"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "13:35 – 20:53",
+            "arrival_time": "N/A",
+            "duration": "14h 18min",
+            "price": "1 479 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 17:20",
+            "arrival_time": "10:40 – 10:47\n+1",
+            "duration": "18h 20min",
+            "price": "1 158 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "SNCF",
+                "British Airways"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 15:05",
+            "arrival_time": "N/A",
+            "duration": "16h 05min",
+            "price": "1 457 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "13:35 – 20:53",
+            "arrival_time": "N/A",
+            "duration": "14h 18min",
+            "price": "1 561 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW",
+            "layover_duration": "4h 25min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 14:30",
+            "arrival_time": "06:50 – 17:00",
+            "duration": "15h 30min",
+            "price": "1 521 €",
+            "origin_airport": "BOD",
+            "destination_airport": "ORD",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 50min",
+            "airlines": [
+                "easyJet",
+                "Finnair"
+            ],
+            "fare_class": "Light"
+        }
+    ]
+}

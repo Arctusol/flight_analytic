@@ -1,0 +1,44 @@
+{
+    "search_date": "2024-11-22 14:41:44",
+    "flight_date": "2025-02-26",
+    "origin": "BOD",
+    "destination": "MIA",
+    "destination_city": "Miami",
+    "url": "https://www.kayak.fr/flights/BOD-MIA/2025-02-26?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "18:25 – 14:35+1",
+            "arrival_time": "18:25 – 14:35+1",
+            "duration": "26h 10min",
+            "price": "1 343 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "FRA",
+            "layover_duration": "13h 55min",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Economy Basic"
+        },
+        {
+            "departure_time": "18:25 – 16:55+1",
+            "arrival_time": "18:25 – 14:35+1",
+            "duration": "28h 30min",
+            "price": "1 361 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "FRA",
+            "layover_duration": "10h 00min",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Economy Basic"
+        }
+    ]
+}

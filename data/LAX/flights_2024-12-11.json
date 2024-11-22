@@ -1,0 +1,461 @@
+{
+    "search_date": "2024-11-22 00:48:51",
+    "flight_date": "2024-12-11",
+    "origin": "BOD",
+    "destination": "LAX",
+    "destination_city": "Los Angeles",
+    "url": "https://www.kayak.fr/flights/BOD-LAX/2024-12-11?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "18:00 – 11:05+1",
+            "arrival_time": "18:00 – 11:05\n+1",
+            "duration": "26h 05min",
+            "price": "516 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "IST",
+            "layover_duration": "8h 10min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "18:00 – 17:00+1",
+            "arrival_time": "18:00 – 11:05\n+1",
+            "duration": "32h 00min",
+            "price": "668 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 5h 00min, ,[object Object]",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 16:20",
+            "arrival_time": "18:00 – 11:05\n+1",
+            "duration": "16h 15min",
+            "price": "1 198 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "10h 39min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 16:20",
+            "arrival_time": "18:00 – 11:05\n+1",
+            "duration": "16h 15min",
+            "price": "1 198 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "IST",
+            "layover_duration": "8h 10min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "09:05 – 16:20",
+            "arrival_time": "N/A",
+            "duration": "16h 15min",
+            "price": "1 212 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW",
+            "layover_duration": "2h 40min",
+            "airlines": [
+                "Iberia",
+                "British Airways"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "15:25 – 13:40+1",
+            "arrival_time": "18:00 – 11:05\n+1",
+            "duration": "31h 15min",
+            "price": "786 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "IST",
+            "layover_duration": "8h 10min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "09:35 – 18:25",
+            "arrival_time": "N/A",
+            "duration": "17h 50min",
+            "price": "1 104 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "Iberia",
+                "British Airways"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "15:25 – 13:40+1",
+            "arrival_time": "N/A",
+            "duration": "31h 15min",
+            "price": "872 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Aer Lingus"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 18:25",
+            "arrival_time": "06:50 – 15:50",
+            "duration": "18h 20min",
+            "price": "1 230 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Iberia"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "15:25 – 13:40+1",
+            "arrival_time": "06:50 – 15:50",
+            "duration": "31h 15min",
+            "price": "879 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 55min",
+            "airlines": [
+                "easyJet",
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "15:25 – 13:40+1",
+            "arrival_time": "06:50 – 15:50",
+            "duration": "31h 15min",
+            "price": "872 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 55min",
+            "airlines": [
+                "easyJet",
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "15:25 – 13:40+1",
+            "arrival_time": "06:50 – 15:50",
+            "duration": "31h 15min",
+            "price": "916 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 5h 00min, ,[object Object]",
+            "airlines": [
+                "easyJet",
+                "Iberia"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "15:25 – 13:40+1",
+            "arrival_time": "N/A",
+            "duration": "31h 15min",
+            "price": "916 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "Aer Lingus"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 19:50",
+            "arrival_time": "06:50 – 15:50",
+            "duration": "19h 45min",
+            "price": "1 203 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Iberia"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "09:05 – 18:25",
+            "arrival_time": "N/A",
+            "duration": "18h 20min",
+            "price": "1 237 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "Iberia",
+                "British Airways"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 19:54",
+            "arrival_time": "N/A",
+            "duration": "19h 49min",
+            "price": "1 183 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 9h 15min, ,[object Object]",
+            "airlines": [
+                "Iberia",
+                "British Airways"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 20:20",
+            "arrival_time": "16:58 – 20:30\n+1",
+            "duration": "20h 15min",
+            "price": "1 176 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 50min",
+            "airlines": [
+                "SNCF",
+                "easyJet",
+                "Norse Atlantic Airways",
+                "Spirit Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 20:20",
+            "arrival_time": "16:58 – 20:30\n+1",
+            "duration": "20h 15min",
+            "price": "1 183 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 50min",
+            "airlines": [
+                "SNCF",
+                "easyJet",
+                "Norse Atlantic Airways",
+                "Spirit Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 20:53",
+            "arrival_time": "16:58 – 20:30\n+1",
+            "duration": "20h 48min",
+            "price": "1 183 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "10h 39min",
+            "airlines": [
+                "SNCF",
+                "easyJet",
+                "Norse Atlantic Airways",
+                "Spirit Airlines"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "09:05 – 21:12",
+            "arrival_time": "16:58 – 20:30\n+1",
+            "duration": "21h 07min",
+            "price": "1 183 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "SNCF",
+                "easyJet",
+                "Norse Atlantic Airways",
+                "Spirit Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 19:54",
+            "arrival_time": "N/A",
+            "duration": "19h 49min",
+            "price": "1 203 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW",
+            "layover_duration": "4h 10min",
+            "airlines": [
+                "American Airlines"
+            ],
+            "fare_class": "PorterClassique Standard"
+        },
+        {
+            "departure_time": "20:20 – 13:40+1",
+            "arrival_time": "16:58 – 20:30\n+1",
+            "duration": "26h 20min",
+            "price": "1 219 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "SNCF",
+                "easyJet",
+                "Norse Atlantic Airways",
+                "Spirit Airlines"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "10:20 – 16:10",
+            "arrival_time": "N/A",
+            "duration": "14h 50min",
+            "price": "1 594 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "10:20 – 18:40",
+            "arrival_time": "N/A",
+            "duration": "17h 20min",
+            "price": "1 593 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "10:40 – 18:40",
+            "arrival_time": "06:50 – 18:30",
+            "duration": "17h 00min",
+            "price": "1 588 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LGW",
+            "layover_duration": "2h 40min",
+            "airlines": [
+                "easyJet",
+                "Ryanair",
+                "Aer Lingus"
+            ],
+            "fare_class": "Promotion"
+        }
+    ]
+}

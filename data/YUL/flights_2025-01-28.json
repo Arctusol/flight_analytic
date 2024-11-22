@@ -1,0 +1,448 @@
+{
+    "search_date": "2024-11-22 14:33:26",
+    "flight_date": "2025-01-28",
+    "origin": "BOD",
+    "destination": "YUL",
+    "destination_city": "Montréal",
+    "url": "https://www.kayak.fr/flights/BOD-YUL/2025-01-28?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "06:00 – 12:20",
+            "arrival_time": "06:00 – 12:20",
+            "duration": "12h 20min",
+            "price": "550 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 05min",
+            "airlines": [
+                "Air France",
+                "Air Transat"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:40 – 15:25",
+            "arrival_time": "06:00 – 12:20",
+            "duration": "10h 45min",
+            "price": "542 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "Air France",
+                "Air Transat"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "19:50 – 20:15+1",
+            "arrival_time": "06:00 – 12:20",
+            "duration": "30h 25min",
+            "price": "291 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "BCN",
+            "layover_duration": "10h 25min",
+            "airlines": [
+                "Air France",
+                "Air Transat"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "10:40 – 15:25",
+            "arrival_time": "06:00 – 12:20",
+            "duration": "10h 45min",
+            "price": "542 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 05min",
+            "airlines": [
+                "Air France",
+                "Air Transat"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 12:15",
+            "arrival_time": "N/A",
+            "duration": "12h 15min",
+            "price": "553 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 12:15",
+            "arrival_time": "06:00 – 12:20",
+            "duration": "12h 15min",
+            "price": "553 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 05min",
+            "airlines": [
+                "Air France",
+                "Air Transat"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 12:20",
+            "arrival_time": "N/A",
+            "duration": "12h 20min",
+            "price": "553 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 05min",
+            "airlines": [
+                "Air France",
+                "Air Transat"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "20:45 – 12:20+1",
+            "arrival_time": "N/A",
+            "duration": "21h 35min",
+            "price": "456 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 05min",
+            "airlines": [
+                "SNCF",
+                "Air Transat"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 19:05",
+            "arrival_time": "10:40 – 15:25",
+            "duration": "16h 00min",
+            "price": "784 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 19:05",
+            "arrival_time": "10:40 – 15:25",
+            "duration": "16h 00min",
+            "price": "798 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 05min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 19:05",
+            "arrival_time": "10:40 – 15:25",
+            "duration": "16h 00min",
+            "price": "798 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "PAR-CDG",
+            "layover_duration": "Escale de 11h 12min, ,[object Object]",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 19:05",
+            "arrival_time": "10:40 – 15:25",
+            "duration": "16h 00min",
+            "price": "824 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "09:05 – 19:05",
+            "arrival_time": "N/A",
+            "duration": "16h 00min",
+            "price": "830 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "British Airways"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "09:05 – 19:05",
+            "arrival_time": "10:40 – 15:25",
+            "duration": "16h 00min",
+            "price": "798 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 15:25",
+            "arrival_time": "N/A",
+            "duration": "15h 25min",
+            "price": "1 292 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "10:40 – 15:25",
+            "arrival_time": "N/A",
+            "duration": "10h 45min",
+            "price": "1 467 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 19:05",
+            "arrival_time": "19:50 – 20:15\n+1",
+            "duration": "16h 00min",
+            "price": "1 286 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "06:40 – 15:25",
+            "arrival_time": "19:50 – 20:15\n+1",
+            "duration": "14h 45min",
+            "price": "1 298 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 15:25",
+            "arrival_time": "19:50 – 20:15\n+1",
+            "duration": "15h 25min",
+            "price": "1 312 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "6h 05min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 15:25",
+            "arrival_time": "19:50 – 20:15\n+1",
+            "duration": "15h 25min",
+            "price": "1 312 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 15:25",
+            "arrival_time": "N/A",
+            "duration": "15h 25min",
+            "price": "1 312 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 15:25",
+            "arrival_time": "19:50 – 20:15\n+1",
+            "duration": "15h 25min",
+            "price": "1 312 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 00min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 12:15",
+            "arrival_time": "N/A",
+            "duration": "12h 15min",
+            "price": "1 467 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LYS",
+            "layover_duration": "2h 35min",
+            "airlines": [
+                "KLM",
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 19:05",
+            "arrival_time": "N/A",
+            "duration": "16h 00min",
+            "price": "1 344 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "British Airways"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 19:05",
+            "arrival_time": "10:40 – 15:25",
+            "duration": "16h 00min",
+            "price": "1 390 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        }
+    ]
+}

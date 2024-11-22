@@ -1,0 +1,129 @@
+{
+    "search_date": "2024-11-22 01:04:32",
+    "flight_date": "2025-03-03",
+    "origin": "BOD",
+    "destination": "IST",
+    "destination_city": "Istanbul",
+    "url": "https://www.kayak.fr/flights/BOD-IST/2025-03-03?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "18:00 – 23:50",
+            "arrival_time": "direct",
+            "duration": "3h 50min",
+            "price": "185 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": true,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 16:55",
+            "arrival_time": "18:00 – 23:50",
+            "duration": "8h 55min",
+            "price": "373 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:55 – 21:30",
+            "arrival_time": "18:00 – 23:50",
+            "duration": "9h 35min",
+            "price": "222 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SAW",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "3h 50min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "11:10 – 00:55+1",
+            "arrival_time": "18:00 – 23:50",
+            "duration": "11h 45min",
+            "price": "332 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "4h 45min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:00 – 16:55+1",
+            "arrival_time": "N/A",
+            "duration": "20h 55min",
+            "price": "271 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 6h 05min, ,[object Object]",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:25 – 18:05+1",
+            "arrival_time": "18:00 – 23:50",
+            "duration": "21h 40min",
+            "price": "454 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "12:30 – 16:55+1",
+            "arrival_time": "N/A",
+            "duration": "26h 25min",
+            "price": "318 €",
+            "origin_airport": "BOD",
+            "destination_airport": "IST",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "15h 40min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Economy"
+        }
+    ]
+}

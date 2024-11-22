@@ -1,0 +1,265 @@
+{
+    "search_date": "2024-11-22 04:05:00",
+    "flight_date": "2025-03-09",
+    "origin": "BOD",
+    "destination": "LAX",
+    "destination_city": "Los Angeles",
+    "url": "https://www.kayak.fr/flights/BOD-LAX/2025-03-09?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "09:55 – 20:05",
+            "arrival_time": "",
+            "duration": "18h 10min",
+            "price": "320 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "",
+            "layover_duration": "3h 45min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": ""
+        },
+        {
+            "departure_time": "09:55 – 20:05",
+            "arrival_time": "",
+            "duration": "18h 10min",
+            "price": "383 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "3h 45min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:55 – 20:05",
+            "arrival_time": "",
+            "duration": "18h 10min",
+            "price": "368 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "3h 45min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 17:20",
+            "arrival_time": "",
+            "duration": "16h 15min",
+            "price": "812 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "3h 45min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "12:00 – 12:05+1",
+            "arrival_time": "N/A",
+            "duration": "32h 05min",
+            "price": "516 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": ""
+        },
+        {
+            "departure_time": "09:05 – 20:05",
+            "arrival_time": "",
+            "duration": "19h 00min",
+            "price": "576 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 17:20",
+            "arrival_time": "N/A",
+            "duration": "16h 15min",
+            "price": "1 047 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": ""
+        },
+        {
+            "departure_time": "12:00 – 18:00+1",
+            "arrival_time": "N/A",
+            "duration": "38h 00min",
+            "price": "516 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "IST",
+            "layover_duration": "14h 10min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "23:05 – 14:30+1",
+            "arrival_time": "",
+            "duration": "23h 25min",
+            "price": "731 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "23:05 – 15:45+1",
+            "arrival_time": "",
+            "duration": "24h 40min",
+            "price": "731 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "23:05 – 16:50+1",
+            "arrival_time": "",
+            "duration": "25h 45min",
+            "price": "731 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "IST",
+            "layover_duration": "20h 00min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "23:05 – 19:25+1",
+            "arrival_time": "",
+            "duration": "28h 20min",
+            "price": "731 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "",
+            "layover_duration": "3h 45min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": ""
+        },
+        {
+            "departure_time": "23:05 – 19:25+1",
+            "arrival_time": "N/A",
+            "duration": "28h 20min",
+            "price": "731 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "6h 25min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Optimal"
+        },
+        {
+            "departure_time": "09:05 – 19:52",
+            "arrival_time": "",
+            "duration": "18h 47min",
+            "price": "1 052 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "6h 25min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 16:35",
+            "arrival_time": "N/A",
+            "duration": "18h 35min",
+            "price": "840 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "6h 25min",
+            "airlines": [
+                "Scandinavian Airlines"
+            ],
+            "fare_class": "Economy"
+        }
+    ]
+}

@@ -1,0 +1,454 @@
+{
+    "search_date": "2024-11-22 05:10:01",
+    "flight_date": "2025-01-05",
+    "origin": "BOD",
+    "destination": "MIA",
+    "destination_city": "Miami",
+    "url": "https://www.kayak.fr/flights/BOD-MIA/2025-01-05?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "18:30 – 16:45+1",
+            "arrival_time": "18:30 – 16:45\n+1",
+            "duration": "28h 15min",
+            "price": "703 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BCN",
+            "layover_duration": "12h 00min",
+            "airlines": [
+                "Vueling",
+                "Norse Atlantic UK"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "10:40 – 17:30",
+            "arrival_time": "18:30 – 16:45\n+1",
+            "duration": "12h 50min",
+            "price": "1 547 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "Vueling",
+                "Norse Atlantic UK"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "07:00 – 17:40",
+            "arrival_time": "18:30 – 16:45\n+1",
+            "duration": "16h 40min",
+            "price": "1 053 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LYS",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "Vueling",
+                "Norse Atlantic UK"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:25 – 17:30",
+            "arrival_time": "18:30 – 16:45\n+1",
+            "duration": "14h 05min",
+            "price": "1 552 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "12h 00min",
+            "airlines": [
+                "Vueling",
+                "Norse Atlantic UK"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 19:25",
+            "arrival_time": "N/A",
+            "duration": "16h 20min",
+            "price": "1 304 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 20min",
+            "airlines": [
+                "Iberia",
+                "Air Europa"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "11:55 – 20:20",
+            "arrival_time": "18:30 – 16:45\n+1",
+            "duration": "14h 25min",
+            "price": "1 552 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "12h 00min",
+            "airlines": [
+                "Vueling",
+                "Norse Atlantic UK"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 14:50",
+            "arrival_time": "N/A",
+            "duration": "14h 50min",
+            "price": "1 547 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 55min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "06:00 – 14:50",
+            "arrival_time": "N/A",
+            "duration": "14h 50min",
+            "price": "1 614 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 40min",
+            "airlines": [
+                "Air France",
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:40 – 20:20",
+            "arrival_time": "10:40 – 17:30",
+            "duration": "15h 40min",
+            "price": "1 552 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 35min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 13:45",
+            "arrival_time": "10:40 – 17:30",
+            "duration": "13h 45min",
+            "price": "1 716 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 35min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:25 – 20:20",
+            "arrival_time": "10:40 – 17:30",
+            "duration": "16h 55min",
+            "price": "1 552 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 55min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 14:50",
+            "arrival_time": "10:40 – 17:30",
+            "duration": "14h 50min",
+            "price": "1 740 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 17:30",
+            "arrival_time": "N/A",
+            "duration": "17h 30min",
+            "price": "1 547 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 20:15",
+            "arrival_time": "10:40 – 17:30",
+            "duration": "17h 10min",
+            "price": "1 542 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "5h 10min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "05:58 – 21:37",
+            "arrival_time": "N/A",
+            "duration": "21h 39min",
+            "price": "1 357 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 35min",
+            "airlines": [
+                "Air Canada"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 20:20",
+            "arrival_time": "N/A",
+            "duration": "20h 20min",
+            "price": "1 552 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "5h 45min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 17:30",
+            "arrival_time": "07:00 – 17:40",
+            "duration": "17h 30min",
+            "price": "1 682 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "easyJet",
+                "British Airways",
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 18:53",
+            "arrival_time": "07:00 – 17:40",
+            "duration": "18h 53min",
+            "price": "1 593 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LYS",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "easyJet",
+                "British Airways",
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 17:30",
+            "arrival_time": "07:00 – 17:40",
+            "duration": "17h 30min",
+            "price": "1 682 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 26min",
+            "airlines": [
+                "easyJet",
+                "British Airways",
+                "Iberia"
+            ],
+            "fare_class": "Flex"
+        },
+        {
+            "departure_time": "12:30 – 00:54+1",
+            "arrival_time": "07:00 – 17:40",
+            "duration": "18h 24min",
+            "price": "1 650 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "8h 35min",
+            "airlines": [
+                "easyJet",
+                "British Airways",
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 17:30",
+            "arrival_time": "N/A",
+            "duration": "17h 30min",
+            "price": "1 745 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "KLM",
+                "Air France"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "12:30 – 00:54+1",
+            "arrival_time": "07:00 – 17:40",
+            "duration": "18h 24min",
+            "price": "1 650 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "easyJet",
+                "British Airways",
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 18:41",
+            "arrival_time": "N/A",
+            "duration": "18h 41min",
+            "price": "1 650 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "3h 00min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 18:55",
+            "arrival_time": "N/A",
+            "duration": "15h 50min",
+            "price": "1 636 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "Iberia",
+                "Air Europa"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 17:30",
+            "arrival_time": "09:25 – 17:30",
+            "duration": "17h 30min",
+            "price": "1 726 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 20min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Economy"
+        }
+    ]
+}

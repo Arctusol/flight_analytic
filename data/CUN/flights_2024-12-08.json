@@ -1,0 +1,465 @@
+{
+    "search_date": "2024-11-22 07:02:10",
+    "flight_date": "2024-12-08",
+    "origin": "BOD",
+    "destination": "CUN",
+    "destination_city": "Cancún",
+    "url": "https://www.kayak.fr/flights/BOD-CUN/2024-12-08?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "12:00 – 08:50+1",
+            "arrival_time": "12:00 – 08:50\n+1",
+            "duration": "26h 50min",
+            "price": "649 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "IST",
+            "layover_duration": "4h 10min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "09:05 – 20:25",
+            "arrival_time": "12:00 – 08:50\n+1",
+            "duration": "17h 20min",
+            "price": "613 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 50min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "08:10 – 12:14+1",
+            "arrival_time": "12:00 – 08:50\n+1",
+            "duration": "34h 04min",
+            "price": "425 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "BER",
+            "layover_duration": "8h 50min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "12:00 – 08:50+1",
+            "arrival_time": "12:00 – 08:50\n+1",
+            "duration": "26h 50min",
+            "price": "641 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "IST",
+            "layover_duration": "4h 10min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "21:30 – 19:20+1",
+            "arrival_time": "N/A",
+            "duration": "27h 50min",
+            "price": "545 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "IST",
+            "layover_duration": "4h 10min",
+            "airlines": [
+                "easyJet",
+                "Iberia",
+                "World2Fly"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "21:30 – 20:05+1",
+            "arrival_time": "12:00 – 08:50\n+1",
+            "duration": "28h 35min",
+            "price": "542 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "IST",
+            "layover_duration": "4h 10min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "06:00 – 19:10",
+            "arrival_time": "N/A",
+            "duration": "19h 10min",
+            "price": "820 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "NCE",
+            "layover_duration": "7h 40min",
+            "airlines": [
+                "Air France",
+                "Air Transat"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "21:30 – 19:20+1",
+            "arrival_time": "N/A",
+            "duration": "27h 50min",
+            "price": "539 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "NCE",
+            "layover_duration": "7h 40min",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL",
+                "World2Fly"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 20:25",
+            "arrival_time": "09:05 – 20:25",
+            "duration": "20h 25min",
+            "price": "781 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 25min",
+            "airlines": [
+                "Iberia",
+                "Air Europa"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "21:30 – 20:05+1",
+            "arrival_time": "09:05 – 20:25",
+            "duration": "28h 35min",
+            "price": "536 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "NCE",
+            "layover_duration": "6h 55min",
+            "airlines": [
+                "Iberia",
+                "Air Europa"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 20:25",
+            "arrival_time": "09:05 – 20:25",
+            "duration": "20h 25min",
+            "price": "806 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Iberia",
+                "Air Europa"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 01:20+1",
+            "arrival_time": "09:05 – 20:25",
+            "duration": "22h 15min",
+            "price": "1 226 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "NCE",
+            "layover_duration": "6h 55min",
+            "airlines": [
+                "Iberia",
+                "Air Europa"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "14:40 – 12:30+1",
+            "arrival_time": "N/A",
+            "duration": "27h 50min",
+            "price": "699 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL",
+                "Aeromexico"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:45 – 08:50+1",
+            "arrival_time": "09:05 – 20:25",
+            "duration": "28h 05min",
+            "price": "617 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 50min",
+            "airlines": [
+                "Iberia",
+                "Air Europa"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "20:55 – 19:10+1",
+            "arrival_time": "N/A",
+            "duration": "28h 15min",
+            "price": "694 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "OPO",
+            "layover_duration": "3h 15min",
+            "airlines": [
+                "easyJet",
+                "Air Dolomiti",
+                "Condor"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "14:40 – 12:14+1",
+            "arrival_time": "N/A",
+            "duration": "27h 34min",
+            "price": "662 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "VCE",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL",
+                "Spirit Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "14:40 – 12:14+1",
+            "arrival_time": "08:10 – 12:14\n+1",
+            "duration": "27h 34min",
+            "price": "676 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "GVA",
+            "layover_duration": "12h 35min",
+            "airlines": [
+                "easyJet",
+                "Norse Atlantic Airways",
+                "Spirit Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "14:20 – 12:55+1",
+            "arrival_time": "08:10 – 12:14\n+1",
+            "duration": "28h 35min",
+            "price": "732 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "OPO",
+            "layover_duration": "3h 15min",
+            "airlines": [
+                "easyJet",
+                "Norse Atlantic Airways",
+                "Spirit Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "14:25 – 11:13+1",
+            "arrival_time": "08:10 – 12:14\n+1",
+            "duration": "26h 48min",
+            "price": "802 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BER",
+            "layover_duration": "8h 50min",
+            "airlines": [
+                "easyJet",
+                "Norse Atlantic Airways",
+                "Spirit Airlines"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "12:00 – 10:25+1",
+            "arrival_time": "08:10 – 12:14\n+1",
+            "duration": "28h 25min",
+            "price": "880 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "OPO",
+            "layover_duration": "3h 15min",
+            "airlines": [
+                "easyJet",
+                "Norse Atlantic Airways",
+                "Spirit Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 02:32+1",
+            "arrival_time": "N/A",
+            "duration": "23h 27min",
+            "price": "1 228 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "NCE",
+            "layover_duration": "3h 25min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "14:10 – 11:13+1",
+            "arrival_time": "08:10 – 12:14\n+1",
+            "duration": "27h 03min",
+            "price": "803 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MRS",
+            "layover_duration": "2h 25min",
+            "airlines": [
+                "easyJet",
+                "Norse Atlantic Airways",
+                "Spirit Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "17:55 – 11:13+1",
+            "arrival_time": "N/A",
+            "duration": "23h 18min",
+            "price": "1 070 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia",
+                "Aeromexico"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "21:15 – 19:10+1",
+            "arrival_time": "N/A",
+            "duration": "27h 55min",
+            "price": "749 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "IST",
+            "layover_duration": "4h 10min",
+            "airlines": [
+                "British Airways",
+                "easyJet",
+                "Air Dolomiti",
+                "Condor"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "14:25 – 12:55+1",
+            "arrival_time": "12:00 – 08:50\n+1",
+            "duration": "28h 30min",
+            "price": "795 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "IST",
+            "layover_duration": "4h 10min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Promotion"
+        }
+    ]
+}

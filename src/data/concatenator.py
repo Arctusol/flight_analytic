@@ -8,6 +8,146 @@ from datetime import datetime
 import time
 from contextlib import contextmanager
 import shutil
+from geopy.geocoders import Nominatim
+from geopy.distance import geodesic
+from geopy.exc import GeocoderTimedOut, GeocoderUnavailable
+from functools import lru_cache
+
+
+# Coordonnées fixes de Bordeaux
+BORDEAUX_COORDS = (44.837789, -0.57918)  # Latitude, Longitude
+
+# Déplacer le dictionnaire city_country_mapping au niveau global pour le rendre accessible partout
+city_country_mapping = {
+    'London': 'United Kingdom',
+    'Roma': 'Italy', 
+    'Madrid': 'Spain',
+    'Lisboa': 'Portugal',
+    'Amsterdam': 'Netherlands',
+    'Dublin': 'Ireland',
+    'Berlin': 'Germany',
+    'Wien': 'Austria',
+    'Bruxelles': 'Belgium',
+    'Barcelona': 'Spain',
+    'Copenhagen': 'Denmark',
+    'Prague': 'Czech Republic',
+    'Athens': 'Greece',
+    'Warsaw': 'Poland',
+    'Budapest': 'Hungary',
+    'Zurich': 'Switzerland',
+    'Oslo': 'Norway', 
+    'Stockholm': 'Sweden',
+    'Helsinki': 'Finland',
+    'Istanbul': 'Turkey',
+    'Milan': 'Italy',
+    'New York': 'United States',
+    'Los Angeles': 'United States',
+    'San Francisco': 'United States',
+    'Miami': 'United States',
+    'Chicago': 'United States',
+    'Montreal': 'Canada',
+    'Toronto': 'Canada',
+    'Vancouver': 'Canada',
+    'Mexico City': 'Mexico',
+    'Cancun': 'Mexico',
+    'Sao Paulo': 'Brazil',
+    'Buenos Aires': 'Argentina',
+    'Santiago': 'Chile',
+    'Bogota': 'Colombia',
+    'Lima': 'Peru',
+    'Rio de Janeiro': 'Brazil',
+    'Dubai': 'United Arab Emirates',
+    'Doha': 'Qatar',
+    'Abu Dhabi': 'United Arab Emirates',
+    'Singapore': 'Singapore',
+    'Hong Kong': 'China',
+    'Bangkok': 'Thailand',
+    'Kuala Lumpur': 'Malaysia',
+    'Tokyo': 'Japan',
+    'Seoul': 'South Korea',
+    'Beijing': 'China',
+    'Shanghai': 'China',
+    'New Delhi': 'India',
+    'Mumbai': 'India',
+    'Sydney': 'Australia',
+    'Melbourne': 'Australia',
+    'Auckland': 'New Zealand',
+    'Brisbane': 'Australia',
+    'Perth': 'Australia',
+    'Johannesburg': 'South Africa',
+    'Cape Town': 'South Africa',
+    'Cairo': 'Egypt',
+    'Casablanca': 'Morocco',
+    'Dakar': 'Senegal',
+    'Nairobi': 'Kenya'
+}
+
+@lru_cache(maxsize=128)
+def get_city_coordinates(city_name):
+    """
+    Obtient les coordonnées d'une ville avec mise en cache.
+    
+    Args:
+        city_name (str): Nom de la ville
+        
+    Returns:
+        tuple: (latitude, longitude) ou None si non trouvé
+    """
+    if not city_name or city_name == 'N/A':
+        return None
+    
+    try:
+        geolocator = Nominatim(user_agent="flight_scraper")
+        
+        # Utiliser le mapping ville-pays
+        if city_name in city_country_mapping:
+            search_query = f"{city_name}, {city_country_mapping[city_name]}"
+        else:
+            search_query = f"{city_name}, France"  # Par défaut
+            logger.warning(f"Ville non trouvée dans le mapping: {city_name}, recherche avec pays par défaut")
+            
+        logger.debug(f"Recherche de géolocalisation pour: {search_query}")
+        location = geolocator.geocode(search_query)
+        
+        if location:
+            logger.debug(f"Coordonnées trouvées pour {search_query}: {location.latitude}, {location.longitude}")
+            return (location.latitude, location.longitude)
+            
+        logger.warning(f"Aucune coordonnée trouvée pour {search_query}")
+        return None
+        
+    except (GeocoderTimedOut, GeocoderUnavailable) as e:
+        logger.error(f"Erreur de géocodage pour {city_name}: {str(e)}")
+        return None
+
+def format_coordinates(coords):
+    """
+    Formate les coordonnées en chaîne de caractères.
+    """
+    if coords is None:
+        return None
+    return f"{coords[0]}, {coords[1]}"
+
+def calculate_distance_and_coordinates(row):
+    """
+    Calcule la distance et récupère les coordonnées pour une ligne du DataFrame.
+    
+    Returns:
+        dict: Dictionnaire contenant les coordonnées et la distance
+    """
+    origin_coords = BORDEAUX_COORDS
+    dest_coords = get_city_coordinates(row['destination_city'])
+    
+    result = {
+        'origin_coordinates': format_coordinates(origin_coords),
+        'destination_coordinates': format_coordinates(dest_coords),
+        'distance_km': None
+    }
+    
+    if origin_coords and dest_coords:
+        result['distance_km'] = round(geodesic(origin_coords, dest_coords).kilometers, 2)
+    
+    return pd.Series(result)
 
 # Configuration du logging
 def setup_logger(base_folder):
@@ -42,7 +182,7 @@ def setup_logger(base_folder):
     return logger
 
 # Initialisation du logger (à mettre après la définition de base_folder)
-base_folder = Path(r"C:\Users\antob\OneDrive - Mac-P'AI\Documents\Arctusol\Scrapping_project\Scraping\data")
+base_folder = Path(r"C:\Users\antob\Documents\Arctusol\Scrapping_project\Scraping\data")
 logger = setup_logger(base_folder)
 
 def clean_time_format(time_str):
@@ -62,76 +202,135 @@ def split_time(time_str):
         return parts[0].strip(), parts[1].strip()
     return 'N/A', 'N/A'
 
-def flatten_flight_data(json_data):
+class BackupManager:
+    def __init__(self, base_path):
+        self.backup_path = base_path / 'backups'
+        self.backup_path.mkdir(exist_ok=True)
+
+    def create_backup(self, file_path):
+        timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+        backup_file = self.backup_path / f"{file_path.stem}_{timestamp}{file_path.suffix}"
+        shutil.copy2(file_path, backup_file)
+        return backup_file
+    
+def clean_price(price, destination, file_name):
+    try:
+        if pd.isna(price):
+            return None
+        if isinstance(price, (int, float)):
+            return float(price)
+        if isinstance(price, str):
+            # Log la valeur problématique avant le nettoyage
+            logger.debug(f"[{destination}] Nettoyage du prix: '{price}' dans {file_name}")
+            
+            # Remplacer tous les types d'espaces Unicode
+            price = price.replace('€', '').replace('\xa0', '').replace('\u202f', '').replace(' ', '').strip()
+            logger.debug(f"[{destination}] Prix après nettoyage: '{price}' dans {file_name}")
+            
+            return float(price) if price else None
+        return None
+    except Exception as e:
+        # Ajouter plus de contexte dans le message d'erreur
+        logger.error(f"[{destination}] Erreur dans le nettoyage du prix '{price}' dans {file_name}: {str(e)}")
+        return None
+
+def flatten_flight_data(json_data, file_name, destination):
+    logger.info(f"[{destination}] Début du traitement du fichier {file_name}")
     flattened_data = []
     
-    base_data = {
-        'search_date': json_data.get('search_date', 'N/A'),
-        'flight_date': json_data.get('flight_date', 'N/A'),
-        'origin': json_data.get('origin', 'N/A'),
-        'destination': json_data.get('destination', 'N/A'),
-        'destination_city': json_data.get('destination_city', 'N/A'),
-        'url': json_data.get('url', 'N/A')
-    }
-    
-    for flight in json_data['flights']:
-        row = base_data.copy()
-        departure_time, arrival_time = split_time(clean_time_format(flight.get('departure_time', 'N/A')))
-        
-        # Gestion des compagnies aériennes
-        airlines = flight.get('airlines', [])
-        main_airline = airlines[0] if airlines else 'N/A'
-        connection_airline = airlines[1] if len(airlines) > 1 else 'N/A'
-        
-        flight_data = {
-            'departure_time': departure_time,
-            'arrival_time': arrival_time,
-            'duration': flight.get('duration', 'N/A'),
-            'price': flight.get('price', 'N/A'),
-            'is_direct': flight.get('is_direct', 'N/A'),
-            'origin_airport': flight.get('origin_airport', 'N/A'),
-            'destination_airport': flight.get('destination_airport', 'N/A'),
-            'checked_baggage': flight.get('checked_baggage', 'N/A'),
-            'hand_baggage': flight.get('hand_baggage', 'N/A'),
-            'layover_airport': flight.get('layover_airport', 'N/A'),
-            'layover_duration': flight.get('layover_duration', 'N/A'),
-            'airlines': main_airline,
-            'flight_connection_company': connection_airline,
-            'fare_class': flight.get('fare_class', 'N/A'),
-            'flight_number': flight.get('flight_number', 'N/A'),
-            'equipment_type': flight.get('equipment_type', 'N/A')
+    try:
+        base_data = {
+            'search_date': json_data.get('search_date', 'N/A'),
+            'flight_date': json_data.get('flight_date', 'N/A'),
+            'origin': json_data.get('origin', 'N/A'),
+            'destination': json_data.get('destination', 'N/A'),
+            'destination_city': json_data.get('destination_city', 'N/A'),
+            'url': json_data.get('url', 'N/A')
         }
-        row.update(flight_data)
-        flattened_data.append(row)
-    
-    return flattened_data
+        
+        logger.debug(f"Données de base extraites pour {file_name}: {base_data}")
+        
+        for idx, flight in enumerate(json_data['flights'], 1):
+            try:
+                # Ajouter un log pour chaque vol traité avec son prix
+                logger.debug(f"[{destination}] Traitement du vol {idx} dans {file_name} - Prix brut: {flight.get('price', 'N/A')}")
+                
+                row = base_data.copy()
+                departure_time, arrival_time = split_time(clean_time_format(flight.get('departure_time', 'N/A')))
+                
+                # Gestion des compagnies aériennes
+                airlines = flight.get('airlines', [])
+                main_airline = airlines[0] if airlines else 'N/A'
+                connection_airline = airlines[1] if len(airlines) > 1 else 'N/A'
+                
+                flight_data = {
+                    'departure_time': departure_time,
+                    'arrival_time': arrival_time,
+                    'duration': flight.get('duration', 'N/A'),
+                    'price': clean_price(flight.get('price', 'N/A'), destination, file_name),
+                    'is_direct': flight.get('is_direct', 'N/A'),
+                    'origin_airport': flight.get('origin_airport', 'N/A'),
+                    'destination_airport': flight.get('destination_airport', 'N/A'),
+                    'checked_baggage': flight.get('checked_baggage', 'N/A'),
+                    'hand_baggage': flight.get('hand_baggage', 'N/A'),
+                    'layover_airport': flight.get('layover_airport', 'N/A'),
+                    'layover_duration': flight.get('layover_duration', 'N/A'),
+                    'airlines': main_airline,
+                    'flight_connection_company': connection_airline,
+                    'fare_class': flight.get('fare_class', 'N/A'),
+                    'origin_coordinates': format_coordinates(BORDEAUX_COORDS),
+                    'destination_coordinates': format_coordinates(get_city_coordinates(row['destination_city'])),
+                    'distance_km': round(geodesic(BORDEAUX_COORDS, get_city_coordinates(row['destination_city'])).kilometers, 2) 
+                                 if get_city_coordinates(row['destination_city']) else None
+                }
+                row.update(flight_data)
+                flattened_data.append(row)
+                logger.debug(f"[{destination}] Vol {idx} traité avec succès dans {file_name}")
+            except Exception as e:
+                logger.error(f"[{destination}] Erreur lors du traitement du vol {idx} dans {file_name}: {str(e)}")
+        
+        logger.info(f"[{destination}] Traitement terminé pour {file_name}. {len(flattened_data)} vols extraits")
+        return flattened_data
+    except Exception as e:
+        logger.error(f"[{destination}] Erreur lors du traitement global du fichier {file_name}: {str(e)}")
+        return []
 
 # Remplacer la partie du traitement des fichiers par :
-base_folder = Path(r"C:\Users\antob\OneDrive - Mac-P'AI\Documents\Arctusol\Scrapping_project\Scraping\data")
+base_folder = Path(r"C:\Users\antob\Documents\Arctusol\Scrapping_project\Scraping\data")
+output_folder = base_folder / 'final_csv'  # Nouveau dossier de sortie
 
-# Trouver automatiquement tous les dossiers de 3 lettres
+# Création du dossier s'il n'existe pas
+output_folder.mkdir(exist_ok=True)
+
+# Trouver automatiquement tous les dossiers commençant par 3 lettres
 destination_folders = [folder.name for folder in base_folder.iterdir() 
-                      if folder.is_dir() and len(folder.name) == 3]
+                      if folder.is_dir() and folder.name[:3].isalpha()]
 
 logger.info(f"Dossiers de destination trouvés : {', '.join(destination_folders)}")
 
 for destination in destination_folders:
     destination_path = base_folder / destination
-    logger.info(f"\nTraitement du dossier {destination}...")
+    logger.info(f"\n=== Début du traitement du dossier {destination} ===")
     
     all_data = []
     
     for json_file in destination_path.glob('*.json'):
+        file_name = json_file.name
+        logger.info(f"[{destination}] === Début du traitement de {file_name} ===")
         try:
             with open(json_file, 'r', encoding='utf-8') as f:
                 json_data = json.load(f)
-                flattened_data = flatten_flight_data(json_data)
+                logger.debug(f"[{destination}] Fichier {file_name} chargé avec succès")
+                
+                flattened_data = flatten_flight_data(json_data, file_name, destination)
                 all_data.extend(flattened_data)
-                logger.info(f"Traitement réussi pour {json_file.name}")
+                
+                logger.info(f"[{destination}] === Fin du traitement de {file_name} ===")
+                logger.info(f"[{destination}] Nombre de vols extraits: {len(flattened_data)}")
         except json.JSONDecodeError as e:
-            logger.error(f"Erreur de décodage JSON pour {json_file.name}: {str(e)}")
+            logger.error(f"[{destination}] Erreur de décodage JSON pour {file_name}: {str(e)}")
         except Exception as e:
-            logger.error(f"Erreur lors du traitement du fichier {json_file.name}: {str(e)}")
+            logger.error(f"[{destination}] Erreur inattendue lors du traitement de {file_name}: {str(e)}")
 
     if not all_data:
         logger.warning(f"Aucune donnée n'a été chargée pour {destination}.")
@@ -140,22 +339,6 @@ for destination in destination_folders:
     df = pd.DataFrame(all_data)
     
     print(f"Colonnes disponibles dans le DataFrame : {df.columns.tolist()}")
-
-    def clean_price(price):
-        try:
-            if pd.isna(price):
-                return None
-            if isinstance(price, (int, float)):
-                return float(price)
-            if isinstance(price, str):
-                price = price.replace('€', '').replace('\xa0', '').replace(' ', '').strip()
-                return float(price) if price else None
-            return None
-        except Exception as e:
-            logger.error(f"Erreur dans le nettoyage du prix: {str(e)}")
-            return None
-
-    df['price'] = df['price'].apply(clean_price)
 
     def clean_duration(duration):
         if not isinstance(duration, str) or duration == 'N/A':
@@ -174,11 +357,14 @@ for destination in destination_folders:
         if not isinstance(date_str, str) or date_str == 'N/A':
             return None
         try:
+            if keep_time:
+                return pd.to_datetime(date_str).strftime('%Y-%m-%d %H:%M:%S')
             return pd.to_datetime(date_str).strftime('%Y-%m-%d')
         except:
             return None
 
-    # Application des formats de date
+    # Modification de l'application du format de date
+    df['search_date_with_hour'] = df['search_date'].apply(lambda x: format_dates(x, keep_time=True))
     df['search_date'] = df['search_date'].apply(format_dates)
     df['flight_date'] = df['flight_date'].apply(format_dates)
 
@@ -305,17 +491,23 @@ for destination in destination_folders:
     output_folder.mkdir(exist_ok=True)
     
     # Sauvegarder dans le dossier 'combined'
+    current_date = datetime.now().strftime('%Y%m%d')
     output_file = output_folder / f'vols_{destination.lower()}_combines.csv'
 
     # Avant la sauvegarde du CSV, ajoutons un ID unique
     def generate_flight_id(row):
         try:
+            # Extraire seulement la date de search_date (format YYYY-MM-DD)
+            search_date = str(row.get('search_date', '')).split()[0] if row.get('search_date') else ''
+            
             components = [
+                search_date,  # Uniquement la date de recherche, sans l'heure
                 str(row.get('flight_date', '')),
                 str(row.get('origin', '')),
                 str(row.get('destination', '')),
-                str(row.get('airlines', ''))
-                ]
+                str(row.get('departure_time', '')),
+                str(row.get('arrival_time', ''))
+            ]
             unique_string = '_'.join(filter(None, components))
             return abs(hash(unique_string)) if unique_string else None
         except Exception as e:
@@ -327,12 +519,29 @@ for destination in destination_folders:
     # Pour gérer l'ajout à un fichier existant
     if output_file.exists():
         try:
+            backup_manager = BackupManager(base_folder)
+            backup_file = backup_manager.create_backup(output_file)
+            logger.info(f"Backup créé: {backup_file}")
+            
+            # Charger le fichier existant
             existing_df = pd.read_csv(output_file)
             initial_rows = len(existing_df)
+            
+            # Régénérer les IDs pour le fichier existant avec la nouvelle méthode
+            logger.info("Régénération des IDs pour les données existantes...")
+            existing_df['flight_id'] = existing_df.apply(generate_flight_id, axis=1)
+            
+            # Générer les IDs pour les nouvelles données
+            df['flight_id'] = df.apply(generate_flight_id, axis=1)
+            
+            # Concaténer et dédupliquer
             df = pd.concat([existing_df, df], ignore_index=True)
             df = df.drop_duplicates(subset=['flight_id'], keep='last')
             final_rows = len(df)
-            logger.info(f"Fusion avec fichier existant: {initial_rows} -> {final_rows} lignes")
+            
+            logger.info(f"[{destination}] Fusion avec fichier existant: {initial_rows} -> {final_rows} lignes")
+            logger.info(f"[{destination}] Nombre d'IDs uniques: {df['flight_id'].nunique()}")
+            
         except pd.errors.EmptyDataError:
             logger.warning(f"Le fichier {output_file} est vide, création d'un nouveau fichier")
         except Exception as e:
@@ -341,7 +550,19 @@ for destination in destination_folders:
             df.to_csv(backup_file, index=False, encoding='utf-8')
             logger.info(f"Backup créé: {backup_file}")
 
-    # Sauvegarder le fichier
+    # Avant la sauvegarde du CSV, supprimer les colonnes non désirées
+    columns_to_drop = ['flight_number', 'equipment_type']
+    df = df.drop(columns=columns_to_drop, errors='ignore')
+    
+    # Calcul des coordonnées et distances
+    logger.info("Calcul des coordonnées et distances...")
+    # Créer les nouvelles colonnes une par une
+    df['origin_coordinates'] = df.apply(lambda row: format_coordinates(BORDEAUX_COORDS), axis=1)
+    df['destination_coordinates'] = df.apply(lambda row: format_coordinates(get_city_coordinates(row['destination_city'])), axis=1)
+    df['distance_km'] = df.apply(lambda row: round(geodesic(BORDEAUX_COORDS, get_city_coordinates(row['destination_city'])).kilometers, 2) 
+                                if get_city_coordinates(row['destination_city']) else None, axis=1)
+
+    # Sauvegarder le fichier avec toutes les colonnes
     df.to_csv(output_file, 
               index=False, 
               encoding='utf-8',
@@ -367,6 +588,16 @@ for destination in destination_folders:
         stats = df[col].describe()
         logger.info(f"Statistiques pour {col}:\n{stats}")
 
+    # Log des statistiques
+    logger.info("Statistiques des nouvelles colonnes:")
+    for col in ['origin_coordinates', 'destination_coordinates', 'distance_km']:
+        non_null_count = df[col].count()
+        total_count = len(df)
+        logger.info(f"{col}: {non_null_count}/{total_count} valeurs non nulles")
+
+    distance_stats = df['distance_km'].describe()
+    logger.info(f"Statistiques des distances:\n{distance_stats}")
+
 @contextmanager
 def timer(description):
     start = time.time()
@@ -378,17 +609,6 @@ def timer(description):
 with timer("Traitement complet du dossier"):
     # Votre code de traitement ici
     pass
-
-class BackupManager:
-    def __init__(self, base_path):
-        self.backup_path = base_path / 'backups'
-        self.backup_path.mkdir(exist_ok=True)
-
-    def create_backup(self, file_path):
-        timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-        backup_file = self.backup_path / f"{file_path.stem}_{timestamp}{file_path.suffix}"
-        shutil.copy2(file_path, backup_file)
-        return backup_file
 
 class ProcessMetrics:
     def __init__(self, base_folder):
@@ -455,3 +675,39 @@ class ProcessMetrics:
         logger.info(f"Lignes totales: {self.metrics['total_rows']}")
         
         return metrics_file
+
+def correct_coordinates_and_distance(df):
+    """
+    Corrige les coordonnées et distances pour toutes les lignes du DataFrame.
+    """
+    logger.info("Correction des coordonnées et distances...")
+    
+    # Garder une trace des modifications
+    corrections = {'coordonnées': 0, 'distances': 0}
+    
+    # Pour chaque ville unique dans le DataFrame
+    unique_cities = df['destination_city'].unique()
+    for city in unique_cities:
+        old_coords = df.loc[df['destination_city'] == city, 'destination_coordinates'].iloc[0]
+        new_coords = format_coordinates(get_city_coordinates(city))
+        
+        if old_coords != new_coords:
+            logger.info(f"Correction pour {city}: {old_coords} -> {new_coords}")
+            corrections['coordonnées'] += 1
+            
+            # Mise à jour des coordonnées
+            df.loc[df['destination_city'] == city, 'destination_coordinates'] = new_coords
+            
+            # Recalcul de la distance
+            if new_coords:
+                new_coords_tuple = tuple(map(float, new_coords.split(', ')))
+                new_distance = round(geodesic(BORDEAUX_COORDS, new_coords_tuple).kilometers, 2)
+                old_distance = df.loc[df['destination_city'] == city, 'distance_km'].iloc[0]
+                
+                if old_distance != new_distance:
+                    corrections['distances'] += 1
+                    df.loc[df['destination_city'] == city, 'distance_km'] = new_distance
+                    logger.info(f"Distance corrigée pour {city}: {old_distance} -> {new_distance} km")
+    
+    logger.info(f"Corrections effectuées: {corrections['coordonnées']} coordonnées et {corrections['distances']} distances")
+    return df

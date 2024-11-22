@@ -1,0 +1,448 @@
+{
+    "search_date": "2024-11-22 14:04:46",
+    "flight_date": "2025-02-21",
+    "origin": "BOD",
+    "destination": "SFO",
+    "destination_city": "San Francisco",
+    "url": "https://www.kayak.fr/flights/BOD-SFO/2025-02-21?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "18:00 – 11:05+1",
+            "arrival_time": "18:00 – 11:05\n+1",
+            "duration": "26h 05min",
+            "price": "525 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "IST",
+            "layover_duration": "8h 15min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:50 – 18:12+1",
+            "arrival_time": "18:00 – 11:05\n+1",
+            "duration": "44h 22min",
+            "price": "484 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "IST",
+            "layover_duration": "8h 15min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "15:25 – 15:30+1",
+            "arrival_time": "18:00 – 11:05\n+1",
+            "duration": "33h 05min",
+            "price": "801 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "LGW",
+            "layover_duration": "5h 30min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 13:10",
+            "arrival_time": "18:00 – 11:05\n+1",
+            "duration": "16h 10min",
+            "price": "1 597 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "DUB",
+            "layover_duration": "20h 05min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 21:00",
+            "arrival_time": "N/A",
+            "duration": "20h 55min",
+            "price": "1 031 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:00 – 16:45+1",
+            "arrival_time": "18:00 – 11:05\n+1",
+            "duration": "31h 45min",
+            "price": "758 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 00min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 20:48",
+            "arrival_time": "N/A",
+            "duration": "20h 43min",
+            "price": "1 031 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 21:03",
+            "arrival_time": "N/A",
+            "duration": "20h 58min",
+            "price": "1 031 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "20:40 – 15:00+1",
+            "arrival_time": "06:50 – 18:12\n+1",
+            "duration": "27h 20min",
+            "price": "1 074 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "IST",
+            "layover_duration": "14h 00min",
+            "airlines": [
+                "easyJet",
+                "Norse Atlantic UK",
+                "Frontier"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "20:40 – 15:00+1",
+            "arrival_time": "06:50 – 18:12\n+1",
+            "duration": "27h 20min",
+            "price": "1 084 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 00min",
+            "airlines": [
+                "easyJet",
+                "Norse Atlantic UK",
+                "Frontier"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 19:50",
+            "arrival_time": "06:50 – 18:12\n+1",
+            "duration": "19h 45min",
+            "price": "1 125 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "easyJet",
+                "Norse Atlantic UK",
+                "Frontier"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "20:40 – 15:00+1",
+            "arrival_time": "06:50 – 18:12\n+1",
+            "duration": "27h 20min",
+            "price": "1 105 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 14h 25min, ,[object Object]",
+            "airlines": [
+                "easyJet",
+                "Norse Atlantic UK",
+                "Frontier"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "14:45 – 11:05+1",
+            "arrival_time": "N/A",
+            "duration": "29h 20min",
+            "price": "660 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "19:45 – 16:45+1",
+            "arrival_time": "06:50 – 18:12\n+1",
+            "duration": "30h 00min",
+            "price": "644 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 14h 25min, ,[object Object]",
+            "airlines": [
+                "easyJet",
+                "Norse Atlantic UK",
+                "Frontier"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 21:23",
+            "arrival_time": "N/A",
+            "duration": "21h 18min",
+            "price": "1 105 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "22:25 – 12:35+1",
+            "arrival_time": "N/A",
+            "duration": "23h 10min",
+            "price": "751 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 14h 25min, ,[object Object]",
+            "airlines": [
+                "easyJet",
+                "Lufthansa"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "22:25 – 12:35+1",
+            "arrival_time": "15:25 – 15:30\n+1",
+            "duration": "23h 10min",
+            "price": "751 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "MRS",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Aer Lingus"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 21:00",
+            "arrival_time": "15:25 – 15:30\n+1",
+            "duration": "20h 55min",
+            "price": "1 066 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "DUB",
+            "layover_duration": "20h 05min",
+            "airlines": [
+                "Aer Lingus"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 20:48",
+            "arrival_time": "15:25 – 15:30\n+1",
+            "duration": "20h 43min",
+            "price": "1 111 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "MXP",
+            "layover_duration": "9h 40min",
+            "airlines": [
+                "Aer Lingus"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 19:50",
+            "arrival_time": "15:25 – 15:30\n+1",
+            "duration": "19h 45min",
+            "price": "1 140 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Aer Lingus"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "21:50 – 12:35+1",
+            "arrival_time": "N/A",
+            "duration": "23h 45min",
+            "price": "779 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LIS",
+            "layover_duration": "5h 40min",
+            "airlines": [
+                "Tunisair",
+                "Lufthansa"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 16:21",
+            "arrival_time": "15:25 – 15:30\n+1",
+            "duration": "19h 21min",
+            "price": "1 065 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "DUB",
+            "layover_duration": "20h 05min",
+            "airlines": [
+                "Aer Lingus"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 21:23",
+            "arrival_time": "N/A",
+            "duration": "21h 18min",
+            "price": "1 105 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LIS",
+            "layover_duration": "5h 40min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 23:21",
+            "arrival_time": "N/A",
+            "duration": "23h 16min",
+            "price": "1 031 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 23:38",
+            "arrival_time": "06:00 – 13:10",
+            "duration": "23h 33min",
+            "price": "1 012 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 00min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Economy Light"
+        }
+    ]
+}

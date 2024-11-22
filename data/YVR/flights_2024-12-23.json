@@ -1,0 +1,467 @@
+{
+    "search_date": "2024-11-22 05:21:30",
+    "flight_date": "2024-12-23",
+    "origin": "BOD",
+    "destination": "YVR",
+    "destination_city": "Vancouver",
+    "url": "https://www.kayak.fr/flights/BOD-YVR/2024-12-23?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "10:40 – 18:08",
+            "arrival_time": "10:40 – 18:08",
+            "duration": "16h 28min",
+            "price": "730 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YVR",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 25min",
+            "airlines": [
+                "Air France",
+                "WestJet",
+                "Air Canada"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "11:10 – 20:59",
+            "arrival_time": "10:40 – 18:08",
+            "duration": "18h 49min",
+            "price": "660 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YVR",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 3h 00min, ,[object Object]",
+            "airlines": [
+                "Air France",
+                "WestJet",
+                "Air Canada"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "06:50 – 20:59",
+            "arrival_time": "10:40 – 18:08",
+            "duration": "23h 09min",
+            "price": "653 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YVR",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 7h 20min, ,[object Object]",
+            "airlines": [
+                "Air France",
+                "WestJet",
+                "Air Canada"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "10:40 – 18:08",
+            "arrival_time": "10:40 – 18:08",
+            "duration": "16h 28min",
+            "price": "752 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YVR",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 25min",
+            "airlines": [
+                "Air France",
+                "WestJet",
+                "Air Canada"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "11:10 – 19:15",
+            "arrival_time": "N/A",
+            "duration": "17h 05min",
+            "price": "1 065 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YVR",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 25min",
+            "airlines": [
+                "British Airways",
+                "Finnair"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "11:10 – 19:15",
+            "arrival_time": "10:40 – 18:08",
+            "duration": "17h 05min",
+            "price": "1 094 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YVR",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 25min",
+            "airlines": [
+                "Air France",
+                "WestJet",
+                "Air Canada"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "11:10 – 19:15",
+            "arrival_time": "N/A",
+            "duration": "17h 05min",
+            "price": "1 160 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YVR",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 5h 35min, ,[object Object]",
+            "airlines": [
+                "British Airways",
+                "American Airlines"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "06:00 – 11:20",
+            "arrival_time": "N/A",
+            "duration": "14h 20min",
+            "price": "1 239 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YVR",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 5h 35min, ,[object Object]",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "10:40 – 20:40",
+            "arrival_time": "11:10 – 20:59",
+            "duration": "19h 00min",
+            "price": "732 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YVR",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "British Airways",
+                "WestJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:40 – 20:59",
+            "arrival_time": "11:10 – 20:59",
+            "duration": "19h 19min",
+            "price": "727 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YVR",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 5h 35min, ,[object Object]",
+            "airlines": [
+                "British Airways",
+                "WestJet"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "10:40 – 19:45",
+            "arrival_time": "11:10 – 20:59",
+            "duration": "18h 05min",
+            "price": "773 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YXX",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "British Airways",
+                "WestJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "20:55 – 11:20+1",
+            "arrival_time": "11:10 – 20:59",
+            "duration": "23h 25min",
+            "price": "1 130 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YVR",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 25min",
+            "airlines": [
+                "British Airways",
+                "WestJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 18:08",
+            "arrival_time": "N/A",
+            "duration": "21h 08min",
+            "price": "697 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YVR",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 25min",
+            "airlines": [
+                "Air France",
+                "WestJet",
+                "Air Canada"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "11:10 – 20:40",
+            "arrival_time": "11:10 – 20:59",
+            "duration": "18h 30min",
+            "price": "781 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YVR",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 25min",
+            "airlines": [
+                "British Airways",
+                "WestJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:40 – 18:44",
+            "arrival_time": "N/A",
+            "duration": "17h 04min",
+            "price": "888 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YVR",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "12h 00min",
+            "airlines": [
+                "Air France",
+                "WestJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "15:00 – 01:11+1",
+            "arrival_time": "N/A",
+            "duration": "19h 11min",
+            "price": "946 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YVR",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "7h 05min",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL",
+                "Air Transat"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "11:10 – 19:44",
+            "arrival_time": "06:50 – 20:59",
+            "duration": "17h 34min",
+            "price": "914 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YVR",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 3h 00min, ,[object Object]",
+            "airlines": [
+                "easyJet",
+                "WestJet"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "06:00 – 20:59",
+            "arrival_time": "06:50 – 20:59",
+            "duration": "23h 59min",
+            "price": "672 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YVR",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 25min",
+            "airlines": [
+                "easyJet",
+                "WestJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 20:40",
+            "arrival_time": "06:50 – 20:59",
+            "duration": "23h 40min",
+            "price": "676 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YVR",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LIS",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "easyJet",
+                "WestJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 21:25",
+            "arrival_time": "06:50 – 20:59",
+            "duration": "21h 20min",
+            "price": "1 012 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YVR",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "WestJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 21:25",
+            "arrival_time": "N/A",
+            "duration": "21h 20min",
+            "price": "1 013 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YVR",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 3h 00min, ,[object Object]",
+            "airlines": [
+                "British Airways",
+                "Iberia"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "06:00 – 11:20",
+            "arrival_time": "06:50 – 20:59",
+            "duration": "14h 20min",
+            "price": "1 753 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YVR",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "7h 05min",
+            "airlines": [
+                "easyJet",
+                "WestJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:40 – 00:10+1",
+            "arrival_time": "N/A",
+            "duration": "22h 30min",
+            "price": "711 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YXX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "7h 05min",
+            "airlines": [
+                "Air France",
+                "WestJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 19:45",
+            "arrival_time": "N/A",
+            "duration": "22h 45min",
+            "price": "718 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YXX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France",
+                "WestJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 13:50",
+            "arrival_time": "10:40 – 18:08",
+            "duration": "16h 50min",
+            "price": "1 549 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YVR",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 30min",
+            "airlines": [
+                "Air France",
+                "WestJet",
+                "Air Canada"
+            ],
+            "fare_class": "Basic Economy"
+        }
+    ]
+}

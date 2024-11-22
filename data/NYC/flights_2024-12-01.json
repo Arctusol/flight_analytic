@@ -1,0 +1,450 @@
+{
+    "search_date": "2024-11-21 23:58:45",
+    "flight_date": "2024-12-01",
+    "origin": "BOD",
+    "destination": "NYC",
+    "destination_city": "New York",
+    "url": "https://www.kayak.fr/flights/BOD-NYC/2024-12-01?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "12:00 – 22:15",
+            "arrival_time": "12:00 – 22:15",
+            "duration": "16h 15min",
+            "price": "1 752 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "IST",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "06:00 – 13:50",
+            "arrival_time": "12:00 – 22:15",
+            "duration": "13h 50min",
+            "price": "1 446 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "4h 00min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "15:17 – 22:33+1",
+            "arrival_time": "12:00 – 22:15",
+            "duration": "37h 16min",
+            "price": "784 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LGA",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "TLS-TLS",
+            "layover_duration": "Escale de 18h 42min, ,[object Object]",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "06:00 – 11:35",
+            "arrival_time": "12:00 – 22:15",
+            "duration": "11h 35min",
+            "price": "1 843 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "IST",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "06:00 – 11:35",
+            "arrival_time": "N/A",
+            "duration": "11h 35min",
+            "price": "1 843 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:45 – 22:00",
+            "arrival_time": "12:00 – 22:15",
+            "duration": "17h 15min",
+            "price": "1 101 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "IST",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "06:00 – 11:35",
+            "arrival_time": "N/A",
+            "duration": "11h 35min",
+            "price": "1 926 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "Air France",
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 11:35",
+            "arrival_time": "N/A",
+            "duration": "11h 35min",
+            "price": "1 990 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "VCE",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Delta"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 13:20",
+            "arrival_time": "06:00 – 13:50",
+            "duration": "13h 20min",
+            "price": "1 843 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "4h 00min",
+            "airlines": [
+                "Air France",
+                "Finnair"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "06:00 – 13:20",
+            "arrival_time": "06:00 – 13:50",
+            "duration": "13h 20min",
+            "price": "1 843 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "Air France",
+                "Finnair"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "12:00 – 22:15",
+            "arrival_time": "06:00 – 13:50",
+            "duration": "16h 15min",
+            "price": "1 690 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "Air France",
+                "Finnair"
+            ],
+            "fare_class": "Main Cabin"
+        },
+        {
+            "departure_time": "06:00 – 13:50",
+            "arrival_time": "06:00 – 13:50",
+            "duration": "13h 50min",
+            "price": "1 709 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "3h 00min",
+            "airlines": [
+                "Air France",
+                "Finnair"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:45 – 20:10",
+            "arrival_time": "N/A",
+            "duration": "15h 25min",
+            "price": "1 361 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "3h 00min",
+            "airlines": [
+                "Volotea",
+                "Lufthansa"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 14:10",
+            "arrival_time": "06:00 – 13:50",
+            "duration": "14h 10min",
+            "price": "1 848 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "4h 00min",
+            "airlines": [
+                "Air France",
+                "Finnair"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "06:00 – 13:20",
+            "arrival_time": "N/A",
+            "duration": "13h 20min",
+            "price": "1 990 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "IST",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "Delta"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "06:00 – 13:20",
+            "arrival_time": "N/A",
+            "duration": "13h 20min",
+            "price": "1 920 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "4h 00min",
+            "airlines": [
+                "Air France",
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 14:40",
+            "arrival_time": "15:17 – 22:33\n+1",
+            "duration": "14h 40min",
+            "price": "1 852 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EWR",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "VCE",
+            "layover_duration": "2h 20min",
+            "airlines": [
+                "SNCF",
+                "Air Canada"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 17:55",
+            "arrival_time": "15:17 – 22:33\n+1",
+            "duration": "14h 50min",
+            "price": "1 524 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "4h 05min",
+            "airlines": [
+                "SNCF",
+                "Air Canada"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 15:50",
+            "arrival_time": "15:17 – 22:33\n+1",
+            "duration": "15h 50min",
+            "price": "1 919 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "SNCF",
+                "Air Canada"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "06:00 – 17:05",
+            "arrival_time": "15:17 – 22:33\n+1",
+            "duration": "17h 05min",
+            "price": "1 416 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SWF",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "3h 00min",
+            "airlines": [
+                "SNCF",
+                "Air Canada"
+            ],
+            "fare_class": "Main Cabin"
+        },
+        {
+            "departure_time": "06:00 – 17:05",
+            "arrival_time": "N/A",
+            "duration": "17h 05min",
+            "price": "1 452 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SWF",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "3h 00min",
+            "airlines": [
+                "KLM",
+                "PLAY"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 17:05",
+            "arrival_time": "15:17 – 22:33\n+1",
+            "duration": "17h 05min",
+            "price": "1 452 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SWF",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "4h 55min",
+            "airlines": [
+                "SNCF",
+                "Air Canada"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 16:25",
+            "arrival_time": "N/A",
+            "duration": "16h 25min",
+            "price": "1 510 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France",
+                "Aer Lingus"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "06:00 – 15:50",
+            "arrival_time": "N/A",
+            "duration": "15h 50min",
+            "price": "1 921 €",
+            "origin_airport": "BOD",
+            "destination_airport": "JFK",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 30min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "14:40 – 22:00",
+            "arrival_time": "06:00 – 11:35",
+            "duration": "13h 20min",
+            "price": "1 792 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EWR",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "5h 45min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        }
+    ]
+}

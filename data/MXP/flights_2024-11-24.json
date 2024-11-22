@@ -1,0 +1,445 @@
+{
+    "search_date": "2024-11-21 23:35:01",
+    "flight_date": "2024-11-24",
+    "origin": "BOD",
+    "destination": "MXP",
+    "destination_city": "Milan",
+    "url": "https://www.kayak.fr/flights/BOD-MXP/2024-11-24?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "15:35 – 17:10",
+            "arrival_time": "direct",
+            "duration": "1h 35min",
+            "price": "70 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": true,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "15:35 – 17:10",
+            "arrival_time": "direct",
+            "duration": "1h 35min",
+            "price": "64 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": true,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 10:35",
+            "arrival_time": "15:35 – 17:10",
+            "duration": "4h 35min",
+            "price": "264 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "08:10 – 13:45",
+            "arrival_time": "15:35 – 17:10",
+            "duration": "5h 35min",
+            "price": "203 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:00 – 00:40+1",
+            "arrival_time": "N/A",
+            "duration": "6h 40min",
+            "price": "304 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling",
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 11:40",
+            "arrival_time": "15:35 – 17:10",
+            "duration": "5h 40min",
+            "price": "474 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BER",
+            "layover_duration": "1h 35min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "14:55 – 21:45",
+            "arrival_time": "N/A",
+            "duration": "6h 50min",
+            "price": "354 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "3h 45min",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "14:55 – 21:25",
+            "arrival_time": "N/A",
+            "duration": "6h 30min",
+            "price": "412 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "SWISS",
+                "Ethiopian Air"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "14:55 – 21:10",
+            "arrival_time": "15:35 – 17:10",
+            "duration": "6h 15min",
+            "price": "377 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "ZRH",
+            "layover_duration": "4h 15min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "11:30 – 18:05",
+            "arrival_time": "15:35 – 17:10",
+            "duration": "6h 35min",
+            "price": "451 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "ZRH",
+            "layover_duration": "3h 40min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "17:50 – 23:35",
+            "arrival_time": "15:35 – 17:10",
+            "duration": "5h 45min",
+            "price": "509 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "ZRH",
+            "layover_duration": "1h 20min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "16:40 – 23:20",
+            "arrival_time": "15:35 – 17:10",
+            "duration": "6h 40min",
+            "price": "458 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FLR",
+            "layover_duration": "1h 35min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "16:40 – 23:20",
+            "arrival_time": "N/A",
+            "duration": "6h 40min",
+            "price": "510 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LIS",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "easyJet",
+                "Lufthansa",
+                "Air Dolomiti"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "05:58 – 15:15",
+            "arrival_time": "15:35 – 17:10",
+            "duration": "9h 17min",
+            "price": "556 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BSL",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "14:55 – 22:00",
+            "arrival_time": "N/A",
+            "duration": "7h 05min",
+            "price": "658 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BSL",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "SWISS",
+                "Austrian Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "17:55 – 00:35+1",
+            "arrival_time": "N/A",
+            "duration": "6h 40min",
+            "price": "679 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "4h 05min",
+            "airlines": [
+                "Iberia",
+                "Ryanair"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:00 – 21:45",
+            "arrival_time": "06:00 – 10:35",
+            "duration": "3h 45min",
+            "price": "893 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 16:35",
+            "arrival_time": "06:00 – 10:35",
+            "duration": "7h 30min",
+            "price": "682 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "N/A",
+            "layover_airport": "ZRH",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Elight"
+        },
+        {
+            "departure_time": "14:55 – 22:00",
+            "arrival_time": "06:00 – 10:35",
+            "duration": "7h 05min",
+            "price": "739 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 05min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "14:55 – 22:05",
+            "arrival_time": "06:00 – 10:35",
+            "duration": "7h 10min",
+            "price": "785 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "14:55 – 22:05",
+            "arrival_time": "N/A",
+            "duration": "7h 10min",
+            "price": "785 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ZRH",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "SWISS",
+                "Air Dolomiti"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "14:55 – 22:05",
+            "arrival_time": "06:00 – 10:35",
+            "duration": "7h 10min",
+            "price": "862 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 35min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "14:55 – 22:05",
+            "arrival_time": "N/A",
+            "duration": "7h 10min",
+            "price": "863 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ZRH",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "SWISS",
+                "Lufthansa"
+            ],
+            "fare_class": "Elight"
+        },
+        {
+            "departure_time": "14:55 – 21:10",
+            "arrival_time": "N/A",
+            "duration": "6h 15min",
+            "price": "1 008 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "SWISS",
+                "Brussels Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 15:45",
+            "arrival_time": "08:10 – 13:45",
+            "duration": "6h 40min",
+            "price": "990 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MXP",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "ZRH",
+            "layover_duration": "1h 30min",
+            "airlines": [
+                "easyJet",
+                "Ryanair"
+            ],
+            "fare_class": "Economy Light"
+        }
+    ]
+}

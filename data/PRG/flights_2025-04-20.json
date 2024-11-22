@@ -1,0 +1,445 @@
+{
+    "search_date": "2024-11-21 23:33:57",
+    "flight_date": "2025-04-20",
+    "origin": "BOD",
+    "destination": "PRG",
+    "destination_city": "Prague",
+    "url": "https://www.kayak.fr/flights/BOD-PRG/2025-04-20?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "14:20 – 20:45",
+            "arrival_time": "14:20 – 20:45",
+            "duration": "6h 25min",
+            "price": "172 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 40min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "17:40 – 22:45",
+            "arrival_time": "14:20 – 20:45",
+            "duration": "5h 05min",
+            "price": "110 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "GVA",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:00 – 19:05",
+            "arrival_time": "14:20 – 20:45",
+            "duration": "10h 05min",
+            "price": "86 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BSL",
+            "layover_duration": "7h 15min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "14:10 – 20:45",
+            "arrival_time": "14:20 – 20:45",
+            "duration": "6h 35min",
+            "price": "110 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 40min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "15:00 – 21:10",
+            "arrival_time": "N/A",
+            "duration": "6h 10min",
+            "price": "123 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "GVA",
+            "layover_duration": "3h 45min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "17:10 – 22:30",
+            "arrival_time": "14:20 – 20:45",
+            "duration": "5h 20min",
+            "price": "198 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 40min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "14:20 – 20:45",
+            "arrival_time": "N/A",
+            "duration": "6h 25min",
+            "price": "168 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LYS",
+            "layover_duration": "3h 15min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "14:10 – 22:45",
+            "arrival_time": "N/A",
+            "duration": "8h 35min",
+            "price": "106 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "easyJet",
+                "Eurowings"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:55 – 21:45",
+            "arrival_time": "17:40 – 22:45",
+            "duration": "3h 50min",
+            "price": "309 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 40min",
+            "airlines": [
+                "easyJet",
+                "Eurowings"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "11:50 – 17:45",
+            "arrival_time": "17:40 – 22:45",
+            "duration": "5h 55min",
+            "price": "220 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "GVA",
+            "layover_duration": "5h 40min",
+            "airlines": [
+                "easyJet",
+                "Eurowings"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "18:50 – 23:15",
+            "arrival_time": "17:40 – 22:45",
+            "duration": "4h 25min",
+            "price": "317 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "0h 50min",
+            "airlines": [
+                "easyJet",
+                "Eurowings"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "12:55 – 20:45",
+            "arrival_time": "17:40 – 22:45",
+            "duration": "7h 50min",
+            "price": "179 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 40min",
+            "airlines": [
+                "easyJet",
+                "Eurowings"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "11:50 – 18:50",
+            "arrival_time": "N/A",
+            "duration": "7h 00min",
+            "price": "211 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FRA",
+            "layover_duration": "1h 35min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "06:30 – 10:30",
+            "arrival_time": "17:40 – 22:45",
+            "duration": "4h 00min",
+            "price": "353 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "4h 05min",
+            "airlines": [
+                "easyJet",
+                "Eurowings"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "19:10 – 07:45+1",
+            "arrival_time": "N/A",
+            "duration": "12h 35min",
+            "price": "115 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "3h 40min",
+            "airlines": [
+                "easyJet",
+                "Ryanair"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "14:20 – 21:45",
+            "arrival_time": "N/A",
+            "duration": "7h 25min",
+            "price": "183 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 45min",
+            "airlines": [
+                "Vueling",
+                "Eurowings"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "11:00 – 20:10",
+            "arrival_time": "09:00 – 19:05",
+            "duration": "9h 10min",
+            "price": "155 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MRS",
+            "layover_duration": "9h 30min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "17:40 – 23:15",
+            "arrival_time": "09:00 – 19:05",
+            "duration": "5h 35min",
+            "price": "201 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BSL",
+            "layover_duration": "7h 15min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "14:35 – 19:05",
+            "arrival_time": "09:00 – 19:05",
+            "duration": "4h 30min",
+            "price": "406 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BCN",
+            "layover_duration": "3h 40min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "21:35 – 10:15+1",
+            "arrival_time": "09:00 – 19:05",
+            "duration": "12h 40min",
+            "price": "130 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BSL",
+            "layover_duration": "7h 15min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "21:35 – 12:10+1",
+            "arrival_time": "N/A",
+            "duration": "14h 35min",
+            "price": "121 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MRS",
+            "layover_duration": "6h 05min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "11:50 – 22:30",
+            "arrival_time": "09:00 – 19:05",
+            "duration": "10h 40min",
+            "price": "187 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "GVA",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "20:30 – 07:45+1",
+            "arrival_time": "N/A",
+            "duration": "11h 15min",
+            "price": "164 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 30min",
+            "airlines": [
+                "Transavia France",
+                "Ryanair"
+            ],
+            "fare_class": "Business Leisure"
+        },
+        {
+            "departure_time": "12:55 – 21:45",
+            "arrival_time": "N/A",
+            "duration": "8h 50min",
+            "price": "195 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling",
+                "Eurowings"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "07:00 – 20:10",
+            "arrival_time": "14:10 – 20:45",
+            "duration": "13h 10min",
+            "price": "155 €",
+            "origin_airport": "BOD",
+            "destination_airport": "PRG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "GVA",
+            "layover_duration": "9h 45min",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        }
+    ]
+}

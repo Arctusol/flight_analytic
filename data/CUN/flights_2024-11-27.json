@@ -1,0 +1,436 @@
+{
+    "search_date": "2024-11-22 05:47:04",
+    "flight_date": "2024-11-27",
+    "origin": "BOD",
+    "destination": "CUN",
+    "destination_city": "Cancún",
+    "url": "https://www.kayak.fr/flights/BOD-CUN/2024-11-27?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "18:00 – 12:55+1",
+            "arrival_time": "18:00 – 12:55\n+1",
+            "duration": "24h 55min",
+            "price": "896 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "IST",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "20:20 – 16:55+1",
+            "arrival_time": "18:00 – 12:55\n+1",
+            "duration": "26h 35min",
+            "price": "1 259 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "LGW",
+            "layover_duration": "13h 50min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "05:58 – 21:35",
+            "arrival_time": "18:00 – 12:55\n+1",
+            "duration": "21h 37min",
+            "price": "1 585 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "4h 20min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 01:20+1",
+            "arrival_time": "18:00 – 12:55\n+1",
+            "duration": "22h 15min",
+            "price": "1 676 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 50min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 19:45",
+            "arrival_time": "N/A",
+            "duration": "19h 45min",
+            "price": "2 726 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 02:32+1",
+            "arrival_time": "18:00 – 12:55\n+1",
+            "duration": "23h 27min",
+            "price": "1 676 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "7h 05min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:55 – 11:55+1",
+            "arrival_time": "N/A",
+            "duration": "24h 00min",
+            "price": "1 676 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 50min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:00 – 15:05+1",
+            "arrival_time": "N/A",
+            "duration": "27h 05min",
+            "price": "2 738 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 35min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "17:55 – 13:27+1",
+            "arrival_time": "20:20 – 16:55\n+1",
+            "duration": "25h 32min",
+            "price": "1 676 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "13h 55min",
+            "airlines": [
+                "British Airways"
+            ],
+            "fare_class": "Éco premium"
+        },
+        {
+            "departure_time": "06:00 – 21:03",
+            "arrival_time": "20:20 – 16:55\n+1",
+            "duration": "21h 03min",
+            "price": "2 762 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 35min",
+            "airlines": [
+                "British Airways"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 19:45",
+            "arrival_time": "20:20 – 16:55\n+1",
+            "duration": "19h 45min",
+            "price": "2 763 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "British Airways"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 21:03",
+            "arrival_time": "20:20 – 16:55\n+1",
+            "duration": "21h 03min",
+            "price": "2 875 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "British Airways"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:25 – 18:20+1",
+            "arrival_time": "N/A",
+            "duration": "29h 55min",
+            "price": "1 494 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "3h 00min",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Premium Select"
+        },
+        {
+            "departure_time": "06:00 – 19:45",
+            "arrival_time": "20:20 – 16:55\n+1",
+            "duration": "19h 45min",
+            "price": "2 763 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FRA",
+            "layover_duration": "11h 10min",
+            "airlines": [
+                "British Airways"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "17:55 – 13:45+1",
+            "arrival_time": "N/A",
+            "duration": "25h 50min",
+            "price": "1 676 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:50 – 16:55",
+            "arrival_time": "N/A",
+            "duration": "16h 05min",
+            "price": "2 291 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 35min",
+            "airlines": [
+                "easyJet",
+                "British Airways"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 19:45",
+            "arrival_time": "05:58 – 21:35",
+            "duration": "19h 45min",
+            "price": "2 726 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "LGW",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "Air Canada"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:40 – 19:45",
+            "arrival_time": "05:58 – 21:35",
+            "duration": "19h 05min",
+            "price": "2 730 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "7h 05min",
+            "airlines": [
+                "Air Canada"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:40 – 19:45",
+            "arrival_time": "05:58 – 21:35",
+            "duration": "19h 05min",
+            "price": "2 730 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "LYS",
+            "layover_duration": "2h 35min",
+            "airlines": [
+                "Air Canada"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 21:03",
+            "arrival_time": "05:58 – 21:35",
+            "duration": "21h 03min",
+            "price": "2 712 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "4h 20min",
+            "airlines": [
+                "Air Canada"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 19:45",
+            "arrival_time": "N/A",
+            "duration": "19h 45min",
+            "price": "2 763 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LYS",
+            "layover_duration": "4h 00min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 19:45",
+            "arrival_time": "05:58 – 21:35",
+            "duration": "19h 45min",
+            "price": "2 746 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "4h 20min",
+            "airlines": [
+                "Air Canada"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 19:45",
+            "arrival_time": "N/A",
+            "duration": "19h 45min",
+            "price": "2 763 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Premium Standard"
+        },
+        {
+            "departure_time": "06:00 – 19:45",
+            "arrival_time": "N/A",
+            "duration": "19h 45min",
+            "price": "2 746 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 21:03",
+            "arrival_time": "09:05 – 01:20\n+1",
+            "duration": "21h 03min",
+            "price": "2 762 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        }
+    ]
+}
