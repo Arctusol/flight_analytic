@@ -29,6 +29,11 @@ ENV/
 .venv
 .cursorignore
 
+#dbt
+target/
+dbt_packages/
+logs/
+
 # Données et logs
 data/logs/
 *.log

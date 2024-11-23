@@ -1,0 +1,53 @@
+version: 1
+
+sources:
+  - name: bigquery_raw
+    database: votre_projet_id
+    schema: votre_dataset
+    tables:
+      - name: combined_flights
+        description: "Données combinées des vols"
+        columns:
+          - name: flight_id
+            description: "Identifiant unique du vol"
+            tests:
+              - unique
+              - not_null
+          
+          - name: origin
+            description: "Aéroport de départ"
+            tests:
+              - not_null
+          
+          - name: destination
+            description: "Aéroport d'arrivée"
+            tests:
+              - not_null
+          
+          - name: flight_date
+            description: "Date du vol"
+            tests:
+              - not_null
+          
+          - name: price
+            description: "Prix du vol"
+            tests:
+              - not_null
+              - positive_values
+          
+          - name: duration
+            description: "Durée du vol en minutes"
+            tests:
+              - positive_values
+
+models:
+  - name: stg_flights
+    description: "Vue standardisée des données de vols"
+    columns:
+      - name: flight_id
+        tests:
+          - unique
+          - not_null
+      - name: price
+        tests:
+          - positive_values 

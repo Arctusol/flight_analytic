@@ -1,150 +1,84 @@
 {
-    "search_date": "2024-11-20 21:59:07",
+    "search_date": "2024-11-23 15:00:36",
     "flight_date": "2024-11-24",
     "origin": "BOD",
     "destination": "ROM",
     "destination_city": "Rome",
-    "url": "https://www.kayak.fr/flights/BOD-ROM/2024-11-24?sort=price_a",
+    "url": "https://www.kayak.fr/flights/BOD-ROM/2024-11-24?sort=bestflight_a",
     "flights": [
         {
             "departure_time": "12:10 – 14:15",
             "arrival_time": "direct",
             "duration": "2h 05min",
-            "price": "59 €",
+            "price": "100 €",
             "origin_airport": "BOD",
             "destination_airport": "FCO",
             "is_direct": true,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
+            "checked_baggage": "0",
+            "hand_baggage": "0",
             "layover_airport": "N/A",
             "layover_duration": "N/A",
             "airlines": [
                 "Volotea"
             ],
-            "fare_class": "Économique",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Economy"
         },
         {
-            "departure_time": "11:30 – 16:20",
-            "arrival_time": "12:10 – 14:15",
-            "duration": "4h 50min",
-            "price": "113 €",
+            "departure_time": "12:10 – 14:15",
+            "arrival_time": "direct",
+            "duration": "2h 05min",
+            "price": "100 €",
             "origin_airport": "BOD",
             "destination_airport": "FCO",
-            "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
+            "is_direct": true,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
             "layover_airport": "N/A",
             "layover_duration": "N/A",
             "airlines": [
                 "Volotea"
             ],
-            "fare_class": "Économique",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Economy"
         },
         {
             "departure_time": "18:45 – 23:10",
             "arrival_time": "12:10 – 14:15",
             "duration": "4h 25min",
-            "price": "152 €",
+            "price": "163 €",
             "origin_airport": "BOD",
             "destination_airport": "FCO",
             "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
+            "checked_baggage": "0",
+            "hand_baggage": "0",
             "layover_airport": "N/A",
             "layover_duration": "N/A",
             "airlines": [
                 "Volotea"
             ],
-            "fare_class": "Économique",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Economy"
         },
         {
-            "departure_time": "14:20 – 23:10",
+            "departure_time": "11:30 – 16:20",
             "arrival_time": "12:10 – 14:15",
-            "duration": "8h 50min",
-            "price": "156 €",
+            "duration": "4h 50min",
+            "price": "170 €",
             "origin_airport": "BOD",
             "destination_airport": "FCO",
             "is_direct": false,
             "checked_baggage": "N/A",
             "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
+            "layover_airport": "NCE",
+            "layover_duration": "1h 40min",
             "airlines": [
                 "Volotea"
             ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
-        },
-        {
-            "departure_time": "14:10 – 20:40",
-            "arrival_time": "N/A",
-            "duration": "6h 30min",
-            "price": "159 €",
-            "origin_airport": "BOD",
-            "destination_airport": "FCO",
-            "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
-            "airlines": [
-                "easyJet"
-            ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Economy"
         },
         {
             "departure_time": "14:10 – 19:25",
-            "arrival_time": "12:10 – 14:15",
+            "arrival_time": "N/A",
             "duration": "5h 15min",
-            "price": "164 €",
-            "origin_airport": "BOD",
-            "destination_airport": "FCO",
-            "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
-            "airlines": [
-                "Volotea"
-            ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
-        },
-        {
-            "departure_time": "10:45 – 19:25",
-            "arrival_time": "N/A",
-            "duration": "8h 40min",
-            "price": "164 €",
-            "origin_airport": "BOD",
-            "destination_airport": "FCO",
-            "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
-            "airlines": [
-                "Volotea",
-                "Wizz Air Malta"
-            ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
-        },
-        {
-            "departure_time": "14:25 – 22:10",
-            "arrival_time": "N/A",
-            "duration": "7h 45min",
-            "price": "175 €",
+            "price": "171 €",
             "origin_airport": "BOD",
             "destination_airport": "FCO",
             "is_direct": false,
@@ -154,55 +88,13 @@
             "layover_duration": "N/A",
             "airlines": [
                 "easyJet",
-                "Ryanair"
+                "Wizz Air"
             ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
-        },
-        {
-            "departure_time": "18:00 – 23:25",
-            "arrival_time": "11:30 – 16:20",
-            "duration": "5h 25min",
-            "price": "180 €",
-            "origin_airport": "BOD",
-            "destination_airport": "FCO",
-            "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "FLR",
-            "layover_duration": "2h 15min",
-            "airlines": [
-                "Volotea",
-                "ITA Airways"
-            ],
-            "fare_class": "Économique",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
-        },
-        {
-            "departure_time": "14:20 – 20:40",
-            "arrival_time": "11:30 – 16:20",
-            "duration": "6h 20min",
-            "price": "200 €",
-            "origin_airport": "BOD",
-            "destination_airport": "FCO",
-            "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "FLR",
-            "layover_duration": "2h 15min",
-            "airlines": [
-                "Volotea",
-                "ITA Airways"
-            ],
-            "fare_class": "Économique",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Economy"
         },
         {
             "departure_time": "18:00 – 23:10",
-            "arrival_time": "11:30 – 16:20",
+            "arrival_time": "12:10 – 14:15",
             "duration": "5h 10min",
             "price": "202 €",
             "origin_airport": "BOD",
@@ -213,32 +105,9 @@
             "layover_airport": "FLR",
             "layover_duration": "2h 15min",
             "airlines": [
-                "Volotea",
-                "ITA Airways"
+                "Volotea"
             ],
-            "fare_class": "Économique",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
-        },
-        {
-            "departure_time": "10:45 – 16:25",
-            "arrival_time": "11:30 – 16:20",
-            "duration": "5h 40min",
-            "price": "211 €",
-            "origin_airport": "BOD",
-            "destination_airport": "FCO",
-            "is_direct": false,
-            "checked_baggage": "N/A",
-            "hand_baggage": "N/A",
-            "layover_airport": "FLR",
-            "layover_duration": "2h 15min",
-            "airlines": [
-                "Volotea",
-                "ITA Airways"
-            ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Economy"
         },
         {
             "departure_time": "18:00 – 22:50",
@@ -250,41 +119,122 @@
             "is_direct": false,
             "checked_baggage": "N/A",
             "hand_baggage": "N/A",
-            "layover_airport": "N/A",
-            "layover_duration": "N/A",
+            "layover_airport": "LYS",
+            "layover_duration": "2h 25min",
             "airlines": [
                 "Vueling",
                 "Ryanair"
             ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Standard"
         },
         {
-            "departure_time": "07:15 – 16:15",
-            "arrival_time": "11:30 – 16:20",
-            "duration": "9h 00min",
-            "price": "260 €",
+            "departure_time": "14:10 – 20:40",
+            "arrival_time": "N/A",
+            "duration": "6h 30min",
+            "price": "170 €",
             "origin_airport": "BOD",
             "destination_airport": "FCO",
             "is_direct": false,
             "checked_baggage": "N/A",
             "hand_baggage": "N/A",
-            "layover_airport": "FLR",
-            "layover_duration": "2h 15min",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 05min",
             "airlines": [
-                "Volotea",
-                "ITA Airways"
+                "easyJet"
             ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Economy"
         },
         {
-            "departure_time": "11:30 – 20:10",
+            "departure_time": "18:00 – 23:25",
+            "arrival_time": "12:10 – 14:15",
+            "duration": "5h 25min",
+            "price": "334 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Volotea"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "10:45 – 16:25",
+            "arrival_time": "12:10 – 14:15",
+            "duration": "5h 40min",
+            "price": "255 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BCN",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "Volotea"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "14:20 – 20:40",
+            "arrival_time": "12:10 – 14:15",
+            "duration": "6h 20min",
+            "price": "236 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LYS",
+            "layover_duration": "3h 40min",
+            "airlines": [
+                "Volotea"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "14:55 – 19:10",
+            "arrival_time": "12:10 – 14:15",
+            "duration": "4h 15min",
+            "price": "693 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 30min",
+            "airlines": [
+                "Volotea"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:15 – 00:30+1",
             "arrival_time": "N/A",
-            "duration": "8h 40min",
-            "price": "273 €",
+            "duration": "6h 15min",
+            "price": "307 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "VCE",
+            "layover_duration": "2h 35min",
+            "airlines": [
+                "easyJet",
+                "Wizz Air"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "14:20 – 23:10",
+            "arrival_time": "12:10 – 14:15",
+            "duration": "8h 50min",
+            "price": "183 €",
             "origin_airport": "BOD",
             "destination_airport": "FCO",
             "is_direct": false,
@@ -293,12 +243,204 @@
             "layover_airport": "N/A",
             "layover_duration": "N/A",
             "airlines": [
+                "Volotea"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:15 – 00:10+1",
+            "arrival_time": "N/A",
+            "duration": "5h 55min",
+            "price": "364 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "NCE",
+            "layover_duration": "3h 45min",
+            "airlines": [
+                "easyJet",
+                "Vueling"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "14:25 – 22:10",
+            "arrival_time": "N/A",
+            "duration": "7h 45min",
+            "price": "228 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ZRH",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "easyJet",
+                "Ryanair"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "09:05 – 13:55",
+            "arrival_time": "18:45 – 23:10",
+            "duration": "4h 50min",
+            "price": "735 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LGW",
+            "layover_duration": "2h 00min",
+            "airlines": [
+                "Volotea",
+                "Wizz Air"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "07:10 – 13:50",
+            "arrival_time": "18:45 – 23:10",
+            "duration": "6h 40min",
+            "price": "377 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "NCE",
+            "layover_duration": "6h 15min",
+            "airlines": [
+                "Volotea",
+                "Wizz Air"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "14:55 – 20:15",
+            "arrival_time": "18:45 – 23:10",
+            "duration": "5h 20min",
+            "price": "549 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LGW",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "Volotea",
+                "Wizz Air"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 15:05",
+            "arrival_time": "18:45 – 23:10",
+            "duration": "6h 00min",
+            "price": "441 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "NCE",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "Volotea",
+                "Wizz Air"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "17:55 – 00:15+1",
+            "arrival_time": "N/A",
+            "duration": "6h 20min",
+            "price": "516 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MRS",
+            "layover_duration": "5h 05min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 15:30",
+            "arrival_time": "18:45 – 23:10",
+            "duration": "6h 25min",
+            "price": "416 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "NCE",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "Volotea",
+                "Wizz Air"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "14:55 – 19:45",
+            "arrival_time": "N/A",
+            "duration": "4h 50min",
+            "price": "1 010 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Business Optimal"
+        },
+        {
+            "departure_time": "18:00 – 23:25",
+            "arrival_time": "N/A",
+            "duration": "5h 25min",
+            "price": "858 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ATH",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "11:30 – 20:10",
+            "arrival_time": "11:30 – 16:20",
+            "duration": "8h 40min",
+            "price": "301 €",
+            "origin_airport": "BOD",
+            "destination_airport": "FCO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "ZRH",
+            "layover_duration": "2h 10min",
+            "airlines": [
                 "Volotea",
                 "ITA Airways"
             ],
-            "fare_class": "N/A",
-            "flight_number": "N/A",
-            "equipment_type": "N/A"
+            "fare_class": "Elight"
         }
     ]
 }

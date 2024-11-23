@@ -844,7 +844,7 @@ def process_destination_with_semaphore(destination):
         print(f"\nScraping des vols pour {DESTINATIONS[destination]}")
         
         # Créer le dossier pour la destination
-        destination_dir = os.path.join("data", destination)
+        destination_dir = os.path.join("/data", destination)
         os.makedirs(destination_dir, exist_ok=True)
         
         # Générer les dates
@@ -923,9 +923,9 @@ def main():
 
         # Configuration initiale
         start_date = datetime.now().strftime("%Y-%m-%d")
-        end_date = "2025-06-30"
+        end_date = "2025-05-01"
         dates = generate_dates(start_date, end_date)
-        max_workers = 6  # Augmenté de 2 à 4 workers
+        max_workers = 8  # Augmenté de 2 à 4 workers
         
         print(f"Dates générées: {len(dates)} jours")
         print(f"Nombre de workers: {max_workers}")
