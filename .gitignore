@@ -41,7 +41,8 @@ data/logs/
 *.key
 *.crt
 halogen-oxide-439310-e7-e48a5c92af47.json
-*.yaml
+*config.yaml
+
 
 # IDE
 .idea/

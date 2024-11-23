@@ -1,0 +1,454 @@
+{
+    "search_date": "2024-11-23 06:27:03",
+    "flight_date": "2025-01-22",
+    "origin": "BOD",
+    "destination": "EZE",
+    "destination_city": "Buenos Aires",
+    "url": "https://www.kayak.fr/flights/BOD-EZE/2025-01-22?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "18:55 – 17:55+1",
+            "arrival_time": "18:55 – 17:55\n+1",
+            "duration": "27h 00min",
+            "price": "665 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "BCN",
+            "layover_duration": "12h 10min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 21:00",
+            "arrival_time": "18:55 – 17:55\n+1",
+            "duration": "15h 55min",
+            "price": "734 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 55min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 19:55+1",
+            "arrival_time": "18:55 – 17:55\n+1",
+            "duration": "30h 00min",
+            "price": "635 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 15min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "18:55 – 17:55+1",
+            "arrival_time": "18:55 – 17:55\n+1",
+            "duration": "27h 00min",
+            "price": "660 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "12h 10min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "17:55 – 08:40+1",
+            "arrival_time": "N/A",
+            "duration": "18h 45min",
+            "price": "734 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "12h 10min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:00 – 07:00+1",
+            "arrival_time": "18:55 – 17:55\n+1",
+            "duration": "17h 00min",
+            "price": "803 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "12h 10min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "13:00 – 04:40+1",
+            "arrival_time": "N/A",
+            "duration": "19h 40min",
+            "price": "741 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 39min",
+            "airlines": [
+                "Volotea",
+                "Aerolineas Argentinas"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 04:10+1",
+            "arrival_time": "N/A",
+            "duration": "23h 05min",
+            "price": "702 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "Iberia",
+                "Aerolineas Argentinas"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:00 – 07:00+1",
+            "arrival_time": "09:05 – 21:00",
+            "duration": "17h 00min",
+            "price": "874 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "FCO",
+            "layover_duration": "3h 10min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "17:55 – 08:50+1",
+            "arrival_time": "09:05 – 21:00",
+            "duration": "18h 55min",
+            "price": "801 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 55min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "12:30 – 07:00+1",
+            "arrival_time": "09:05 – 21:00",
+            "duration": "22h 30min",
+            "price": "803 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "8h 30min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "06:00 – 20:25",
+            "arrival_time": "09:05 – 21:00",
+            "duration": "18h 25min",
+            "price": "1 010 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:20 – 04:10+1",
+            "arrival_time": "N/A",
+            "duration": "22h 50min",
+            "price": "692 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 35min",
+            "airlines": [
+                "Transavia France",
+                "Iberia Express",
+                "Aerolineas Argentinas"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:50 – 04:10+1",
+            "arrival_time": "09:05 – 21:00",
+            "duration": "25h 20min",
+            "price": "673 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "7h 00min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 00:25+1",
+            "arrival_time": "N/A",
+            "duration": "19h 20min",
+            "price": "845 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 01:30+1",
+            "arrival_time": "N/A",
+            "duration": "20h 25min",
+            "price": "783 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 10min",
+            "airlines": [
+                "Iberia",
+                "BoA"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "20:10 – 14:35+1",
+            "arrival_time": "17:55 – 19:55\n+1",
+            "duration": "22h 25min",
+            "price": "935 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "RAK",
+            "layover_duration": "2h 25min",
+            "airlines": [
+                "Iberia",
+                "Avianca",
+                "Ethiopian Air"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:55 – 17:55+1",
+            "arrival_time": "17:55 – 19:55\n+1",
+            "duration": "27h 00min",
+            "price": "802 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "LGW-STN",
+            "layover_duration": "Escale de 4h 40min, ,[object Object]",
+            "airlines": [
+                "Iberia",
+                "Avianca",
+                "Ethiopian Air"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 00:25+1",
+            "arrival_time": "17:55 – 19:55\n+1",
+            "duration": "19h 20min",
+            "price": "997 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "Iberia",
+                "Avianca",
+                "Ethiopian Air"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "12:30 – 08:45+1",
+            "arrival_time": "17:55 – 19:55\n+1",
+            "duration": "24h 15min",
+            "price": "761 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 15min",
+            "airlines": [
+                "Iberia",
+                "Avianca",
+                "Ethiopian Air"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "12:30 – 07:00+1",
+            "arrival_time": "N/A",
+            "duration": "22h 30min",
+            "price": "1 021 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "Air France",
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "15:55 – 07:00+1",
+            "arrival_time": "17:55 – 19:55\n+1",
+            "duration": "19h 05min",
+            "price": "1 130 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 15min",
+            "airlines": [
+                "Iberia",
+                "Avianca",
+                "Ethiopian Air"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "15:55 – 07:00+1",
+            "arrival_time": "N/A",
+            "duration": "19h 05min",
+            "price": "1 130 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "12h 10min",
+            "airlines": [
+                "Air France",
+                "KLM"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 15:25+1",
+            "arrival_time": "N/A",
+            "duration": "25h 30min",
+            "price": "801 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "LATAM Airlines",
+                "Air Canada"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "18:35 – 14:35+1",
+            "arrival_time": "18:55 – 17:55\n+1",
+            "duration": "24h 00min",
+            "price": "1 114 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "3h 35min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Light"
+        }
+    ]
+}

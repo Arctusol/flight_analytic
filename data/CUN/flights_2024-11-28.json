@@ -1,0 +1,466 @@
+{
+    "search_date": "2024-11-23 03:42:29",
+    "flight_date": "2024-11-28",
+    "origin": "BOD",
+    "destination": "CUN",
+    "destination_city": "Cancún",
+    "url": "https://www.kayak.fr/flights/BOD-CUN/2024-11-28?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "06:00 – 19:10",
+            "arrival_time": "06:00 – 19:10",
+            "duration": "19h 10min",
+            "price": "978 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 05min",
+            "airlines": [
+                "Air France",
+                "Air Transat"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "21:30 – 16:40+1",
+            "arrival_time": "06:00 – 19:10",
+            "duration": "25h 10min",
+            "price": "495 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "GVA",
+            "layover_duration": "7h 50min",
+            "airlines": [
+                "Air France",
+                "Air Transat"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 20:25",
+            "arrival_time": "06:00 – 19:10",
+            "duration": "17h 20min",
+            "price": "885 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 05min",
+            "airlines": [
+                "Air France",
+                "Air Transat"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "21:50 – 16:40+1",
+            "arrival_time": "06:00 – 19:10",
+            "duration": "24h 50min",
+            "price": "591 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 50min",
+            "airlines": [
+                "Air France",
+                "Air Transat"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "17:55 – 13:29+1",
+            "arrival_time": "N/A",
+            "duration": "25h 34min",
+            "price": "746 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia",
+                "Aeromexico"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "22:40 – 16:20+1",
+            "arrival_time": "06:00 – 19:10",
+            "duration": "23h 40min",
+            "price": "777 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MXP-LIN",
+            "layover_duration": "Escale de 7h 35min, ,[object Object]",
+            "airlines": [
+                "Air France",
+                "Air Transat"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 19:10",
+            "arrival_time": "N/A",
+            "duration": "19h 10min",
+            "price": "1 010 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 25min",
+            "airlines": [
+                "Air France",
+                "Air Transat"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "21:50 – 17:00+1",
+            "arrival_time": "N/A",
+            "duration": "25h 10min",
+            "price": "763 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LIS",
+            "layover_duration": "5h 25min",
+            "airlines": [
+                "easyJet",
+                "Air Dolomiti",
+                "Condor"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 18:30",
+            "arrival_time": "21:30 – 16:40\n+1",
+            "duration": "18h 30min",
+            "price": "1 079 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 05min",
+            "airlines": [
+                "easyJet",
+                "TUI Fly Belgium"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:00 – 23:59+1",
+            "arrival_time": "21:30 – 16:40\n+1",
+            "duration": "36h 59min",
+            "price": "502 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MXP",
+            "layover_duration": "7h 35min",
+            "airlines": [
+                "easyJet",
+                "TUI Fly Belgium"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "17:55 – 11:35+1",
+            "arrival_time": "21:30 – 16:40\n+1",
+            "duration": "23h 40min",
+            "price": "954 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 45min",
+            "airlines": [
+                "easyJet",
+                "TUI Fly Belgium"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:55 – 11:58+1",
+            "arrival_time": "21:30 – 16:40\n+1",
+            "duration": "24h 03min",
+            "price": "939 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "VCE",
+            "layover_duration": "0h 50min",
+            "airlines": [
+                "easyJet",
+                "TUI Fly Belgium"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "17:00 – 11:35+1",
+            "arrival_time": "N/A",
+            "duration": "24h 35min",
+            "price": "985 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 15min",
+            "airlines": [
+                "Volotea",
+                "Iberia",
+                "Avianca"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "21:50 – 17:00+1",
+            "arrival_time": "21:30 – 16:40\n+1",
+            "duration": "25h 10min",
+            "price": "1 011 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 15min",
+            "airlines": [
+                "easyJet",
+                "TUI Fly Belgium"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "05:58 – 21:35",
+            "arrival_time": "N/A",
+            "duration": "21h 37min",
+            "price": "1 585 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "VCE",
+            "layover_duration": "0h 50min",
+            "airlines": [
+                "Air Canada"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "17:55 – 11:03+1",
+            "arrival_time": "N/A",
+            "duration": "23h 08min",
+            "price": "1 317 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MXP-LIN",
+            "layover_duration": "Escale de 7h 05min, ,[object Object]",
+            "airlines": [
+                "Iberia",
+                "Aeromexico"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "21:30 – 17:00+1",
+            "arrival_time": "09:05 – 20:25",
+            "duration": "25h 30min",
+            "price": "1 039 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "4h 20min",
+            "airlines": [
+                "Iberia",
+                "Air Europa"
+            ],
+            "fare_class": "Flex"
+        },
+        {
+            "departure_time": "15:45 – 10:10+1",
+            "arrival_time": "09:05 – 20:25",
+            "duration": "24h 25min",
+            "price": "1 163 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 25min",
+            "airlines": [
+                "Iberia",
+                "Air Europa"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "15:45 – 10:23+1",
+            "arrival_time": "09:05 – 20:25",
+            "duration": "24h 38min",
+            "price": "1 182 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 50min",
+            "airlines": [
+                "Iberia",
+                "Air Europa"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 01:20+1",
+            "arrival_time": "09:05 – 20:25",
+            "duration": "22h 15min",
+            "price": "1 657 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "GVA",
+            "layover_duration": "9h 55min",
+            "airlines": [
+                "Iberia",
+                "Air Europa"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "17:55 – 10:23+1",
+            "arrival_time": "N/A",
+            "duration": "22h 28min",
+            "price": "1 526 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LYS",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "Iberia",
+                "Aeromexico"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 02:32+1",
+            "arrival_time": "09:05 – 20:25",
+            "duration": "23h 27min",
+            "price": "1 657 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LYS",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "Iberia",
+                "Air Europa"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "15:25 – 10:10+1",
+            "arrival_time": "N/A",
+            "duration": "24h 45min",
+            "price": "1 373 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Aer Lingus",
+                "British Airways",
+                "Aeromexico",
+                "Viva"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "13:50 – 09:27+1",
+            "arrival_time": "N/A",
+            "duration": "25h 37min",
+            "price": "1 427 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 50min",
+            "airlines": [
+                "easyJet",
+                "SWISS",
+                "Aeromexico",
+                "Volaris"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "13:50 – 09:27+1",
+            "arrival_time": "21:50 – 16:40\n+1",
+            "duration": "25h 37min",
+            "price": "1 636 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Brussels Airlines",
+                "TUI Fly Belgium"
+            ],
+            "fare_class": "Light"
+        }
+    ]
+}

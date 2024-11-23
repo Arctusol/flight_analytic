@@ -1,0 +1,452 @@
+{
+    "search_date": "2024-11-23 02:34:53",
+    "flight_date": "2025-04-07",
+    "origin": "BOD",
+    "destination": "YUL",
+    "destination_city": "Montréal",
+    "url": "https://www.kayak.fr/flights/BOD-YUL/2025-04-07?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "10:50 – 19:23",
+            "arrival_time": "10:50 – 19:23",
+            "duration": "14h 33min",
+            "price": "748 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "DUB",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "Aer Lingus"
+            ],
+            "fare_class": "Saver"
+        },
+        {
+            "departure_time": "15:05 – 21:10",
+            "arrival_time": "10:50 – 19:23",
+            "duration": "12h 05min",
+            "price": "349 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "LIS",
+            "layover_duration": "2h 20min",
+            "airlines": [
+                "Aer Lingus"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "07:15 – 14:40",
+            "arrival_time": "10:50 – 19:23",
+            "duration": "13h 25min",
+            "price": "480 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "DUB",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "Aer Lingus"
+            ],
+            "fare_class": "Saver"
+        },
+        {
+            "departure_time": "06:00 – 12:50",
+            "arrival_time": "10:50 – 19:23",
+            "duration": "12h 50min",
+            "price": "570 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MRS",
+            "layover_duration": "3h 40min",
+            "airlines": [
+                "Aer Lingus"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "10:50 – 21:10",
+            "arrival_time": "N/A",
+            "duration": "16h 20min",
+            "price": "368 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Volotea",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Saver"
+        },
+        {
+            "departure_time": "10:50 – 21:10",
+            "arrival_time": "10:50 – 19:23",
+            "duration": "16h 20min",
+            "price": "377 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 35min",
+            "airlines": [
+                "Aer Lingus"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 20:10",
+            "arrival_time": "N/A",
+            "duration": "17h 05min",
+            "price": "386 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 50min",
+            "airlines": [
+                "Air France",
+                "Azores Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "15:05 – 00:39+1",
+            "arrival_time": "N/A",
+            "duration": "15h 34min",
+            "price": "474 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL",
+                "WestJet"
+            ],
+            "fare_class": "Saver"
+        },
+        {
+            "departure_time": "09:45 – 20:20",
+            "arrival_time": "15:05 – 21:10",
+            "duration": "16h 35min",
+            "price": "773 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:45 – 20:20",
+            "arrival_time": "15:05 – 21:10",
+            "duration": "16h 35min",
+            "price": "783 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 35min",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:45 – 20:20",
+            "arrival_time": "15:05 – 21:10",
+            "duration": "16h 35min",
+            "price": "783 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LIS",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "10:15 – 20:10",
+            "arrival_time": "15:05 – 21:10",
+            "duration": "15h 55min",
+            "price": "518 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 7h 45min, ,[object Object]",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "10:50 – 19:23",
+            "arrival_time": "N/A",
+            "duration": "14h 33min",
+            "price": "671 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Aer Lingus"
+            ],
+            "fare_class": "Saver"
+        },
+        {
+            "departure_time": "09:45 – 20:20",
+            "arrival_time": "15:05 – 21:10",
+            "duration": "16h 35min",
+            "price": "785 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 7h 45min, ,[object Object]",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "10:55 – 21:10",
+            "arrival_time": "N/A",
+            "duration": "16h 15min",
+            "price": "565 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 7h 45min, ,[object Object]",
+            "airlines": [
+                "Lufthansa",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "10:50 – 20:53",
+            "arrival_time": "N/A",
+            "duration": "16h 03min",
+            "price": "671 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 25min",
+            "airlines": [
+                "Aer Lingus"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:35 – 14:40",
+            "arrival_time": "07:15 – 14:40",
+            "duration": "14h 05min",
+            "price": "603 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "DUB",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "easyJet",
+                "Air Transat"
+            ],
+            "fare_class": "Smart"
+        },
+        {
+            "departure_time": "15:05 – 01:53+1",
+            "arrival_time": "07:15 – 14:40",
+            "duration": "16h 48min",
+            "price": "560 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MRS",
+            "layover_duration": "3h 40min",
+            "airlines": [
+                "easyJet",
+                "Air Transat"
+            ],
+            "fare_class": "Saver"
+        },
+        {
+            "departure_time": "10:50 – 21:18",
+            "arrival_time": "07:15 – 14:40",
+            "duration": "16h 28min",
+            "price": "671 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 7h 45min, ,[object Object]",
+            "airlines": [
+                "easyJet",
+                "Air Transat"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "09:05 – 19:50",
+            "arrival_time": "07:15 – 14:40",
+            "duration": "16h 45min",
+            "price": "562 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MUC",
+            "layover_duration": "0h 50min",
+            "airlines": [
+                "easyJet",
+                "Air Transat"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "10:50 – 20:20",
+            "arrival_time": "N/A",
+            "duration": "15h 30min",
+            "price": "736 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "DUB",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "Aer Lingus"
+            ],
+            "fare_class": "Smart"
+        },
+        {
+            "departure_time": "09:05 – 20:20",
+            "arrival_time": "07:15 – 14:40",
+            "duration": "17h 15min",
+            "price": "796 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MRS",
+            "layover_duration": "3h 40min",
+            "airlines": [
+                "easyJet",
+                "Air Transat"
+            ],
+            "fare_class": "Saver"
+        },
+        {
+            "departure_time": "09:05 – 20:20",
+            "arrival_time": "N/A",
+            "duration": "17h 15min",
+            "price": "796 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LYS",
+            "layover_duration": "0h 35min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 20:20",
+            "arrival_time": "N/A",
+            "duration": "17h 15min",
+            "price": "783 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LIS",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "Iberia",
+                "Finnair"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "10:50 – 20:20",
+            "arrival_time": "06:00 – 12:50",
+            "duration": "15h 30min",
+            "price": "870 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YUL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "DUB",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "Air France",
+                "Air Transat"
+            ],
+            "fare_class": "Smart"
+        }
+    ]
+}

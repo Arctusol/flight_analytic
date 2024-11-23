@@ -1,0 +1,447 @@
+{
+    "search_date": "2024-11-23 11:27:18",
+    "flight_date": "2025-01-11",
+    "origin": "BOD",
+    "destination": "RIO",
+    "destination_city": "Rio de Janeiro",
+    "url": "https://www.kayak.fr/flights/BOD-RIO/2025-01-11?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "09:05 – 18:50",
+            "arrival_time": "09:05 – 18:50",
+            "duration": "13h 45min",
+            "price": "856 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 30min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 18:50",
+            "arrival_time": "09:05 – 18:50",
+            "duration": "13h 45min",
+            "price": "743 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 30min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "21:45 – 20:05+1",
+            "arrival_time": "09:05 – 18:50",
+            "duration": "26h 20min",
+            "price": "656 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "BCN",
+            "layover_duration": "7h 40min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "17:55 – 08:00+1",
+            "arrival_time": "09:05 – 18:50",
+            "duration": "18h 05min",
+            "price": "698 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 30min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 18:40",
+            "arrival_time": "N/A",
+            "duration": "16h 40min",
+            "price": "733 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 18:50",
+            "arrival_time": "09:05 – 18:50",
+            "duration": "13h 45min",
+            "price": "766 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 30min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 18:40",
+            "arrival_time": "N/A",
+            "duration": "16h 40min",
+            "price": "733 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:55 – 09:35+1",
+            "arrival_time": "N/A",
+            "duration": "19h 40min",
+            "price": "698 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 30min",
+            "airlines": [
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "14:40 – 05:55+1",
+            "arrival_time": "09:05 – 18:50",
+            "duration": "19h 15min",
+            "price": "707 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:55 – 11:50+1",
+            "arrival_time": "09:05 – 18:50",
+            "duration": "21h 55min",
+            "price": "702 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SDU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 18:40",
+            "arrival_time": "09:05 – 18:50",
+            "duration": "16h 40min",
+            "price": "818 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "ZRH",
+            "layover_duration": "2h 35min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "17:55 – 08:00+1",
+            "arrival_time": "09:05 – 18:50",
+            "duration": "18h 05min",
+            "price": "756 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 09:35+1",
+            "arrival_time": "N/A",
+            "duration": "19h 40min",
+            "price": "740 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 18:20",
+            "arrival_time": "09:05 – 18:50",
+            "duration": "16h 20min",
+            "price": "961 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:55 – 10:20+1",
+            "arrival_time": "N/A",
+            "duration": "20h 25min",
+            "price": "758 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SDU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "17:55 – 08:00+1",
+            "arrival_time": "N/A",
+            "duration": "18h 05min",
+            "price": "879 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 25min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:40 – 20:50",
+            "arrival_time": "21:45 – 20:05\n+1",
+            "duration": "14h 10min",
+            "price": "1 256 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 12:50+1",
+            "arrival_time": "21:45 – 20:05\n+1",
+            "duration": "22h 55min",
+            "price": "758 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SDU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 20:50",
+            "arrival_time": "21:45 – 20:05\n+1",
+            "duration": "18h 50min",
+            "price": "1 042 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "14:40 – 05:55+1",
+            "arrival_time": "21:45 – 20:05\n+1",
+            "duration": "19h 15min",
+            "price": "819 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 20:50",
+            "arrival_time": "N/A",
+            "duration": "18h 50min",
+            "price": "847 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "5h 55min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 20:50",
+            "arrival_time": "21:45 – 20:05\n+1",
+            "duration": "18h 50min",
+            "price": "847 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ZRH",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "Vueling",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "06:00 – 20:50",
+            "arrival_time": "N/A",
+            "duration": "18h 50min",
+            "price": "847 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:55 – 09:10+1",
+            "arrival_time": "N/A",
+            "duration": "19h 15min",
+            "price": "879 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SDU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 09:10+1",
+            "arrival_time": "17:55 – 08:00\n+1",
+            "duration": "19h 15min",
+            "price": "823 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SDU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Light"
+        }
+    ]
+}

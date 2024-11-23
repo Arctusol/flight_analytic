@@ -1,0 +1,446 @@
+{
+    "search_date": "2024-11-23 10:43:51",
+    "flight_date": "2024-12-05",
+    "origin": "BOD",
+    "destination": "DXB",
+    "destination_city": "Dubai",
+    "url": "https://www.kayak.fr/flights/BOD-DXB/2024-12-05?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "12:00 – 03:10+1",
+            "arrival_time": "12:00 – 03:10\n+1",
+            "duration": "12h 10min",
+            "price": "417 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "IST",
+            "layover_duration": "3h 55min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "14:50 – 15:50+1",
+            "arrival_time": "12:00 – 03:10\n+1",
+            "duration": "22h 00min",
+            "price": "357 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DWC",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "IST",
+            "layover_duration": "3h 55min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "12:00 – 01:10+1",
+            "arrival_time": "12:00 – 03:10\n+1",
+            "duration": "10h 10min",
+            "price": "673 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "LYS",
+            "layover_duration": "14h 00min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "20:10 – 09:00+1",
+            "arrival_time": "12:00 – 03:10\n+1",
+            "duration": "9h 50min",
+            "price": "733 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "IST",
+            "layover_duration": "1h 55min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:35 – 09:00+1",
+            "arrival_time": "N/A",
+            "duration": "11h 25min",
+            "price": "753 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:30 – 22:55+1",
+            "arrival_time": "12:00 – 03:10\n+1",
+            "duration": "25h 25min",
+            "price": "547 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 35min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "12:58 – 11:55+1",
+            "arrival_time": "N/A",
+            "duration": "19h 57min",
+            "price": "513 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 10min",
+            "airlines": [
+                "Qatar Airways"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "12:00 – 06:50+1",
+            "arrival_time": "N/A",
+            "duration": "15h 50min",
+            "price": "576 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:35 – 15:50+1",
+            "arrival_time": "14:50 – 15:50\n+1",
+            "duration": "18h 15min",
+            "price": "586 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DWC",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "FRA",
+            "layover_duration": "17h 10min",
+            "airlines": [
+                "Air France",
+                "Transavia France"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "15:55 – 09:00+1",
+            "arrival_time": "14:50 – 15:50\n+1",
+            "duration": "14h 05min",
+            "price": "753 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "5h 19min",
+            "airlines": [
+                "Air France",
+                "Transavia France"
+            ],
+            "fare_class": "Economy Classic"
+        },
+        {
+            "departure_time": "14:55 – 22:15+1",
+            "arrival_time": "14:50 – 15:50\n+1",
+            "duration": "28h 20min",
+            "price": "564 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "IST",
+            "layover_duration": "7h 35min",
+            "airlines": [
+                "Air France",
+                "Transavia France"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "06:00 – 00:01+1",
+            "arrival_time": "14:50 – 15:50\n+1",
+            "duration": "15h 01min",
+            "price": "754 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LYS",
+            "layover_duration": "10h 15min",
+            "airlines": [
+                "Air France",
+                "Transavia France"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 00:01+1",
+            "arrival_time": "N/A",
+            "duration": "15h 01min",
+            "price": "754 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:30 – 22:15+1",
+            "arrival_time": "14:50 – 15:50\n+1",
+            "duration": "24h 45min",
+            "price": "560 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "5h 50min",
+            "airlines": [
+                "Air France",
+                "Transavia France"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "19:20 – 01:30+2",
+            "arrival_time": "N/A",
+            "duration": "27h 10min",
+            "price": "580 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ZRH",
+            "layover_duration": "20h 35min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "07:00 – 03:10+1",
+            "arrival_time": "N/A",
+            "duration": "17h 10min",
+            "price": "319 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "6h 35min",
+            "airlines": [
+                "easyJet",
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "12:40 – 09:00+1",
+            "arrival_time": "12:00 – 01:10\n+1",
+            "duration": "17h 20min",
+            "price": "444 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "6h 35min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "12:00 – 06:00+1",
+            "arrival_time": "12:00 – 01:10\n+1",
+            "duration": "15h 00min",
+            "price": "413 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "IST",
+            "layover_duration": "1h 55min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "07:00 – 00:05+1",
+            "arrival_time": "12:00 – 01:10\n+1",
+            "duration": "14h 05min",
+            "price": "422 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "FRA",
+            "layover_duration": "11h 05min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "13:50 – 06:35+1",
+            "arrival_time": "12:00 – 01:10\n+1",
+            "duration": "13h 45min",
+            "price": "462 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CMN",
+            "layover_duration": "17h 30min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "07:00 – 01:10+1",
+            "arrival_time": "N/A",
+            "duration": "15h 10min",
+            "price": "403 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "12:00 – 06:00+1",
+            "arrival_time": "12:00 – 01:10\n+1",
+            "duration": "15h 00min",
+            "price": "435 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ATH",
+            "layover_duration": "1h 55min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "12:30 – 06:35+1",
+            "arrival_time": "N/A",
+            "duration": "15h 05min",
+            "price": "442 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BER",
+            "layover_duration": "7h 50min",
+            "airlines": [
+                "easyJet",
+                "Wizz Air",
+                "flydubai"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "11:30 – 06:35+1",
+            "arrival_time": "N/A",
+            "duration": "16h 05min",
+            "price": "392 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "IST",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "Volotea",
+                "Wizz Air",
+                "flydubai"
+            ],
+            "fare_class": "Ps"
+        },
+        {
+            "departure_time": "12:00 – 06:50+1",
+            "arrival_time": "20:10 – 09:00\n+1",
+            "duration": "15h 50min",
+            "price": "576 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 35min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Economy"
+        }
+    ]
+}

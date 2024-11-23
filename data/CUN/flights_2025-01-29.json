@@ -1,0 +1,460 @@
+{
+    "search_date": "2024-11-23 05:34:48",
+    "flight_date": "2025-01-29",
+    "origin": "BOD",
+    "destination": "CUN",
+    "destination_city": "Cancún",
+    "url": "https://www.kayak.fr/flights/BOD-CUN/2025-01-29?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "18:00 – 12:55+1",
+            "arrival_time": "18:00 – 12:55+1",
+            "duration": "24h 55min",
+            "price": "650 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "IST",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "09:05 – 01:15+1",
+            "arrival_time": "18:00 – 12:55+1",
+            "duration": "22h 10min",
+            "price": "414 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 00min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 02:32+2",
+            "arrival_time": "18:00 – 12:55+1",
+            "duration": "38h 37min",
+            "price": "395 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "15h 45min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 18:15",
+            "arrival_time": "18:00 – 12:55+1",
+            "duration": "18h 15min",
+            "price": "628 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "IST",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "17:55 – 11:45+1",
+            "arrival_time": "N/A",
+            "duration": "23h 50min",
+            "price": "537 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 45min",
+            "airlines": [
+                "Iberia",
+                "Aeromexico",
+                "Viva"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 00:53+1",
+            "arrival_time": "18:00 – 12:55+1",
+            "duration": "21h 48min",
+            "price": "586 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "IST",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "18:00 – 12:55+1",
+            "arrival_time": "N/A",
+            "duration": "24h 55min",
+            "price": "640 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 25min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 18:05",
+            "arrival_time": "N/A",
+            "duration": "18h 05min",
+            "price": "923 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 00min",
+            "airlines": [
+                "Air France",
+                "Air Caraïbes"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 11:35+1",
+            "arrival_time": "09:05 – 01:15+1",
+            "duration": "23h 40min",
+            "price": "658 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 00min",
+            "airlines": [
+                "Iberia",
+                "Aeromexico",
+                "Viva"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "15:55 – 09:33+1",
+            "arrival_time": "09:05 – 01:15+1",
+            "duration": "23h 38min",
+            "price": "660 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "IST",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "Iberia",
+                "Aeromexico",
+                "Viva"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "06:00 – 19:10",
+            "arrival_time": "09:05 – 01:15+1",
+            "duration": "19h 10min",
+            "price": "808 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG-ORY",
+            "layover_duration": "Escale de 5h 25min, ,[object Object]",
+            "airlines": [
+                "Iberia",
+                "Aeromexico",
+                "Viva"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:55 – 10:18+1",
+            "arrival_time": "09:05 – 01:15+1",
+            "duration": "22h 23min",
+            "price": "944 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 15min",
+            "airlines": [
+                "Iberia",
+                "Aeromexico",
+                "Viva"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 01:15+1",
+            "arrival_time": "N/A",
+            "duration": "22h 10min",
+            "price": "1 086 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "5h 40min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:55 – 10:18+1",
+            "arrival_time": "09:05 – 01:15+1",
+            "duration": "22h 23min",
+            "price": "964 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 00min",
+            "airlines": [
+                "Iberia",
+                "Aeromexico",
+                "Viva"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "18:00 – 13:45+1",
+            "arrival_time": "N/A",
+            "duration": "25h 45min",
+            "price": "867 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 05min",
+            "airlines": [
+                "Turkish Airlines",
+                "Viva"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:55 – 11:45+1",
+            "arrival_time": "N/A",
+            "duration": "23h 50min",
+            "price": "929 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 25min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 02:32+1",
+            "arrival_time": "17:55 – 02:32+2",
+            "duration": "23h 27min",
+            "price": "1 086 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 50min",
+            "airlines": [
+                "Iberia",
+                "Aeromexico",
+                "Volaris"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 13:45+1",
+            "arrival_time": "17:55 – 02:32+2",
+            "duration": "25h 50min",
+            "price": "1 086 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 25min",
+            "airlines": [
+                "Iberia",
+                "Aeromexico",
+                "Volaris"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "15:55 – 10:35+1",
+            "arrival_time": "17:55 – 02:32+2",
+            "duration": "24h 40min",
+            "price": "1 010 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "IST",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "Iberia",
+                "Aeromexico",
+                "Volaris"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "12:20 – 16:45+1",
+            "arrival_time": "17:55 – 02:32+2",
+            "duration": "34h 25min",
+            "price": "534 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 35min",
+            "airlines": [
+                "Iberia",
+                "Aeromexico",
+                "Volaris"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "10:40 – 19:55",
+            "arrival_time": "N/A",
+            "duration": "15h 15min",
+            "price": "1 668 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 50min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:50 – 16:55",
+            "arrival_time": "17:55 – 02:32+2",
+            "duration": "16h 05min",
+            "price": "1 505 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 35min",
+            "airlines": [
+                "Iberia",
+                "Aeromexico",
+                "Volaris"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 19:55",
+            "arrival_time": "N/A",
+            "duration": "19h 55min",
+            "price": "1 668 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "06:40 – 19:55",
+            "arrival_time": "N/A",
+            "duration": "19h 15min",
+            "price": "1 674 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 19:55",
+            "arrival_time": "06:00 – 18:15",
+            "duration": "19h 55min",
+            "price": "1 688 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AMS",
+            "layover_duration": "0h 45min",
+            "airlines": [
+                "KLM",
+                "Condor"
+            ],
+            "fare_class": "Promotion"
+        }
+    ]
+}

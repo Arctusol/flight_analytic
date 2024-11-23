@@ -1,0 +1,61 @@
+{
+    "search_date": "2024-11-23 07:39:43",
+    "flight_date": "2025-02-26",
+    "origin": "BOD",
+    "destination": "EZE",
+    "destination_city": "Buenos Aires",
+    "url": "https://www.kayak.fr/flights/BOD-EZE/2025-02-26?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "18:55 – 17:55+1",
+            "arrival_time": "",
+            "duration": "27h 00min",
+            "price": "892 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "12h 10min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "13:00 – 04:10+1",
+            "arrival_time": "",
+            "duration": "19h 10min",
+            "price": "616 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 30min",
+            "airlines": [
+                "Vueling"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:25 – 07:55+1",
+            "arrival_time": "",
+            "duration": "17h 30min",
+            "price": "738 €",
+            "origin_airport": "BOD",
+            "destination_airport": "EZE",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": ""
+        }
+    ]
+}

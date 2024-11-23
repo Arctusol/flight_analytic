@@ -925,7 +925,7 @@ def main():
         start_date = datetime.now().strftime("%Y-%m-%d")
         end_date = "2025-06-30"
         dates = generate_dates(start_date, end_date)
-        max_workers = 10  # Augmenté de 2 à 4 workers
+        max_workers = 6  # Augmenté de 2 à 4 workers
         
         print(f"Dates générées: {len(dates)} jours")
         print(f"Nombre de workers: {max_workers}")

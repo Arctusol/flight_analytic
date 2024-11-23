@@ -1,0 +1,463 @@
+{
+    "search_date": "2024-11-23 05:18:05",
+    "flight_date": "2025-01-20",
+    "origin": "BOD",
+    "destination": "CUN",
+    "destination_city": "Cancún",
+    "url": "https://www.kayak.fr/flights/BOD-CUN/2025-01-20?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "06:00 – 20:05",
+            "arrival_time": "06:00 – 20:05",
+            "duration": "20h 05min",
+            "price": "568 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "KLM",
+                "Iberojet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 20:05",
+            "arrival_time": "06:00 – 20:05",
+            "duration": "17h 00min",
+            "price": "489 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 15min",
+            "airlines": [
+                "KLM",
+                "Iberojet"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:50 – 12:05+1",
+            "arrival_time": "06:00 – 20:05",
+            "duration": "35h 15min",
+            "price": "422 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "LGW",
+            "layover_duration": "6h 30min",
+            "airlines": [
+                "KLM",
+                "Iberojet"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 19:20",
+            "arrival_time": "06:00 – 20:05",
+            "duration": "16h 15min",
+            "price": "526 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "KLM",
+                "Iberojet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 20:05",
+            "arrival_time": "N/A",
+            "duration": "20h 05min",
+            "price": "583 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 00min",
+            "airlines": [
+                "KLM",
+                "Iberojet"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 19:20",
+            "arrival_time": "06:00 – 20:05",
+            "duration": "19h 20min",
+            "price": "619 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "KLM",
+                "Iberojet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 18:05",
+            "arrival_time": "N/A",
+            "duration": "18h 05min",
+            "price": "1 003 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Air France",
+                "Air Caraïbes"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 19:20",
+            "arrival_time": "N/A",
+            "duration": "19h 20min",
+            "price": "711 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "KLM",
+                "Hahn Air"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:55 – 11:35+1",
+            "arrival_time": "09:05 – 20:05",
+            "duration": "23h 40min",
+            "price": "661 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG-ORY",
+            "layover_duration": "Escale de 5h 25min, ,[object Object]",
+            "airlines": [
+                "Iberia",
+                "Iberojet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:35 – 10:15+1",
+            "arrival_time": "09:05 – 20:05",
+            "duration": "21h 40min",
+            "price": "787 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 15min",
+            "airlines": [
+                "Iberia",
+                "Iberojet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:35 – 11:23+1",
+            "arrival_time": "09:05 – 20:05",
+            "duration": "22h 48min",
+            "price": "780 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Iberia",
+                "Iberojet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 01:15+1",
+            "arrival_time": "09:05 – 20:05",
+            "duration": "22h 10min",
+            "price": "968 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 15min",
+            "airlines": [
+                "Iberia",
+                "Iberojet"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 10:13+1",
+            "arrival_time": "N/A",
+            "duration": "22h 18min",
+            "price": "1 033 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 00min",
+            "airlines": [
+                "Iberia",
+                "Air Europa"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 02:32+1",
+            "arrival_time": "09:05 – 20:05",
+            "duration": "23h 27min",
+            "price": "1 092 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 00min",
+            "airlines": [
+                "Iberia",
+                "Iberojet"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:40 – 18:40",
+            "arrival_time": "N/A",
+            "duration": "14h 00min",
+            "price": "1 679 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:50 – 16:55",
+            "arrival_time": "N/A",
+            "duration": "16h 05min",
+            "price": "1 464 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 50min",
+            "airlines": [
+                "easyJet",
+                "British Airways"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 18:40",
+            "arrival_time": "06:50 – 12:05\n+1",
+            "duration": "18h 40min",
+            "price": "1 679 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 25min",
+            "airlines": [
+                "easyJet",
+                "Norse Atlantic UK",
+                "Spirit Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:35 – 18:40",
+            "arrival_time": "06:50 – 12:05\n+1",
+            "duration": "18h 05min",
+            "price": "1 692 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 50min",
+            "airlines": [
+                "easyJet",
+                "Norse Atlantic UK",
+                "Spirit Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 18:40",
+            "arrival_time": "06:50 – 12:05\n+1",
+            "duration": "18h 40min",
+            "price": "1 706 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "easyJet",
+                "Norse Atlantic UK",
+                "Spirit Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 18:40",
+            "arrival_time": "06:50 – 12:05\n+1",
+            "duration": "18h 40min",
+            "price": "1 706 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "easyJet",
+                "Norse Atlantic UK",
+                "Spirit Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 18:40",
+            "arrival_time": "N/A",
+            "duration": "18h 40min",
+            "price": "1 738 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "5h 50min",
+            "airlines": [
+                "KLM",
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 18:40",
+            "arrival_time": "06:50 – 12:05\n+1",
+            "duration": "18h 40min",
+            "price": "1 706 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LYS",
+            "layover_duration": "2h 40min",
+            "airlines": [
+                "easyJet",
+                "Norse Atlantic UK",
+                "Spirit Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 18:40",
+            "arrival_time": "N/A",
+            "duration": "18h 40min",
+            "price": "1 706 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:40 – 21:35",
+            "arrival_time": "N/A",
+            "duration": "16h 55min",
+            "price": "1 805 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "Air France",
+                "Air Canada"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 18:40",
+            "arrival_time": "09:05 – 19:20",
+            "duration": "18h 40min",
+            "price": "1 744 €",
+            "origin_airport": "BOD",
+            "destination_airport": "CUN",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 00min",
+            "airlines": [
+                "Iberia",
+                "World2Fly"
+            ],
+            "fare_class": "Light"
+        }
+    ]
+}

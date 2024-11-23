@@ -106,6 +106,7 @@ def upload_to_bigquery(project_id, dataset_id, credentials_path):
         with open(csv_file, 'r', encoding='utf-8') as f:
             first_line = f.readline()
             if not first_line.strip():
+                
                 logger.warning(f"Le fichier {csv_file.name} semble vide ou mal formaté, ignoré")
                 continue
         
@@ -134,7 +135,14 @@ def upload_to_bigquery(project_id, dataset_id, credentials_path):
             raise
 
 def load_config():
-    with open('config.yaml', 'r') as f:
+    # Obtenir le chemin du répertoire contenant le script actuel
+    current_dir = Path(__file__).parent
+    config_path = current_dir / 'config.yaml'
+    
+    if not config_path.exists():
+        raise FileNotFoundError(f"Le fichier de configuration n'existe pas à l'emplacement: {config_path}")
+    
+    with open(config_path, 'r') as f:
         return yaml.safe_load(f)
 
 class FlightDataLoader:

@@ -1,0 +1,449 @@
+{
+    "search_date": "2024-11-23 09:31:28",
+    "flight_date": "2025-02-07",
+    "origin": "BOD",
+    "destination": "BOG",
+    "destination_city": "Bogota",
+    "url": "https://www.kayak.fr/flights/BOD-BOG/2025-02-07?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "09:05 – 16:40",
+            "arrival_time": "09:05 – 16:40",
+            "duration": "13h 35min",
+            "price": "527 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 20:50",
+            "arrival_time": "09:05 – 16:40",
+            "duration": "17h 45min",
+            "price": "455 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 50min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 22:00+1",
+            "arrival_time": "09:05 – 16:40",
+            "duration": "34h 05min",
+            "price": "412 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "12h 20min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 16:40",
+            "arrival_time": "09:05 – 16:40",
+            "duration": "13h 35min",
+            "price": "526 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 22:29",
+            "arrival_time": "N/A",
+            "duration": "19h 24min",
+            "price": "493 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "Iberia",
+                "Avianca"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 04:20+1",
+            "arrival_time": "09:05 – 16:40",
+            "duration": "16h 25min",
+            "price": "526 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 22:54",
+            "arrival_time": "N/A",
+            "duration": "19h 49min",
+            "price": "493 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 55min",
+            "airlines": [
+                "Iberia",
+                "Avianca"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 20:55",
+            "arrival_time": "N/A",
+            "duration": "17h 50min",
+            "price": "526 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 35min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 05:00+1",
+            "arrival_time": "09:05 – 20:50",
+            "duration": "17h 05min",
+            "price": "506 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 55min",
+            "airlines": [
+                "Iberia",
+                "Avianca"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 16:40",
+            "arrival_time": "09:05 – 20:50",
+            "duration": "13h 35min",
+            "price": "608 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "6h 00min",
+            "airlines": [
+                "Iberia",
+                "Avianca"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 04:20+1",
+            "arrival_time": "09:05 – 20:50",
+            "duration": "16h 25min",
+            "price": "559 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 15min",
+            "airlines": [
+                "Iberia",
+                "Avianca"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "10:50 – 19:25",
+            "arrival_time": "09:05 – 20:50",
+            "duration": "14h 35min",
+            "price": "621 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 50min",
+            "airlines": [
+                "Iberia",
+                "Avianca"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 19:35",
+            "arrival_time": "N/A",
+            "duration": "16h 30min",
+            "price": "541 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "Iberia",
+                "Air Europa"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 14:30",
+            "arrival_time": "09:05 – 20:50",
+            "duration": "14h 30min",
+            "price": "665 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 35min",
+            "airlines": [
+                "Iberia",
+                "Avianca"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 04:20+1",
+            "arrival_time": "N/A",
+            "duration": "16h 25min",
+            "price": "596 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "LATAM Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 20:55",
+            "arrival_time": "N/A",
+            "duration": "17h 50min",
+            "price": "608 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 45min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 19:25",
+            "arrival_time": "17:55 – 22:00\n+1",
+            "duration": "19h 25min",
+            "price": "621 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "12h 20min",
+            "airlines": [
+                "Iberia",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 14:30",
+            "arrival_time": "17:55 – 22:00\n+1",
+            "duration": "14h 30min",
+            "price": "730 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "Iberia",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:50 – 19:35",
+            "arrival_time": "17:55 – 22:00\n+1",
+            "duration": "18h 45min",
+            "price": "586 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 35min",
+            "airlines": [
+                "Iberia",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 19:35",
+            "arrival_time": "17:55 – 22:00\n+1",
+            "duration": "19h 35min",
+            "price": "595 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "6h 00min",
+            "airlines": [
+                "Iberia",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 19:25",
+            "arrival_time": "N/A",
+            "duration": "19h 25min",
+            "price": "645 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "7h 00min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:35 – 04:20+1",
+            "arrival_time": "17:55 – 22:00\n+1",
+            "duration": "15h 45min",
+            "price": "680 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "Iberia",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 19:25",
+            "arrival_time": "N/A",
+            "duration": "19h 25min",
+            "price": "645 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 19:25",
+            "arrival_time": "N/A",
+            "duration": "19h 25min",
+            "price": "645 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW",
+            "layover_duration": "2h 30min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 19:25",
+            "arrival_time": "09:05 – 16:40",
+            "duration": "19h 25min",
+            "price": "645 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        }
+    ]
+}

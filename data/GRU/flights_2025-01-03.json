@@ -1,0 +1,450 @@
+{
+    "search_date": "2024-11-23 04:16:57",
+    "flight_date": "2025-01-03",
+    "origin": "BOD",
+    "destination": "GRU",
+    "destination_city": "São Paulo",
+    "url": "https://www.kayak.fr/flights/BOD-GRU/2025-01-03?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "18:15 – 06:30+1",
+            "arrival_time": "18:15 – 06:30\n+1",
+            "duration": "16h 15min",
+            "price": "936 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "OPO",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "easyJet",
+                "Air Europa"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "17:55 – 05:15+1",
+            "arrival_time": "18:15 – 06:30\n+1",
+            "duration": "15h 20min",
+            "price": "857 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "easyJet",
+                "Air Europa"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "23:10 – 22:25+1",
+            "arrival_time": "18:15 – 06:30\n+1",
+            "duration": "27h 15min",
+            "price": "553 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BCN",
+            "layover_duration": "6h 20min",
+            "airlines": [
+                "easyJet",
+                "Air Europa"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "22:25 – 15:55+1",
+            "arrival_time": "18:15 – 06:30\n+1",
+            "duration": "21h 30min",
+            "price": "766 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "OPO",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "easyJet",
+                "Air Europa"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "18:25 – 05:55+1",
+            "arrival_time": "N/A",
+            "duration": "15h 30min",
+            "price": "881 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LIS",
+            "layover_duration": "9h 30min",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 18:35",
+            "arrival_time": "18:15 – 06:30\n+1",
+            "duration": "13h 30min",
+            "price": "982 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "OPO",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "easyJet",
+                "Air Europa"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "17:55 – 05:15+1",
+            "arrival_time": "N/A",
+            "duration": "15h 20min",
+            "price": "883 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FRA",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "20:10 – 07:15+1",
+            "arrival_time": "N/A",
+            "duration": "15h 05min",
+            "price": "1 019 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "11:15 – 05:15+1",
+            "arrival_time": "17:55 – 05:15\n+1",
+            "duration": "22h 00min",
+            "price": "801 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 18:20",
+            "arrival_time": "17:55 – 05:15\n+1",
+            "duration": "16h 20min",
+            "price": "1 019 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "LATAM Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:55 – 07:05+1",
+            "arrival_time": "17:55 – 05:15\n+1",
+            "duration": "17h 10min",
+            "price": "914 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "9h 55min",
+            "airlines": [
+                "LATAM Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:35 – 07:15+1",
+            "arrival_time": "17:55 – 05:15\n+1",
+            "duration": "16h 40min",
+            "price": "1 124 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 05min",
+            "airlines": [
+                "LATAM Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 19:00",
+            "arrival_time": "N/A",
+            "duration": "17h 00min",
+            "price": "1 159 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 35min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "18:25 – 09:55+1",
+            "arrival_time": "17:55 – 05:15\n+1",
+            "duration": "19h 30min",
+            "price": "989 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "LATAM Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 19:00",
+            "arrival_time": "N/A",
+            "duration": "17h 00min",
+            "price": "1 175 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "3h 10min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "15:55 – 07:15+1",
+            "arrival_time": "N/A",
+            "duration": "19h 20min",
+            "price": "1 054 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FRA",
+            "layover_duration": "2h 00min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "17:25 – 06:40+1",
+            "arrival_time": "23:10 – 22:25\n+1",
+            "duration": "17h 15min",
+            "price": "1 021 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AMS",
+            "layover_duration": "3h 10min",
+            "airlines": [
+                "Vueling",
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:15 – 07:05+1",
+            "arrival_time": "23:10 – 22:25\n+1",
+            "duration": "16h 50min",
+            "price": "961 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "6h 00min",
+            "airlines": [
+                "Vueling",
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 19:00",
+            "arrival_time": "23:10 – 22:25\n+1",
+            "duration": "17h 00min",
+            "price": "1 275 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LIS",
+            "layover_duration": "4h 50min",
+            "airlines": [
+                "Vueling",
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "18:15 – 06:30+1",
+            "arrival_time": "23:10 – 22:25\n+1",
+            "duration": "16h 15min",
+            "price": "988 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "6h 20min",
+            "airlines": [
+                "Vueling",
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "15:45 – 06:40+1",
+            "arrival_time": "N/A",
+            "duration": "18h 55min",
+            "price": "923 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "OPO",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "11:15 – 23:55",
+            "arrival_time": "23:10 – 22:25\n+1",
+            "duration": "16h 40min",
+            "price": "988 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "3h 10min",
+            "airlines": [
+                "Vueling",
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "13:55 – 05:00+1",
+            "arrival_time": "N/A",
+            "duration": "19h 05min",
+            "price": "1 063 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "OPO",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "easyJet",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "15:45 – 06:40+1",
+            "arrival_time": "N/A",
+            "duration": "18h 55min",
+            "price": "934 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "13:35 – 06:40+1",
+            "arrival_time": "22:25 – 15:55\n+1",
+            "duration": "21h 05min",
+            "price": "904 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GRU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "OPO",
+            "layover_duration": "3h 35min",
+            "airlines": [
+                "easyJet",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Standard"
+        }
+    ]
+}

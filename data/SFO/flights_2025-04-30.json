@@ -1,0 +1,458 @@
+{
+    "search_date": "2024-11-22 23:20:44",
+    "flight_date": "2025-04-30",
+    "origin": "BOD",
+    "destination": "SFO",
+    "destination_city": "San Francisco",
+    "url": "https://www.kayak.fr/flights/BOD-SFO/2025-04-30?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "20:45 – 14:35+1",
+            "arrival_time": "20:45 – 14:35\n+1",
+            "duration": "26h 50min",
+            "price": "405 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "SNCF",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Discount"
+        },
+        {
+            "departure_time": "12:10 – 20:50",
+            "arrival_time": "20:45 – 14:35\n+1",
+            "duration": "17h 40min",
+            "price": "734 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "PAR-ORY",
+            "layover_duration": "Escale de 6h 51min, ,[object Object]",
+            "airlines": [
+                "SNCF",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Discount"
+        },
+        {
+            "departure_time": "09:05 – 20:50",
+            "arrival_time": "20:45 – 14:35\n+1",
+            "duration": "20h 45min",
+            "price": "632 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG-ORY",
+            "layover_duration": "Escale de 4h 55min, ,[object Object]",
+            "airlines": [
+                "SNCF",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:00 – 16:10",
+            "arrival_time": "20:45 – 14:35\n+1",
+            "duration": "15h 10min",
+            "price": "1 458 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG-ORY",
+            "layover_duration": "Escale de 8h 00min, ,[object Object]",
+            "airlines": [
+                "SNCF",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:50 – 21:16",
+            "arrival_time": "N/A",
+            "duration": "19h 26min",
+            "price": "908 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Aer Lingus",
+                "Alaska Airlines"
+            ],
+            "fare_class": "Discount"
+        },
+        {
+            "departure_time": "10:55 – 19:00",
+            "arrival_time": "20:45 – 14:35\n+1",
+            "duration": "17h 05min",
+            "price": "1 443 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ZRH",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "SNCF",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "10:00 – 20:50",
+            "arrival_time": "N/A",
+            "duration": "19h 50min",
+            "price": "771 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL",
+                "Air Caraïbes"
+            ],
+            "fare_class": "Discount"
+        },
+        {
+            "departure_time": "09:05 – 21:25",
+            "arrival_time": "N/A",
+            "duration": "21h 20min",
+            "price": "941 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "DUB",
+            "layover_duration": "1h 35min",
+            "airlines": [
+                "WestJet"
+            ],
+            "fare_class": "Saver"
+        },
+        {
+            "departure_time": "09:05 – 21:25",
+            "arrival_time": "12:10 – 20:50",
+            "duration": "21h 20min",
+            "price": "853 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MUC",
+            "layover_duration": "3h 40min",
+            "airlines": [
+                "Air France",
+                "French Bee"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "10:50 – 21:08",
+            "arrival_time": "12:10 – 20:50",
+            "duration": "19h 18min",
+            "price": "1 268 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LIS",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "Air France",
+                "French Bee"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "10:50 – 23:08",
+            "arrival_time": "12:10 – 20:50",
+            "duration": "21h 18min",
+            "price": "1 159 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "4h 00min",
+            "airlines": [
+                "Air France",
+                "French Bee"
+            ],
+            "fare_class": "UltraBasic"
+        },
+        {
+            "departure_time": "06:30 – 11:45",
+            "arrival_time": "12:10 – 20:50",
+            "duration": "14h 15min",
+            "price": "1 594 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France",
+                "French Bee"
+            ],
+            "fare_class": "Discount"
+        },
+        {
+            "departure_time": "10:55 – 19:00",
+            "arrival_time": "N/A",
+            "duration": "17h 05min",
+            "price": "1 480 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "4h 00min",
+            "airlines": [
+                "Air Canada",
+                "Lufthansa"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:55 – 19:00",
+            "arrival_time": "12:10 – 20:50",
+            "duration": "17h 05min",
+            "price": "1 480 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "DUB",
+            "layover_duration": "3h 35min",
+            "airlines": [
+                "Air France",
+                "French Bee"
+            ],
+            "fare_class": "Saver"
+        },
+        {
+            "departure_time": "06:30 – 11:45",
+            "arrival_time": "N/A",
+            "duration": "14h 15min",
+            "price": "1 608 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "DUB",
+            "layover_duration": "4h 50min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "12:10 – 18:00",
+            "arrival_time": "N/A",
+            "duration": "14h 50min",
+            "price": "1 606 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 35min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:55 – 20:00",
+            "arrival_time": "09:05 – 20:50",
+            "duration": "18h 05min",
+            "price": "1 486 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France",
+                "French Bee"
+            ],
+            "fare_class": "Discount"
+        },
+        {
+            "departure_time": "06:00 – 12:45",
+            "arrival_time": "09:05 – 20:50",
+            "duration": "15h 45min",
+            "price": "1 592 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MUC",
+            "layover_duration": "3h 40min",
+            "airlines": [
+                "Air France",
+                "French Bee"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "10:55 – 20:00",
+            "arrival_time": "09:05 – 20:50",
+            "duration": "18h 05min",
+            "price": "1 486 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MUC",
+            "layover_duration": "3h 40min",
+            "airlines": [
+                "Air France",
+                "French Bee"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "10:00 – 19:00",
+            "arrival_time": "09:05 – 20:50",
+            "duration": "18h 00min",
+            "price": "1 499 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 35min",
+            "airlines": [
+                "Air France",
+                "French Bee"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:00 – 19:00",
+            "arrival_time": "N/A",
+            "duration": "18h 00min",
+            "price": "1 499 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Discount"
+        },
+        {
+            "departure_time": "06:30 – 11:45",
+            "arrival_time": "09:05 – 20:50",
+            "duration": "14h 15min",
+            "price": "1 663 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Air France",
+                "French Bee"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:00 – 20:00",
+            "arrival_time": "N/A",
+            "duration": "19h 00min",
+            "price": "1 500 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MUC",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "SWISS",
+                "Lufthansa",
+                "United Airlines"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "10:00 – 20:00",
+            "arrival_time": "N/A",
+            "duration": "19h 00min",
+            "price": "1 500 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 50min",
+            "airlines": [
+                "SWISS",
+                "Lufthansa",
+                "United Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:00 – 20:00",
+            "arrival_time": "10:00 – 16:10",
+            "duration": "19h 00min",
+            "price": "1 500 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SFO",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "ZRH",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Discount"
+        }
+    ]
+}

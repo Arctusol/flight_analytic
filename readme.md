@@ -37,9 +37,9 @@ pip install -r requirements.txt
 ```
 
 ## 🛠️ Pipeline de Données
-1. **Scraping** : `python Scrapper.py`
-2. **Transformation to CSV** : `python src/data/concatenator.py`
-3. **Pipeline to BigQuery** : `python src/data/automated_pipeline.py`
+1. **Scraping** : Run `python Scrapper.py`
+2. **Transformation to CSV** : Run `python src/data/concatenator.py`
+3. **Pipeline to BigQuery** : Run `python src/data/automated_pipeline.py`
 4. **DBT structuration** : 
 4. **Analyse** : Voir notebooks dans `notebooks/`
 

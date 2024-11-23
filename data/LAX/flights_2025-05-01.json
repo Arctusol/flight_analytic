@@ -1,0 +1,44 @@
+{
+    "search_date": "2024-11-22 20:19:03",
+    "flight_date": "2025-05-01",
+    "origin": "BOD",
+    "destination": "LAX",
+    "destination_city": "Los Angeles",
+    "url": "https://www.kayak.fr/flights/BOD-LAX/2025-05-01?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "18:50 – 13:00+1",
+            "arrival_time": "18:50 – 13:00+1",
+            "duration": "27h 10min",
+            "price": "1 577 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "FRA",
+            "layover_duration": "13h 50min",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Economy Basic"
+        },
+        {
+            "departure_time": "18:20 – 15:15+1",
+            "arrival_time": "18:50 – 13:00+1",
+            "duration": "29h 55min",
+            "price": "1 570 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LAX",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "FRA",
+            "layover_duration": "13h 50min",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Economy Basic"
+        }
+    ]
+}

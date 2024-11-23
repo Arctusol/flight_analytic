@@ -1,0 +1,439 @@
+{
+    "search_date": "2024-11-23 11:04:02",
+    "flight_date": "2025-03-23",
+    "origin": "BOD",
+    "destination": "BOG",
+    "destination_city": "Bogota",
+    "url": "https://www.kayak.fr/flights/BOD-BOG/2025-03-23?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "17:55 – 04:20+1",
+            "arrival_time": "17:55 – 04:20\n+1",
+            "duration": "16h 25min",
+            "price": "596 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 35min",
+            "airlines": [
+                "LATAM Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 16:40",
+            "arrival_time": "17:55 – 04:20\n+1",
+            "duration": "13h 35min",
+            "price": "546 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "14:55 – 19:25+1",
+            "arrival_time": "17:55 – 04:20\n+1",
+            "duration": "34h 30min",
+            "price": "538 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "ZRH",
+            "layover_duration": "16h 25min",
+            "airlines": [
+                "LATAM Airlines"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "11:55 – 19:25",
+            "arrival_time": "17:55 – 04:20\n+1",
+            "duration": "13h 30min",
+            "price": "651 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "LATAM Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:55 – 04:20+1",
+            "arrival_time": "N/A",
+            "duration": "16h 25min",
+            "price": "565 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "17:55 – 04:20+1",
+            "arrival_time": "17:55 – 04:20\n+1",
+            "duration": "16h 25min",
+            "price": "596 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 35min",
+            "airlines": [
+                "LATAM Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 14:30",
+            "arrival_time": "N/A",
+            "duration": "14h 30min",
+            "price": "651 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 35min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "10:40 – 19:25",
+            "arrival_time": "N/A",
+            "duration": "14h 45min",
+            "price": "651 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 20:55",
+            "arrival_time": "09:05 – 16:40",
+            "duration": "17h 50min",
+            "price": "546 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 20min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:40 – 04:20+1",
+            "arrival_time": "09:05 – 16:40",
+            "duration": "16h 40min",
+            "price": "684 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "6h 00min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 20:55",
+            "arrival_time": "09:05 – 16:40",
+            "duration": "17h 50min",
+            "price": "542 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "LYS",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 19:25",
+            "arrival_time": "09:05 – 16:40",
+            "duration": "19h 25min",
+            "price": "619 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "6h 00min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "14:55 – 04:20+1",
+            "arrival_time": "N/A",
+            "duration": "19h 25min",
+            "price": "715 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "7h 00min",
+            "airlines": [
+                "SWISS",
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 19:25",
+            "arrival_time": "09:05 – 16:40",
+            "duration": "19h 25min",
+            "price": "643 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ZRH",
+            "layover_duration": "3h 05min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 19:25",
+            "arrival_time": "N/A",
+            "duration": "19h 25min",
+            "price": "643 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 19:25",
+            "arrival_time": "N/A",
+            "duration": "19h 25min",
+            "price": "642 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 19:25",
+            "arrival_time": "14:55 – 19:25\n+1",
+            "duration": "19h 25min",
+            "price": "642 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 16:40",
+            "arrival_time": "14:55 – 19:25\n+1",
+            "duration": "13h 35min",
+            "price": "664 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 20:55",
+            "arrival_time": "14:55 – 19:25\n+1",
+            "duration": "17h 50min",
+            "price": "542 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "ZRH",
+            "layover_duration": "16h 25min",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "06:00 – 14:30",
+            "arrival_time": "14:55 – 19:25\n+1",
+            "duration": "14h 30min",
+            "price": "675 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "07:45 – 20:55",
+            "arrival_time": "N/A",
+            "duration": "19h 10min",
+            "price": "542 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "6h 00min",
+            "airlines": [
+                "Volotea",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 05:00+1",
+            "arrival_time": "14:55 – 19:25\n+1",
+            "duration": "17h 05min",
+            "price": "574 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 19:25",
+            "arrival_time": "N/A",
+            "duration": "19h 25min",
+            "price": "619 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:55 – 20:55",
+            "arrival_time": "N/A",
+            "duration": "17h 00min",
+            "price": "555 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "7h 15min",
+            "airlines": [
+                "Vueling",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 19:35",
+            "arrival_time": "11:55 – 19:25",
+            "duration": "19h 35min",
+            "price": "595 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Standard"
+        }
+    ]
+}

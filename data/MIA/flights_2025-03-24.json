@@ -1,0 +1,185 @@
+{
+    "search_date": "2024-11-22 23:31:02",
+    "flight_date": "2025-03-24",
+    "origin": "BOD",
+    "destination": "MIA",
+    "destination_city": "Miami",
+    "url": "https://www.kayak.fr/flights/BOD-MIA/2025-03-24?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "06:50 – 17:45",
+            "arrival_time": "06:50 – 17:45",
+            "duration": "15h 55min",
+            "price": "314 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LGW",
+            "layover_duration": "4h 30min",
+            "airlines": [
+                "easyJet",
+                "Norse Atlantic UK"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:25 – 15:40+1",
+            "arrival_time": "06:50 – 17:45",
+            "duration": "26h 15min",
+            "price": "1 266 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "FRA",
+            "layover_duration": "11h 10min",
+            "airlines": [
+                "easyJet",
+                "Norse Atlantic UK"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:25 – 15:35+1",
+            "arrival_time": "06:50 – 17:45",
+            "duration": "26h 10min",
+            "price": "1 343 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "FRA",
+            "layover_duration": "13h 55min",
+            "airlines": [
+                "easyJet",
+                "Norse Atlantic UK"
+            ],
+            "fare_class": "Economy Basic"
+        },
+        {
+            "departure_time": "18:25 – 18:30+1",
+            "arrival_time": "06:50 – 17:45",
+            "duration": "29h 05min",
+            "price": "1 266 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FRA",
+            "layover_duration": "11h 10min",
+            "airlines": [
+                "easyJet",
+                "Norse Atlantic UK"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:25 – 18:30+1",
+            "arrival_time": "N/A",
+            "duration": "29h 05min",
+            "price": "1 337 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FRA",
+            "layover_duration": "12h 50min",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:25 – 17:55+1",
+            "arrival_time": "06:50 – 17:45",
+            "duration": "28h 30min",
+            "price": "1 361 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FRA",
+            "layover_duration": "10h 00min",
+            "airlines": [
+                "easyJet",
+                "Norse Atlantic UK"
+            ],
+            "fare_class": "Economy Basic"
+        },
+        {
+            "departure_time": "18:25 – 15:40+2",
+            "arrival_time": "N/A",
+            "duration": "50h 15min",
+            "price": "1 337 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FRA",
+            "layover_duration": "13h 20min",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:25 – 15:40+2",
+            "arrival_time": "N/A",
+            "duration": "50h 15min",
+            "price": "1 337 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FRA",
+            "layover_duration": "12h 50min",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:25 – 18:30+2",
+            "arrival_time": "18:25 – 15:40+1",
+            "duration": "53h 05min",
+            "price": "1 337 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "FRA",
+            "layover_duration": "16h 55min",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:25 – 18:30+2",
+            "arrival_time": "18:25 – 15:40+1",
+            "duration": "53h 05min",
+            "price": "1 337 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "FRA",
+            "layover_duration": "18h 30min",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Economy"
+        }
+    ]
+}

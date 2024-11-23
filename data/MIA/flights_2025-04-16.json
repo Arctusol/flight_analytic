@@ -1,0 +1,455 @@
+{
+    "search_date": "2024-11-22 23:51:01",
+    "flight_date": "2025-04-16",
+    "origin": "BOD",
+    "destination": "MIA",
+    "destination_city": "Miami",
+    "url": "https://www.kayak.fr/flights/BOD-MIA/2025-04-16?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "10:00 – 23:57",
+            "arrival_time": "",
+            "duration": "19h 57min",
+            "price": "875 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LIS",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "easyJet",
+                "Air Canada"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "10:00 – 21:35",
+            "arrival_time": "",
+            "duration": "17h 35min",
+            "price": "563 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LIS",
+            "layover_duration": "6h 35min",
+            "airlines": [
+                "easyJet",
+                "Air Canada"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "08:38 – 21:35",
+            "arrival_time": "",
+            "duration": "18h 57min",
+            "price": "446 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "PAR-ORY",
+            "layover_duration": "Escale de 3h 14min, ,[object Object]",
+            "airlines": [
+                "easyJet",
+                "Air Canada"
+            ],
+            "fare_class": "Discount"
+        },
+        {
+            "departure_time": "10:00 – 17:25",
+            "arrival_time": "",
+            "duration": "13h 25min",
+            "price": "1 201 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "easyJet",
+                "Air Canada"
+            ],
+            "fare_class": ""
+        },
+        {
+            "departure_time": "10:50 – 21:50",
+            "arrival_time": "N/A",
+            "duration": "17h 00min",
+            "price": "871 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ZRH",
+            "layover_duration": "1h 35min",
+            "airlines": [
+                "Aer Lingus"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "10:50 – 21:50",
+            "arrival_time": "",
+            "duration": "17h 00min",
+            "price": "871 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "easyJet",
+                "Air Canada"
+            ],
+            "fare_class": ""
+        },
+        {
+            "departure_time": "08:50 – 20:20",
+            "arrival_time": "N/A",
+            "duration": "17h 30min",
+            "price": "774 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "DUB",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "easyJet",
+                "Finnair"
+            ],
+            "fare_class": "Saver"
+        },
+        {
+            "departure_time": "10:50 – 21:50",
+            "arrival_time": "N/A",
+            "duration": "17h 00min",
+            "price": "1 038 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "DUB",
+            "layover_duration": "1h 35min",
+            "airlines": [
+                "Aer Lingus"
+            ],
+            "fare_class": "Saver"
+        },
+        {
+            "departure_time": "10:50 – 21:50",
+            "arrival_time": "",
+            "duration": "17h 00min",
+            "price": "1 038 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "",
+            "layover_duration": "6h 35min",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": ""
+        },
+        {
+            "departure_time": "10:50 – 21:50",
+            "arrival_time": "",
+            "duration": "17h 00min",
+            "price": "1 038 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "GVA",
+            "layover_duration": "2h 20min",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "10:50 – 21:50",
+            "arrival_time": "",
+            "duration": "17h 00min",
+            "price": "1 038 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "DUB",
+            "layover_duration": "1h 35min",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Saver"
+        },
+        {
+            "departure_time": "10:00 – 23:57",
+            "arrival_time": "",
+            "duration": "19h 57min",
+            "price": "923 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "DUB",
+            "layover_duration": "1h 35min",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "10:00 – 22:37",
+            "arrival_time": "N/A",
+            "duration": "18h 37min",
+            "price": "1 231 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "DUB",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "SWISS",
+                "Air Canada"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "10:55 – 23:41",
+            "arrival_time": "",
+            "duration": "18h 46min",
+            "price": "1 238 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "",
+            "layover_duration": "6h 35min",
+            "airlines": [
+                "easyJet",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": ""
+        },
+        {
+            "departure_time": "10:55 – 23:41",
+            "arrival_time": "N/A",
+            "duration": "18h 46min",
+            "price": "1 238 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "DUB",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "Air Canada",
+                "Lufthansa"
+            ],
+            "fare_class": "Saver"
+        },
+        {
+            "departure_time": "10:55 – 23:57",
+            "arrival_time": "N/A",
+            "duration": "19h 02min",
+            "price": "1 238 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LIS",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "Lufthansa",
+                "Air Canada"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "10:55 – 23:57",
+            "arrival_time": "",
+            "duration": "19h 02min",
+            "price": "1 266 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ZRH",
+            "layover_duration": "1h 00min",
+            "airlines": [
+                "SNCF",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "10:00 – 23:57",
+            "arrival_time": "",
+            "duration": "19h 57min",
+            "price": "1 016 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MUC",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "SNCF",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "10:55 – 23:41",
+            "arrival_time": "",
+            "duration": "18h 46min",
+            "price": "1 259 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "SNCF",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": ""
+        },
+        {
+            "departure_time": "10:55 – 23:57",
+            "arrival_time": "",
+            "duration": "19h 02min",
+            "price": "1 255 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MUC",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "SNCF",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "10:00 – 23:57",
+            "arrival_time": "N/A",
+            "duration": "19h 57min",
+            "price": "1 237 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MUC",
+            "layover_duration": "3h 05min",
+            "airlines": [
+                "SWISS",
+                "Air Canada"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "14:35 – 20:55",
+            "arrival_time": "",
+            "duration": "12h 20min",
+            "price": "1 547 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "SNCF",
+                "TAP AIR PORTUGAL"
+            ],
+            "fare_class": ""
+        },
+        {
+            "departure_time": "12:10 – 20:55",
+            "arrival_time": "N/A",
+            "duration": "14h 45min",
+            "price": "1 547 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MUC",
+            "layover_duration": "3h 05min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "09:05 – 17:55",
+            "arrival_time": "N/A",
+            "duration": "14h 50min",
+            "price": "1 546 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LIS",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "10:50 – 23:57",
+            "arrival_time": "",
+            "duration": "19h 07min",
+            "price": "1 428 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MIA",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MUC",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "SWISS"
+            ],
+            "fare_class": "Basic Economy"
+        }
+    ]
+}

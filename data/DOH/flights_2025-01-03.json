@@ -1,0 +1,27 @@
+{
+    "search_date": "2024-11-23 12:03:47",
+    "flight_date": "2025-01-03",
+    "origin": "BOD",
+    "destination": "DOH",
+    "destination_city": "Doha",
+    "url": "https://www.kayak.fr/flights/BOD-DOH/2025-01-03?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "19:15 – 00:55+2",
+            "arrival_time": "19:15 – 00:55+2",
+            "duration": "27h 40min",
+            "price": "605 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "CMN",
+            "layover_duration": "18h 30min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Economy"
+        }
+    ]
+}

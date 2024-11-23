@@ -1,0 +1,449 @@
+{
+    "search_date": "2024-11-23 04:34:46",
+    "flight_date": "2025-03-16",
+    "origin": "BOD",
+    "destination": "MEX",
+    "destination_city": "Mexico",
+    "url": "https://www.kayak.fr/flights/BOD-MEX/2025-03-16?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "12:00 – 03:50+1",
+            "arrival_time": "12:00 – 03:50\n+1",
+            "duration": "22h 50min",
+            "price": "685 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MEX",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "IST",
+            "layover_duration": "4h 10min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "07:45 – 01:55+1",
+            "arrival_time": "12:00 – 03:50\n+1",
+            "duration": "25h 10min",
+            "price": "462 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MEX",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "6h 10min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "12:00 – 03:50+1",
+            "arrival_time": "12:00 – 03:50\n+1",
+            "duration": "22h 50min",
+            "price": "673 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MEX",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "IST",
+            "layover_duration": "4h 10min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "09:05 – 01:55+1",
+            "arrival_time": "12:00 – 03:50\n+1",
+            "duration": "23h 50min",
+            "price": "509 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MEX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "IST",
+            "layover_duration": "4h 10min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "09:05 – 18:40",
+            "arrival_time": "N/A",
+            "duration": "16h 35min",
+            "price": "1 085 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MEX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "07:45 – 23:20",
+            "arrival_time": "12:00 – 03:50\n+1",
+            "duration": "22h 35min",
+            "price": "563 €",
+            "origin_airport": "BOD",
+            "destination_airport": "TLC",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 55min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "07:45 – 22:55",
+            "arrival_time": "N/A",
+            "duration": "22h 10min",
+            "price": "571 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MEX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 50min",
+            "airlines": [
+                "Volotea",
+                "Avianca"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "07:45 – 00:45+1",
+            "arrival_time": "N/A",
+            "duration": "24h 00min",
+            "price": "550 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MEX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "6h 05min",
+            "airlines": [
+                "Volotea",
+                "Air Europa",
+                "Viva"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 00:45+1",
+            "arrival_time": "07:45 – 01:55\n+1",
+            "duration": "22h 40min",
+            "price": "574 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MEX",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "Volotea",
+                "Avianca"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "07:45 – 23:25",
+            "arrival_time": "07:45 – 01:55\n+1",
+            "duration": "22h 40min",
+            "price": "578 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MEX",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "6h 05min",
+            "airlines": [
+                "Volotea",
+                "Avianca"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "14:40 – 05:10+1",
+            "arrival_time": "07:45 – 01:55\n+1",
+            "duration": "21h 30min",
+            "price": "632 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MEX",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "6h 10min",
+            "airlines": [
+                "Volotea",
+                "Avianca"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "17:55 – 05:10+1",
+            "arrival_time": "07:45 – 01:55\n+1",
+            "duration": "18h 15min",
+            "price": "1 085 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MEX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 50min",
+            "airlines": [
+                "Volotea",
+                "Avianca"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 05:10+1",
+            "arrival_time": "N/A",
+            "duration": "18h 15min",
+            "price": "996 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MEX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "6h 05min",
+            "airlines": [
+                "Iberia",
+                "Air Europa"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "17:55 – 05:10+1",
+            "arrival_time": "07:45 – 01:55\n+1",
+            "duration": "18h 15min",
+            "price": "996 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MEX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "OPO",
+            "layover_duration": "5h 15min",
+            "airlines": [
+                "Volotea",
+                "Avianca"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "20:10 – 04:15+1",
+            "arrival_time": "N/A",
+            "duration": "15h 05min",
+            "price": "1 371 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MEX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 35min",
+            "airlines": [
+                "Aeromexico"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "18:35 – 04:15+1",
+            "arrival_time": "N/A",
+            "duration": "16h 40min",
+            "price": "1 371 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MEX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Aeromexico"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "07:45 – 23:20",
+            "arrival_time": "12:00 – 03:50\n+1",
+            "duration": "22h 35min",
+            "price": "757 €",
+            "origin_airport": "BOD",
+            "destination_airport": "TLC",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 25min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 00:15+1",
+            "arrival_time": "12:00 – 03:50\n+1",
+            "duration": "22h 10min",
+            "price": "775 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MEX",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 25min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "10:45 – 03:50+1",
+            "arrival_time": "12:00 – 03:50\n+1",
+            "duration": "24h 05min",
+            "price": "691 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MEX",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "07:45 – 20:55",
+            "arrival_time": "12:00 – 03:50\n+1",
+            "duration": "20h 10min",
+            "price": "856 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MEX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 00min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "07:45 – 23:25",
+            "arrival_time": "N/A",
+            "duration": "22h 40min",
+            "price": "772 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MEX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Volotea",
+                "Aeromexico",
+                "Viva"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "07:45 – 00:15+1",
+            "arrival_time": "12:00 – 03:50\n+1",
+            "duration": "23h 30min",
+            "price": "741 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MEX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "6h 05min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "07:45 – 00:45+1",
+            "arrival_time": "N/A",
+            "duration": "24h 00min",
+            "price": "743 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MEX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 40min",
+            "airlines": [
+                "Volotea",
+                "Aeromexico",
+                "Viva"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 22:10",
+            "arrival_time": "N/A",
+            "duration": "20h 05min",
+            "price": "1 079 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MEX",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "VCE",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "07:45 – 22:10",
+            "arrival_time": "09:05 – 01:55\n+1",
+            "duration": "21h 25min",
+            "price": "1 049 €",
+            "origin_airport": "BOD",
+            "destination_airport": "MEX",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 55min",
+            "airlines": [
+                "Iberia",
+                "Avianca"
+            ],
+            "fare_class": "Promotion"
+        }
+    ]
+}

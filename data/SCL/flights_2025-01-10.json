@@ -1,0 +1,462 @@
+{
+    "search_date": "2024-11-23 08:01:08",
+    "flight_date": "2025-01-10",
+    "origin": "BOD",
+    "destination": "SCL",
+    "destination_city": "Santiago",
+    "url": "https://www.kayak.fr/flights/BOD-SCL/2025-01-10?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "09:05 – 22:50",
+            "arrival_time": "09:05 – 22:50",
+            "duration": "17h 45min",
+            "price": "686 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SCL",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:05 – 22:50",
+            "arrival_time": "09:05 – 22:50",
+            "duration": "17h 45min",
+            "price": "641 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SCL",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 05:11+2",
+            "arrival_time": "09:05 – 22:50",
+            "duration": "39h 16min",
+            "price": "639 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SCL",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "15h 40min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 09:20+1",
+            "arrival_time": "09:05 – 22:50",
+            "duration": "19h 25min",
+            "price": "641 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SCL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 09:20+1",
+            "arrival_time": "N/A",
+            "duration": "19h 25min",
+            "price": "688 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SCL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 39min",
+            "airlines": [
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "13:35 – 10:00+1",
+            "arrival_time": "09:05 – 22:50",
+            "duration": "24h 25min",
+            "price": "655 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SCL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 09:20+1",
+            "arrival_time": "N/A",
+            "duration": "19h 25min",
+            "price": "724 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SCL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 39min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 01:25+1",
+            "arrival_time": "N/A",
+            "duration": "20h 20min",
+            "price": "791 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SCL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "8h 35min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 09:20+1",
+            "arrival_time": "09:05 – 22:50",
+            "duration": "28h 15min",
+            "price": "650 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SCL",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 15min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 09:20+1",
+            "arrival_time": "09:05 – 22:50",
+            "duration": "19h 25min",
+            "price": "812 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SCL",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "17:55 – 15:00+1",
+            "arrival_time": "09:05 – 22:50",
+            "duration": "25h 05min",
+            "price": "717 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SCL",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "13h 29min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:55 – 10:00+1",
+            "arrival_time": "09:05 – 22:50",
+            "duration": "28h 05min",
+            "price": "662 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SCL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 15min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:55 – 15:00+1",
+            "arrival_time": "N/A",
+            "duration": "25h 05min",
+            "price": "725 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SCL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 25min",
+            "airlines": [
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "09:05 – 22:50",
+            "arrival_time": "09:05 – 22:50",
+            "duration": "17h 45min",
+            "price": "934 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SCL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "12h 15min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 04:30+1",
+            "arrival_time": "N/A",
+            "duration": "23h 25min",
+            "price": "792 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SCL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 25min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "20:10 – 09:50+1",
+            "arrival_time": "N/A",
+            "duration": "17h 40min",
+            "price": "1 059 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SCL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 09:20+1",
+            "arrival_time": "17:55 – 05:11\n+2",
+            "duration": "19h 25min",
+            "price": "934 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SCL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 40min",
+            "airlines": [
+                "Iberia",
+                "Plus Ultra",
+                "JetSMART"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "09:05 – 05:25+1",
+            "arrival_time": "17:55 – 05:11\n+2",
+            "duration": "24h 20min",
+            "price": "791 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SCL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "Iberia",
+                "Plus Ultra",
+                "JetSMART"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:55 – 09:20+1",
+            "arrival_time": "17:55 – 05:11\n+2",
+            "duration": "19h 25min",
+            "price": "993 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SCL",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 39min",
+            "airlines": [
+                "Iberia",
+                "Plus Ultra",
+                "JetSMART"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "18:35 – 09:50+1",
+            "arrival_time": "17:55 – 05:11\n+2",
+            "duration": "19h 15min",
+            "price": "1 167 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SCL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "Iberia",
+                "Plus Ultra",
+                "JetSMART"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "09:05 – 06:25+1",
+            "arrival_time": "N/A",
+            "duration": "25h 20min",
+            "price": "792 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SCL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 15min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "13:35 – 10:00+1",
+            "arrival_time": "17:55 – 05:11\n+2",
+            "duration": "24h 25min",
+            "price": "894 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SCL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "Iberia",
+                "Plus Ultra",
+                "JetSMART"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 09:20+1",
+            "arrival_time": "N/A",
+            "duration": "28h 15min",
+            "price": "771 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SCL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 40min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "09:05 – 08:25+1",
+            "arrival_time": "N/A",
+            "duration": "27h 20min",
+            "price": "792 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SCL",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "15:55 – 09:20+1",
+            "arrival_time": "17:55 – 09:20\n+1",
+            "duration": "21h 25min",
+            "price": "886 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SCL",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "BCN",
+            "layover_duration": "8h 35min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Optimal"
+        }
+    ]
+}

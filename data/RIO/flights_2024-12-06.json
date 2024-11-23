@@ -1,0 +1,450 @@
+{
+    "search_date": "2024-11-23 10:02:44",
+    "flight_date": "2024-12-06",
+    "origin": "BOD",
+    "destination": "RIO",
+    "destination_city": "Rio de Janeiro",
+    "url": "https://www.kayak.fr/flights/BOD-RIO/2024-12-06?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "20:10 – 18:20+1",
+            "arrival_time": "20:10 – 18:20\n+1",
+            "duration": "26h 10min",
+            "price": "879 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "13h 15min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:40 – 06:40+1",
+            "arrival_time": "20:10 – 18:20\n+1",
+            "duration": "17h 00min",
+            "price": "790 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "FCO",
+            "layover_duration": "2h 40min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "08:30 – 06:40+2",
+            "arrival_time": "20:10 – 18:20\n+1",
+            "duration": "50h 10min",
+            "price": "534 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "19h 50min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:45 – 06:40+1",
+            "arrival_time": "20:10 – 18:20\n+1",
+            "duration": "24h 55min",
+            "price": "572 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "13h 15min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 18:40",
+            "arrival_time": "N/A",
+            "duration": "16h 40min",
+            "price": "892 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "5h 45min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "18:15 – 06:25+1",
+            "arrival_time": "20:10 – 18:20\n+1",
+            "duration": "16h 10min",
+            "price": "841 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "13h 15min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 18:40",
+            "arrival_time": "N/A",
+            "duration": "16h 40min",
+            "price": "899 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "21:35 – 18:50+1",
+            "arrival_time": "N/A",
+            "duration": "25h 15min",
+            "price": "598 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "OPO",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "easyJet",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "12:50 – 06:40+1",
+            "arrival_time": "17:40 – 06:40\n+1",
+            "duration": "21h 50min",
+            "price": "715 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "FCO",
+            "layover_duration": "2h 40min",
+            "airlines": [
+                "Volotea",
+                "ITA Airways"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:50 – 06:25+1",
+            "arrival_time": "17:40 – 06:40\n+1",
+            "duration": "23h 35min",
+            "price": "669 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "Volotea",
+                "ITA Airways"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 18:20",
+            "arrival_time": "17:40 – 06:40\n+1",
+            "duration": "16h 20min",
+            "price": "1 056 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "GVA",
+            "layover_duration": "7h 05min",
+            "airlines": [
+                "Volotea",
+                "ITA Airways"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "18:25 – 06:00+1",
+            "arrival_time": "17:40 – 06:40\n+1",
+            "duration": "15h 35min",
+            "price": "1 147 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "VCE",
+            "layover_duration": "4h 30min",
+            "airlines": [
+                "Volotea",
+                "ITA Airways"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 18:40",
+            "arrival_time": "N/A",
+            "duration": "16h 40min",
+            "price": "1 123 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FCO",
+            "layover_duration": "3h 40min",
+            "airlines": [
+                "Air France",
+                "KLM"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "17:55 – 08:00+1",
+            "arrival_time": "17:40 – 06:40\n+1",
+            "duration": "18h 05min",
+            "price": "930 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 25min",
+            "airlines": [
+                "Volotea",
+                "ITA Airways"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:55 – 08:00+1",
+            "arrival_time": "N/A",
+            "duration": "18h 05min",
+            "price": "939 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FRA",
+            "layover_duration": "2h 00min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Economy Light"
+        },
+        {
+            "departure_time": "17:55 – 09:10+1",
+            "arrival_time": "N/A",
+            "duration": "19h 15min",
+            "price": "908 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SDU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "2h 55min",
+            "airlines": [
+                "LATAM Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:55 – 09:35+1",
+            "arrival_time": "08:30 – 06:40\n+2",
+            "duration": "19h 40min",
+            "price": "898 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "Volotea",
+                "ITA Airways"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "20:40 – 18:50+1",
+            "arrival_time": "08:30 – 06:40\n+2",
+            "duration": "26h 10min",
+            "price": "733 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "Volotea",
+                "ITA Airways"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "17:55 – 09:35+1",
+            "arrival_time": "08:30 – 06:40\n+2",
+            "duration": "19h 40min",
+            "price": "908 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "Volotea",
+                "ITA Airways"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "20:10 – 18:20+1",
+            "arrival_time": "08:30 – 06:40\n+2",
+            "duration": "26h 10min",
+            "price": "874 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "Volotea",
+                "ITA Airways"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "17:55 – 08:00+1",
+            "arrival_time": "N/A",
+            "duration": "18h 05min",
+            "price": "999 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "20:40 – 18:50+1",
+            "arrival_time": "08:30 – 06:40\n+2",
+            "duration": "26h 10min",
+            "price": "733 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 8h 50min, ,[object Object]",
+            "airlines": [
+                "Volotea",
+                "ITA Airways"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "09:05 – 23:50",
+            "arrival_time": "N/A",
+            "duration": "18h 45min",
+            "price": "999 €",
+            "origin_airport": "BOD",
+            "destination_airport": "GIG",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 20min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 09:10+1",
+            "arrival_time": "N/A",
+            "duration": "19h 15min",
+            "price": "939 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SDU",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "13h 15min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:40 – 09:10+1",
+            "arrival_time": "09:45 – 06:40\n+1",
+            "duration": "19h 30min",
+            "price": "935 €",
+            "origin_airport": "BOD",
+            "destination_airport": "SDU",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BCN",
+            "layover_duration": "5h 45min",
+            "airlines": [
+                "Vueling",
+                "ITA Airways"
+            ],
+            "fare_class": "Light"
+        }
+    ]
+}

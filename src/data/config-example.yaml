@@ -1,0 +1,20 @@
+project:
+  id: "project_id"
+  dataset: "dataset_name"
+  credentials_path: "path/to/credentials.json"
+
+paths:
+  base_folder: "path/to/base_folder"
+  output_folder: "path/to/output_folder"
+  log_folder: "path/to/log_folder" 
+
+powerbi:
+  tenant_id: "tenant_id"
+  client_id: "client_id"
+  client_secret: "client_secret"
+  workspace_id: "workspace_id"
+
+bigquery:
+  id: "project_id"
+  dataset: "dataset_name"
+  credentials_path: "path/to/credentials.json"

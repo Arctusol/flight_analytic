@@ -1,0 +1,452 @@
+{
+    "search_date": "2024-11-23 10:36:14",
+    "flight_date": "2024-12-01",
+    "origin": "BOD",
+    "destination": "DXB",
+    "destination_city": "Dubai",
+    "url": "https://www.kayak.fr/flights/BOD-DXB/2024-12-01?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "12:00 – 01:10+1",
+            "arrival_time": "12:00 – 01:10\n+1",
+            "duration": "10h 10min",
+            "price": "527 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "IST",
+            "layover_duration": "1h 55min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "12:00 – 01:10+1",
+            "arrival_time": "12:00 – 01:10\n+1",
+            "duration": "10h 10min",
+            "price": "466 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "IST",
+            "layover_duration": "1h 55min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "08:10 – 05:20+1",
+            "arrival_time": "12:00 – 01:10\n+1",
+            "duration": "18h 10min",
+            "price": "227 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DWC",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "BER",
+            "layover_duration": "6h 25min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "12:00 – 03:10+1",
+            "arrival_time": "12:00 – 01:10\n+1",
+            "duration": "12h 10min",
+            "price": "466 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "IST",
+            "layover_duration": "1h 55min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "08:10 – 02:45+1",
+            "arrival_time": "N/A",
+            "duration": "15h 35min",
+            "price": "257 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "IST",
+            "layover_duration": "3h 55min",
+            "airlines": [
+                "easyJet",
+                "SunExpress"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "09:05 – 02:10+1",
+            "arrival_time": "12:00 – 01:10\n+1",
+            "duration": "14h 05min",
+            "price": "316 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "IST",
+            "layover_duration": "1h 55min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "20:10 – 09:00+1",
+            "arrival_time": "N/A",
+            "duration": "9h 50min",
+            "price": "735 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BER",
+            "layover_duration": "3h 00min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "11:10 – 02:10+1",
+            "arrival_time": "N/A",
+            "duration": "12h 00min",
+            "price": "390 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 25min",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "10:45 – 00:15+1",
+            "arrival_time": "12:00 – 01:10\n+1",
+            "duration": "10h 30min",
+            "price": "637 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 35min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:35 – 09:00+1",
+            "arrival_time": "12:00 – 01:10\n+1",
+            "duration": "11h 25min",
+            "price": "735 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "GVA",
+            "layover_duration": "1h 50min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "18:00 – 10:00+1",
+            "arrival_time": "12:00 – 01:10\n+1",
+            "duration": "13h 00min",
+            "price": "393 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "VCE",
+            "layover_duration": "2h 45min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "17:50 – 10:30+1",
+            "arrival_time": "12:00 – 01:10\n+1",
+            "duration": "13h 40min",
+            "price": "375 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "3h 10min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:00 – 10:30+1",
+            "arrival_time": "N/A",
+            "duration": "13h 30min",
+            "price": "406 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ZRH",
+            "layover_duration": "2h 00min",
+            "airlines": [
+                "easyJet",
+                "Oman Air",
+                "flydubai"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 00:25+1",
+            "arrival_time": "12:00 – 01:10\n+1",
+            "duration": "12h 20min",
+            "price": "628 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "1h 40min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "08:10 – 02:10+1",
+            "arrival_time": "N/A",
+            "duration": "15h 00min",
+            "price": "376 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ZRH",
+            "layover_duration": "2h 00min",
+            "airlines": [
+                "easyJet",
+                "Ajet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "07:10 – 00:05+1",
+            "arrival_time": "N/A",
+            "duration": "13h 55min",
+            "price": "414 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "3h 55min",
+            "airlines": [
+                "easyJet",
+                "Aegean Airlines",
+                "flydubai"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "07:10 – 01:10+1",
+            "arrival_time": "08:10 – 05:20\n+1",
+            "duration": "15h 00min",
+            "price": "379 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BER",
+            "layover_duration": "3h 15min",
+            "airlines": [
+                "easyJet",
+                "SunExpress"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "15:35 – 10:00+1",
+            "arrival_time": "08:10 – 05:20\n+1",
+            "duration": "15h 25min",
+            "price": "421 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "ATH",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "easyJet",
+                "SunExpress"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 03:45+1",
+            "arrival_time": "08:10 – 05:20\n+1",
+            "duration": "15h 40min",
+            "price": "539 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "BER",
+            "layover_duration": "6h 25min",
+            "airlines": [
+                "easyJet",
+                "SunExpress"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "15:35 – 09:40+1",
+            "arrival_time": "08:10 – 05:20\n+1",
+            "duration": "15h 05min",
+            "price": "473 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ATH",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "easyJet",
+                "SunExpress"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "12:00 – 06:00+1",
+            "arrival_time": "N/A",
+            "duration": "15h 00min",
+            "price": "488 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MXP",
+            "layover_duration": "4h 20min",
+            "airlines": [
+                "Turkish Airlines",
+                "flydubai"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "18:00 – 14:20+1",
+            "arrival_time": "08:10 – 05:20\n+1",
+            "duration": "17h 20min",
+            "price": "406 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 20min",
+            "airlines": [
+                "easyJet",
+                "SunExpress"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "15:35 – 10:30+1",
+            "arrival_time": "N/A",
+            "duration": "15h 55min",
+            "price": "405 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Wizz Air",
+                "flydubai"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "18:00 – 16:30+1",
+            "arrival_time": "N/A",
+            "duration": "19h 30min",
+            "price": "351 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MXP",
+            "layover_duration": "3h 35min",
+            "airlines": [
+                "easyJet",
+                "Eurowings"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 06:00+1",
+            "arrival_time": "12:00 – 03:10\n+1",
+            "duration": "17h 55min",
+            "price": "418 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DXB",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "IST",
+            "layover_duration": "3h 55min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Promotion"
+        }
+    ]
+}

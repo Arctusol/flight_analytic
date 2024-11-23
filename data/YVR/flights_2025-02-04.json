@@ -1,0 +1,44 @@
+{
+    "search_date": "2024-11-22 17:41:42",
+    "flight_date": "2025-02-04",
+    "origin": "BOD",
+    "destination": "YVR",
+    "destination_city": "Vancouver",
+    "url": "https://www.kayak.fr/flights/BOD-YVR/2025-02-04?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "18:25 – 14:50+1",
+            "arrival_time": "18:25 – 14:50+1",
+            "duration": "29h 25min",
+            "price": "1 632 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YVR",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "FRA",
+            "layover_duration": "11h 45min",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Economy Basic"
+        },
+        {
+            "departure_time": "18:25 – 14:50+1",
+            "arrival_time": "18:25 – 14:50+1",
+            "duration": "29h 25min",
+            "price": "1 632 €",
+            "origin_airport": "BOD",
+            "destination_airport": "YVR",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "FRA",
+            "layover_duration": "11h 45min",
+            "airlines": [
+                "Lufthansa"
+            ],
+            "fare_class": "Economy Basic"
+        }
+    ]
+}

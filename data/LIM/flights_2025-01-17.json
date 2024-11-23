@@ -1,0 +1,440 @@
+{
+    "search_date": "2024-11-23 08:28:42",
+    "flight_date": "2025-01-17",
+    "origin": "BOD",
+    "destination": "LIM",
+    "destination_city": "Lima",
+    "url": "https://www.kayak.fr/flights/BOD-LIM/2025-01-17?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "17:55 – 06:10+1",
+            "arrival_time": "17:55 – 06:10\n+1",
+            "duration": "18h 15min",
+            "price": "608 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIM",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 50min",
+            "airlines": [
+                "LATAM Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 19:10",
+            "arrival_time": "17:55 – 06:10\n+1",
+            "duration": "16h 05min",
+            "price": "449 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIM",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 40min",
+            "airlines": [
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 06:10+1",
+            "arrival_time": "17:55 – 06:10\n+1",
+            "duration": "18h 15min",
+            "price": "467 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIM",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 50min",
+            "airlines": [
+                "LATAM Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:15 – 06:10+1",
+            "arrival_time": "17:55 – 06:10\n+1",
+            "duration": "17h 55min",
+            "price": "505 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIM",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 50min",
+            "airlines": [
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 06:30+1",
+            "arrival_time": "N/A",
+            "duration": "18h 35min",
+            "price": "549 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIM",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:55 – 06:10+1",
+            "arrival_time": "17:55 – 06:10\n+1",
+            "duration": "18h 15min",
+            "price": "596 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIM",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "OPO",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "LATAM Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "17:55 – 06:30+1",
+            "arrival_time": "N/A",
+            "duration": "18h 35min",
+            "price": "596 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIM",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 25min",
+            "airlines": [
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 05:50+1",
+            "arrival_time": "N/A",
+            "duration": "17h 55min",
+            "price": "593 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIM",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Iberia",
+                "Air Europa"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "13:35 – 06:30+1",
+            "arrival_time": "09:05 – 19:10",
+            "duration": "22h 55min",
+            "price": "502 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIM",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 50min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "13:35 – 06:30+1",
+            "arrival_time": "09:05 – 19:10",
+            "duration": "22h 55min",
+            "price": "494 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIM",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 25min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 06:30+1",
+            "arrival_time": "09:05 – 19:10",
+            "duration": "18h 35min",
+            "price": "582 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIM",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 25min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "09:05 – 22:20",
+            "arrival_time": "09:05 – 19:10",
+            "duration": "19h 15min",
+            "price": "619 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIM",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BRS",
+            "layover_duration": "1h 25min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "10:50 – 20:00",
+            "arrival_time": "N/A",
+            "duration": "15h 10min",
+            "price": "806 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIM",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "5h 05min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "13:00 – 06:10+1",
+            "arrival_time": "09:05 – 19:10",
+            "duration": "23h 10min",
+            "price": "497 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIM",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 25min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "17:55 – 06:10+1",
+            "arrival_time": "N/A",
+            "duration": "18h 15min",
+            "price": "596 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIM",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 35min",
+            "airlines": [
+                "Iberia",
+                "LATAM Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "06:00 – 18:10",
+            "arrival_time": "N/A",
+            "duration": "18h 10min",
+            "price": "765 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIM",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CDG",
+            "layover_duration": "1h 05min",
+            "airlines": [
+                "Air France"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "17:55 – 09:25+1",
+            "arrival_time": "17:55 – 06:10\n+1",
+            "duration": "21h 30min",
+            "price": "546 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIM",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "OPO",
+            "layover_duration": "7h 00min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 19:10",
+            "arrival_time": "17:55 – 06:10\n+1",
+            "duration": "16h 05min",
+            "price": "787 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIM",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 50min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "12:30 – 06:30+1",
+            "arrival_time": "17:55 – 06:10\n+1",
+            "duration": "24h 00min",
+            "price": "540 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIM",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "AMS",
+            "layover_duration": "3h 55min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:15 – 06:30+1",
+            "arrival_time": "17:55 – 06:10\n+1",
+            "duration": "18h 15min",
+            "price": "556 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIM",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 50min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "06:00 – 18:10",
+            "arrival_time": "N/A",
+            "duration": "18h 10min",
+            "price": "765 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIM",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "5h 15min",
+            "airlines": [
+                "KLM"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "13:35 – 05:50+1",
+            "arrival_time": "17:55 – 06:10\n+1",
+            "duration": "22h 15min",
+            "price": "543 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIM",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 40min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "13:35 – 05:50+1",
+            "arrival_time": "N/A",
+            "duration": "22h 15min",
+            "price": "527 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIM",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "AMS",
+            "layover_duration": "5h 15min",
+            "airlines": [
+                "Vueling",
+                "Air Europa"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "18:15 – 05:50+1",
+            "arrival_time": "N/A",
+            "duration": "17h 35min",
+            "price": "619 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIM",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet",
+                "Air Europa"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "09:05 – 22:20",
+            "arrival_time": "18:15 – 06:10\n+1",
+            "duration": "19h 15min",
+            "price": "723 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIM",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "OPO",
+            "layover_duration": "1h 15min",
+            "airlines": [
+                "easyJet",
+                "Iberia"
+            ],
+            "fare_class": "Standard"
+        }
+    ]
+}

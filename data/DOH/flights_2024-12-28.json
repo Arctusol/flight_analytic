@@ -1,0 +1,451 @@
+{
+    "search_date": "2024-11-23 11:52:51",
+    "flight_date": "2024-12-28",
+    "origin": "BOD",
+    "destination": "DOH",
+    "destination_city": "Doha",
+    "url": "https://www.kayak.fr/flights/BOD-DOH/2024-12-28?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "11:35 – 00:55+1",
+            "arrival_time": "11:35 – 00:55\n+1",
+            "duration": "11h 20min",
+            "price": "620 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "CMN",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "11:35 – 00:55+1",
+            "arrival_time": "11:35 – 00:55\n+1",
+            "duration": "11h 20min",
+            "price": "575 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "CMN",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "07:40 – 01:05+1",
+            "arrival_time": "11:35 – 00:55\n+1",
+            "duration": "15h 25min",
+            "price": "538 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "LYS",
+            "layover_duration": "4h 00min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "11:35 – 00:55+1",
+            "arrival_time": "11:35 – 00:55\n+1",
+            "duration": "11h 20min",
+            "price": "747 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CMN",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "17:55 – 06:00+1",
+            "arrival_time": "N/A",
+            "duration": "10h 05min",
+            "price": "1 086 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CMN",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Iberia",
+                "Qatar Airways"
+            ],
+            "fare_class": "Economy Classic"
+        },
+        {
+            "departure_time": "10:30 – 03:20+1",
+            "arrival_time": "11:35 – 00:55\n+1",
+            "duration": "14h 50min",
+            "price": "620 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "CMN",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "05:58 – 23:45",
+            "arrival_time": "N/A",
+            "duration": "15h 47min",
+            "price": "971 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Qatar Airways"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "10:30 – 00:10+1",
+            "arrival_time": "N/A",
+            "duration": "11h 40min",
+            "price": "1 064 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ATH",
+            "layover_duration": "4h 55min",
+            "airlines": [
+                "Volotea",
+                "Qatar Airways"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "21:45 – 16:35+1",
+            "arrival_time": "11:35 – 00:55\n+1",
+            "duration": "16h 50min",
+            "price": "840 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "CDG",
+            "layover_duration": "5h 46min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Economy Classic"
+        },
+        {
+            "departure_time": "09:05 – 01:05+1",
+            "arrival_time": "11:35 – 00:55\n+1",
+            "duration": "14h 00min",
+            "price": "715 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "ATH",
+            "layover_duration": "4h 05min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "10:30 – 01:20+1",
+            "arrival_time": "11:35 – 00:55\n+1",
+            "duration": "12h 50min",
+            "price": "759 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "2",
+            "hand_baggage": "1",
+            "layover_airport": "BCN",
+            "layover_duration": "9h 40min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "10:30 – 05:20+1",
+            "arrival_time": "11:35 – 00:55\n+1",
+            "duration": "16h 50min",
+            "price": "641 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 25min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "10:30 – 03:20+1",
+            "arrival_time": "N/A",
+            "duration": "14h 50min",
+            "price": "710 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ATH",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "Volotea",
+                "Aegean Airlines",
+                "Egyptair"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "10:30 – 03:20+1",
+            "arrival_time": "11:35 – 00:55\n+1",
+            "duration": "14h 50min",
+            "price": "718 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ATH",
+            "layover_duration": "4h 55min",
+            "airlines": [
+                "Royal Air Maroc"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:00 – 21:25",
+            "arrival_time": "N/A",
+            "duration": "13h 25min",
+            "price": "850 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ATH",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "Air France",
+                "Etihad Airways"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "08:50 – 01:05+1",
+            "arrival_time": "N/A",
+            "duration": "14h 15min",
+            "price": "756 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ATH",
+            "layover_duration": "4h 55min",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "10:30 – 01:20+1",
+            "arrival_time": "07:40 – 01:05\n+1",
+            "duration": "12h 50min",
+            "price": "854 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "CDG",
+            "layover_duration": "2h 20min",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Light"
+        },
+        {
+            "departure_time": "10:10 – 23:55",
+            "arrival_time": "07:40 – 01:05\n+1",
+            "duration": "11h 45min",
+            "price": "1 220 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "GVA",
+            "layover_duration": "4h 05min",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 23:50",
+            "arrival_time": "07:40 – 01:05\n+1",
+            "duration": "12h 45min",
+            "price": "1 158 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LYS",
+            "layover_duration": "4h 00min",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 23:55",
+            "arrival_time": "07:40 – 01:05\n+1",
+            "duration": "12h 50min",
+            "price": "1 130 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "ATH",
+            "layover_duration": "2h 15min",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Economy Classic"
+        },
+        {
+            "departure_time": "10:30 – 01:20+1",
+            "arrival_time": "N/A",
+            "duration": "12h 50min",
+            "price": "931 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-LHR",
+            "layover_duration": "Escale de 3h 20min, ,[object Object]",
+            "airlines": [
+                "Volotea",
+                "Egyptair",
+                "Qatar Airways"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "10:30 – 05:50+1",
+            "arrival_time": "07:40 – 01:05\n+1",
+            "duration": "17h 20min",
+            "price": "695 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 50min",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "10:30 – 03:20+1",
+            "arrival_time": "N/A",
+            "duration": "14h 50min",
+            "price": "805 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Aegean Airlines",
+                "Egyptair"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "08:15 – 00:55+1",
+            "arrival_time": "N/A",
+            "duration": "14h 40min",
+            "price": "830 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 55min",
+            "airlines": [
+                "Volotea",
+                "Qatar Airways"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "13:20 – 05:50+1",
+            "arrival_time": "11:35 – 00:55\n+1",
+            "duration": "14h 30min",
+            "price": "869 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "CMN",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Royal Air Maroc",
+                "Qatar Airways"
+            ],
+            "fare_class": "Economy"
+        }
+    ]
+}

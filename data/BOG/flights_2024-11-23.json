@@ -1,0 +1,44 @@
+{
+    "search_date": "2024-11-23 05:48:04",
+    "flight_date": "2024-11-23",
+    "origin": "BOD",
+    "destination": "BOG",
+    "destination_city": "Bogota",
+    "url": "https://www.kayak.fr/flights/BOD-BOG/2024-11-23?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "17:55 – 04:20+1",
+            "arrival_time": "17:55 – 04:20+1",
+            "duration": "16h 25min",
+            "price": "1 749 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "4h 35min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Premium Economy Optimal"
+        },
+        {
+            "departure_time": "09:05 – 16:40",
+            "arrival_time": "17:55 – 04:20+1",
+            "duration": "13h 35min",
+            "price": "3 140 €",
+            "origin_airport": "BOD",
+            "destination_airport": "BOG",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "1h 45min",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Business Optimal"
+        }
+    ]
+}

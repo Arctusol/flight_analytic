@@ -1,0 +1,455 @@
+{
+    "search_date": "2024-11-23 10:33:11",
+    "flight_date": "2024-11-26",
+    "origin": "BOD",
+    "destination": "DOH",
+    "destination_city": "Doha",
+    "url": "https://www.kayak.fr/flights/BOD-DOH/2024-11-26?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "09:00 – 01:05+1",
+            "arrival_time": "09:00 – 01:05\n+1",
+            "duration": "14h 05min",
+            "price": "290 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "FCO",
+            "layover_duration": "1h 30min",
+            "airlines": [
+                "Volotea",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 01:05+1",
+            "arrival_time": "09:00 – 01:05\n+1",
+            "duration": "14h 00min",
+            "price": "250 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "LYS",
+            "layover_duration": "2h 35min",
+            "airlines": [
+                "Volotea",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "12:00 – 00:45+1",
+            "arrival_time": "09:00 – 01:05\n+1",
+            "duration": "10h 45min",
+            "price": "443 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "FCO",
+            "layover_duration": "1h 30min",
+            "airlines": [
+                "Volotea",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "12:00 – 00:10+1",
+            "arrival_time": "09:00 – 01:05\n+1",
+            "duration": "10h 10min",
+            "price": "439 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "IST",
+            "layover_duration": "2h 40min",
+            "airlines": [
+                "Volotea",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "09:35 – 01:05+1",
+            "arrival_time": "N/A",
+            "duration": "13h 30min",
+            "price": "297 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Vueling",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:00 – 01:05+1",
+            "arrival_time": "09:00 – 01:05\n+1",
+            "duration": "14h 05min",
+            "price": "291 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "IST",
+            "layover_duration": "2h 20min",
+            "airlines": [
+                "Volotea",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "06:05 – 01:05+1",
+            "arrival_time": "N/A",
+            "duration": "17h 00min",
+            "price": "257 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "2h 05min",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "17:55 – 06:00+1",
+            "arrival_time": "N/A",
+            "duration": "10h 05min",
+            "price": "602 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FCO",
+            "layover_duration": "1h 30min",
+            "airlines": [
+                "Qatar Airways"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:05 – 01:05+1",
+            "arrival_time": "09:05 – 01:05\n+1",
+            "duration": "14h 00min",
+            "price": "354 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MRS",
+            "layover_duration": "6h 15min",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:05 – 00:15+1",
+            "arrival_time": "09:05 – 01:05\n+1",
+            "duration": "13h 10min",
+            "price": "373 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Economy Classic"
+        },
+        {
+            "departure_time": "12:00 – 05:50+1",
+            "arrival_time": "09:05 – 01:05\n+1",
+            "duration": "15h 50min",
+            "price": "541 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 25min",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "09:00 – 01:05+1",
+            "arrival_time": "09:05 – 01:05\n+1",
+            "duration": "14h 05min",
+            "price": "359 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LYS",
+            "layover_duration": "2h 35min",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "18:50 – 01:05+2",
+            "arrival_time": "N/A",
+            "duration": "28h 15min",
+            "price": "258 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "IST",
+            "layover_duration": "7h 40min",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Promotion"
+        },
+        {
+            "departure_time": "07:25 – 01:05+1",
+            "arrival_time": "09:05 – 01:05\n+1",
+            "duration": "15h 40min",
+            "price": "345 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FCO",
+            "layover_duration": "2h 20min",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "17:55 – 06:00+1",
+            "arrival_time": "N/A",
+            "duration": "10h 05min",
+            "price": "873 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LYS",
+            "layover_duration": "16h 50min",
+            "airlines": [
+                "Iberia",
+                "Qatar Airways"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "17:55 – 06:00+1",
+            "arrival_time": "N/A",
+            "duration": "10h 05min",
+            "price": "876 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "LGW-STN",
+            "layover_duration": "Escale de 4h 35min, ,[object Object]",
+            "airlines": [
+                "Iberia"
+            ],
+            "fare_class": "Standard"
+        },
+        {
+            "departure_time": "09:00 – 00:15+1",
+            "arrival_time": "12:00 – 00:45\n+1",
+            "duration": "13h 15min",
+            "price": "402 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Basic Economy"
+        },
+        {
+            "departure_time": "09:35 – 23:20",
+            "arrival_time": "12:00 – 00:45\n+1",
+            "duration": "11h 45min",
+            "price": "666 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "MAD",
+            "layover_duration": "2h 10min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Basic"
+        },
+        {
+            "departure_time": "09:00 – 00:15+1",
+            "arrival_time": "12:00 – 00:45\n+1",
+            "duration": "13h 15min",
+            "price": "413 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "1",
+            "hand_baggage": "1",
+            "layover_airport": "IST",
+            "layover_duration": "2h 40min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:35 – 00:10+1",
+            "arrival_time": "12:00 – 00:45\n+1",
+            "duration": "12h 35min",
+            "price": "440 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FCO",
+            "layover_duration": "1h 30min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "09:35 – 00:15+1",
+            "arrival_time": "N/A",
+            "duration": "12h 40min",
+            "price": "438 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "4h 30min",
+            "airlines": [
+                "Vueling",
+                "Pegasus Airlines",
+                "Qatar Airways"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "07:25 – 03:45+1",
+            "arrival_time": "12:00 – 00:45\n+1",
+            "duration": "18h 20min",
+            "price": "386 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "FCO",
+            "layover_duration": "2h 20min",
+            "airlines": [
+                "Turkish Airlines"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "12:00 – 03:45+1",
+            "arrival_time": "N/A",
+            "duration": "13h 45min",
+            "price": "460 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "Turkish Airlines",
+                "Royal Jordanian"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:05 – 00:15+1",
+            "arrival_time": "N/A",
+            "duration": "16h 10min",
+            "price": "391 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "N/A",
+            "hand_baggage": "N/A",
+            "layover_airport": "BCN",
+            "layover_duration": "1h 10min",
+            "airlines": [
+                "easyJet",
+                "Pegasus Airlines",
+                "Qatar Airways"
+            ],
+            "fare_class": "Economy"
+        },
+        {
+            "departure_time": "06:05 – 23:30",
+            "arrival_time": "12:00 – 00:10\n+1",
+            "duration": "15h 25min",
+            "price": "416 €",
+            "origin_airport": "BOD",
+            "destination_airport": "DOH",
+            "is_direct": false,
+            "checked_baggage": "0",
+            "hand_baggage": "1",
+            "layover_airport": "IST",
+            "layover_duration": "2h 20min",
+            "airlines": [
+                "Turkish Airlines",
+                "Qatar Airways"
+            ],
+            "fare_class": "Economy"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "search_date": "2024-11-22 17:30:12",
+    "flight_date": "2025-02-13",
+    "origin": "BOD",
+    "destination": "LIS",
+    "destination_city": "Lisbonne",
+    "url": "https://www.kayak.fr/flights/BOD-LIS/2025-02-13?sort=bestflight_a",
+    "flights": [
+        {
+            "departure_time": "22:40 – 23:35",
+            "arrival_time": "direct",
+            "duration": "1h 55min",
+            "price": "40 €",
+            "origin_airport": "BOD",
+            "destination_airport": "LIS",
+            "is_direct": true,
+            "checked_baggage": "0",
+            "hand_baggage": "0",
+            "layover_airport": "N/A",
+            "layover_duration": "N/A",
+            "airlines": [
+                "easyJet"
+            ],
+            "fare_class": "Standard"
+        }
+    ]
+}
