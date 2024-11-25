@@ -844,13 +844,15 @@ def process_destination_with_semaphore(destination):
         print(f"\nScraping des vols pour {DESTINATIONS[destination]}")
         
         # Créer le dossier pour la destination
-        destination_dir = os.path.join("/data", destination)
+        destination_dir = os.path.join("data", destination)
         os.makedirs(destination_dir, exist_ok=True)
         
         # Générer les dates
         start_date = datetime.now().strftime("%Y-%m-%d")
         end_date = "2025-05-01"
         dates = generate_dates(start_date, end_date)
+        
+
         
         for date in dates:
             try:

@@ -466,12 +466,16 @@ for destination in destination_folders:
     def classify_flight_duration(duration):
         if pd.isna(duration):
             return None
-        if duration <= 120:  # 2h
+        elif duration <= 90:  # 1h30
+            return 'très_court'
+        elif duration <= 180:  # 3h
             return 'court'
         elif duration <= 360:  # 6h
             return 'moyen'
-        else:
+        elif duration <= 720:  # 12h
             return 'long'
+        else:
+            return 'très_long'
 
     df['flight_type'] = df['duration'].apply(classify_flight_duration)
 
@@ -711,3 +715,4 @@ def correct_coordinates_and_distance(df):
     
     logger.info(f"Corrections effectuées: {corrections['coordonnées']} coordonnées et {corrections['distances']} distances")
     return df
+
